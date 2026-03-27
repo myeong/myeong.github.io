@@ -785,6 +785,10 @@ a.pub-entry-link .pub-title {
    Publication & Project Detail Pages
    ========================================================================== */
 
+.pub-detail-image {
+  text-align: center;
+}
+
 .pub-detail-image img,
 .project-detail-image img {
   max-width: 640px;
