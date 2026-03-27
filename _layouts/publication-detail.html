@@ -32,6 +32,10 @@ layout: default
     html += '<span class="badge badge-award">' + pub.award_note + '</span>';
   }
 
+  if (pub.video) {
+    html += '<div class="project-detail-video"><video controls><source src="' + pub.video + '" type="video/mp4">Your browser does not support the video tag.</video></div>';
+  }
+
   if (pub.thumbnail) {
     html += '<div class="pub-detail-image"><img src="' + pub.thumbnail + '" alt=""></div>';
   }
