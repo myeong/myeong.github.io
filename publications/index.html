@@ -11,7 +11,7 @@ layout_class: wide-content
   <a href="{{ '/publications/type/' | relative_url }}">By Type</a>
 </div>
 
-{% assign sorted_pubs = site.data.publications | sort: "year" | reverse %}
+{% assign sorted_pubs = site.data.publications %}
 {% assign current_year = nil %}
 
 {% for pub in sorted_pubs %}

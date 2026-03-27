@@ -15,7 +15,7 @@ permalink: /publications/type/
 {% assign types = "Full Paper,Short Paper,Extended Abstract,Workshop Paper,Thesis,Poster,Report,Book Chapter" | split: "," %}
 
 {% for type in types %}
-  {% assign type_pubs = site.data.publications | where: "publication_type", type | sort: "year" | reverse %}
+  {% assign type_pubs = site.data.publications | where: "publication_type", type %}
   {% if type_pubs.size > 0 %}
     <h2 class="pub-year-heading">{{ type }} ({{ type_pubs.size }})</h2>
 
