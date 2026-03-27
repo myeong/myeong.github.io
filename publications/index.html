@@ -1,0 +1,46 @@
+---
+title: Refereed Publications
+layout: default
+layout_class: wide-content
+---
+
+<h1>Refereed Publications</h1>
+
+<div class="pub-subnav">
+  <a href="{{ '/publications/' | relative_url }}" class="active">By Year</a>
+  <a href="{{ '/publications/type/' | relative_url }}">By Type</a>
+</div>
+
+{% assign sorted_pubs = site.data.publications | sort: "year" | reverse %}
+{% assign current_year = nil %}
+
+{% for pub in sorted_pubs %}
+  {% unless pub.year == current_year %}
+    {% assign current_year = pub.year %}
+    <h2 class="pub-year-heading">{{ current_year }}</h2>
+  {% endunless %}
+
+  <div class="pub-entry">
+    {% if pub.slug %}
+    <a href="{{ '/publications/' | append: pub.slug | append: '/' | relative_url }}" class="pub-entry-link">
+    {% endif %}
+    {% if pub.thumbnail %}
+      <img src="{{ pub.thumbnail | relative_url }}" alt="" class="pub-thumbnail">
+    {% else %}
+      <div class="pub-thumbnail-placeholder"></div>
+    {% endif %}
+    <div class="pub-details">
+      <div class="pub-title">
+        {{ pub.title }}
+        {% if pub.award_note %}
+          <span class="badge badge-award">{{ pub.award_note }}</span>
+        {% endif %}
+      </div>
+      <div class="pub-venue">{{ pub.venue }}</div>
+      <div class="pub-authors">
+        {{ pub.authors | replace: "Myeong Lee", "<span class='myeong'>Myeong Lee</span>" | replace: "Myeong", "<span class='myeong'>Myeong</span>" }}
+      </div>
+    </div>
+    {% if pub.slug %}</a>{% endif %}
+  </div>
+{% endfor %}

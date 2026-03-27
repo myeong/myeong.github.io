@@ -1,0 +1,1742 @@
+---
+- year: 2026
+  title: 'Organizational Ecology of Hyperlocal Groups: How Does Category Fuzziness
+    Relate to Participation in an Event-Based Social Network?'
+  slug: organizational-ecology-of-hyperlocal-groups-how-does-category-fuzziness-relate
+  authors: Myeong Lee, Olga Gkountouna, Ron Mahabir, Jieshu Wang, Tokunbo Fadahunsi
+  venue: "[forthcoming] Sage Open"
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/meetup_stat.png"
+  body: '<p>Social categories serve as key anchors for organizations and groups, helping
+    to establish their identities and positions within conceptual spaces such as market
+    and cultural niches. Researchers have examined the social categorization of both
+    online communities and offline organizations through tags, folksonomies, and news
+    outlets. While these studies have provided valuable insights into the success
+    of online communities and formal organizations, the relationship between social
+    categories and the organizational processes of hyperlocal groups remains unclear.
+    Hyperlocal groups typically form and interact online through event-based social
+    networks (EBSNs) while their activities take place offline. As a result, the structures
+    of competition and individuals’ participation patterns may differ from those of
+    online communities and formal organizations. This paper examines how ecological
+    features, such as legitimation, competition, and category fuzziness, shape group
+    membership and participation on an EBSN. Based on a retrospective analysis of
+    2017 Meetup data, a widely used EBSN platform, this study applies and extends
+    organizational ecology theory to offer new insights into the ecological dynamics
+    of hyperlocal groups in major U.S. cities.</p> <p>*This project was supported
+    by resources provided by the Office of Research Computing at George Mason University
+    (URL: <a href="https://orc.gmu.edu">https://orc.gmu.edu</a>, NSF #2018631) and
+    funded in part by grants from the National Science Foundation (Award #2217706).</p>
+    <p>*Myeong Lee is the corresponding author.</p>'
+- year: 2026
+  title: 'Care Workers'' Risk Work: How Nannies Manage Invisible Threats in Employers''
+    Homes'
+  slug: care-workers-risk-work-how-nannies-manage-invisible-threats-employers-homes
+  authors: Seungmin Jeong, Jamie Lee, Myeong Lee, Yunan Chen
+  venue: "[forthcoming] Proceedings of the CHI Conference on Human Factors in Computing
+    Systems (CHI '26). Apr. 13-17. Barcelona, Spain"
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/nanny.jpeg"
+  body: "<p>Extending prior HCI and CSCW research on invisible challenges that domestic
+    care workers face, we examine how childcare workers, particularly nannies, experience
+    and manage workplace risks. Drawing on interviews with 21 full-time nannies, we
+    identified three interrelated risks—physical, emotional, and financial—arising
+    from structural and relational constraints in employers’ homes. Through the lens
+    of risk work, we show how these multi-dimensional constraints create tensions
+    that hinder nannies' direct risk mitigation strategies. This often compels them
+    to prioritize indirect risk management to avoid tensions, leaving risks themselves
+    unresolved. We underscore that these practices consequently leave risks and tensions
+    invisible. Our study highlights the need for sociotechnical interventions that
+    support both direct and indirect strategies while addressing the underlying constraints
+    through enhanced public awareness, thereby making domestic childcare workers’
+    workplace risks more visible and better understood.</p>"
+- year: 2026
+  title: 'Designing for Upstream Work: Learnings from Co-Design for Preventative Solutions
+    with Urban Fire Departments'
+  slug: designing-for-upstream-work-learnings-from-co-design-for-preventative-solutions
+  authors: Rachel Warren, Ruchita Mandhre, Hiba Siraj, G. Mauricio Mejia, Myeong Lee,
+    Yunan Chen, Kathleen Pine
+  venue: "[forthcoming] Proceedings of the CHI Conference on Human Factors in Computing
+    Systems (CHI '26). Apr. 13-17. Barcelona, Spain"
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/fig2.jpeg"
+  body: "<p>Public health and social welfare fields increasingly recognize the need
+    for preventative interventions that address root causes rather than respond to
+    emergent problems – yet face significant challenges in designing tools and demonstrating
+    success for such initiatives. We characterize these important, but difficult to
+    develop and scale solutions using Dan Heath’s term “upstream work”. We then explore
+    design solutions to support upstream work through a multi-phase co-design process
+    to assist fire departments developing alternate EMS response programs to reduce
+    911 call volume. We contribute to literature on designing to support data practices
+    in community organizations and further delineate the key challenge of these programs
+    as upstream initiatives: demonstrating success to stakeholders. We then present
+    our co-designed prototype, a data dashboard to visibilize and track the outcomes
+    of alternate EMS response programs for different stakeholder audiences, and detail
+    good practices for designing to support local and community based upstream initiatives.  </p>"
+- year: 2026
+  title: 'Local News at a Distance: Psychological Distance and the Formation of News
+    Deserts'
+  slug: local-news-at-a-distance-psychological-distance-and-the-formation-of-news-deserts
+  authors: Tugce Gundogdu, Jieshu Wang, Brian S. Butler, Myeong Lee
+  venue: Information Research an international electronic journal (iConference). 31(iConf(2026)).
+    pp. 1042-1053. Mar. 29-Apr. 2. Edinburgh, U.K.
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/psych.png"
+  body: "<p>News deserts, geographical areas with little or no local news due to a
+    lack of resources or news organizations, pose challenges to civic engagement and
+    democratic life (Abernathy, 2023). Local news not only documents events but also
+    shapes public perception of space and place in particular times by connecting
+    geographic locations through stories. This paper proposes a framework linking
+    news deserts to psychological distance using Construal-Level Theory (CLT) (Trope
+    &amp; Liberman, 2010). This study conducts a literature review-based conceptual
+    analysis, integrating news desert research with psychological distance research.
+    A preliminary case study of news articles illustrates the framework using city
+    co-mention networks. CLT defines psychological distance as the perceived closeness
+    of events across spatial, temporal, social, or hypothetical dimensions. City co-mention
+    networks show how news reduces distance by situating events concretely, while
+    deserts expand distance, rendering issues abstract and less urgent. News deserts
+    emerge not only as gaps in supply but as psychological deserts, where weak or
+    absent linkages isolate places and diminish engagement. Psychological distance
+    reframes news deserts as both structural and experiential. This perspective enables
+    new research agendas, including quantifying psychological distance, defining psychological
+    deserts, comparing across outlets, and linking textual patterns to audience perceptions.</p>
+    <p>* This paper is an outcome of GMU's Undergraduate Research Scholars Preogram
+    (URSP) sponsored by the Office of Student Creative Activities and Research (OSCAR).
+    The 1st author, Tugce Gundogdu, is the URSP student for Fall 2025. </p>"
+  external_link: https://doi.org/10.47989/ir31iConf64259
+- year: 2026
+  title: 'Disability Misinformation on Facebook: A Comparison of LLM-based Fact-Checking
+    Tools'
+  slug: disability-misinformation-on-facebook-a-comparison-of-llm-based-fact-checking
+  authors: Ian Prazak, Leah Padovani, Yool Lim, Julia H.P. Hsu, Myeong Lee
+  venue: Information Research an international electronic journal (iConference). 31(iConf(2026)).
+    pp. 1042-1053. Mar. 29-Apr. 2. Edinburgh, U.K.
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/Fig2_a.jpg"
+  body: "<p>Social media has become a prominent space for seeking and sharing information,
+    but it also enables misinformation to spread. When it comes to disability-related
+    information, such as how to apply for a Medicaid waiver, understanding and detecting
+    the prevalence of false information on social media becomes further complicated
+    due to varying policies that keep changing over time. To provide an initial exploration
+    of this problem space, we investigated misinformation propensity within disability-related
+    Facebook groups, organizational factors associated with it, and how AI fact-checking
+    tools perform in detecting this type of information. We first identified target
+    Facebook groups from a large-scale survey. From 20 public Facebook groups mentioned
+    in the survey, we web-scrapped 1,407 informational and fact-checkable posts. GPT-4o,
+    GPT-o1, and Originality.ai were used to classify posts. The results were validated
+    against the ground-truths generated manually. Our findings reveal that groups
+    centered on developmental disabilities are more vulnerable to misinformation.
+    AI fact-checking tools proved effective in classifying accurate information but
+    presented varying performance in detecting misinformation. This work provides
+    a preliminary assessment of the prevalence of misinformation and the performance
+    of LLM-based tools.</p> <p>* This paper is an outcome of the ASSIP internship
+    at Mason, designed for high school and undergraduate students, in 2024.</p>"
+  external_link: https://doi.org/10.47989/ir31iConf64259
+- year: 2026
+  title: 'Predicting the Success of Local Gatherings: A Comparison of Organizer- and
+    Participant-side Success in Meetup'
+  slug: predicting-the-success-of-local-gatherings-a-comparison-of-organizer-and
+  authors: Julia Hsin-Ping Hsu, Ron Mahabir, Victoria Gonzales, Olga Gkountouna, Amr
+    Hilal, Myeong Lee
+  venue: Cities. 169. 106530. Elsevier.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/nyc_meetup.jpg"
+  body: "<p>This study examines the dynamics of local community gatherings facilitated
+    by EventBased Social Networking platforms, a growing mode of social interaction
+    in urban settings. While these platforms are increasingly used to organize real-world
+    events, limited research has explored the factors that shape the success of these
+    events across diverse city environments and how local socio-spatial contexts influence
+    participation and engagement. To address this gap, we analyze a large-scale dataset
+    of over one million events across 500 US cities, the largest city cohort to date,
+    and present the most comprehensive work combining geospatial, community, and eventspecific
+    features to predict event success. Separate models are developed for event participants
+    and organizers to capture differing motivations and success criteria. The results
+    reveal that participant engagement is more strongly influenced by community characteristics,
+    whereas organizer outcomes are shaped by a broader combination of features. Consistent
+    patterns in event category preferences, such as high participation in fitness-related
+    events, highlight the influence of socio-cultural dynamics. Furthermore, city-level
+    differences underscore the importance of local context, with success rates varying
+    independently of city size. These findings not only align with key sociological
+    theories on urban interaction and digital participation, but also provide actionable
+    insights for platform designers, community organizers, and policymakers seeking
+    to enhance local engagement. Ultimately, this study highlights the need to account
+    for socio-spatial heterogeneity when interpreting or designing digital systems
+    that support urban community life.</p> <p> </p> <p>*This study was funded by 4VA
+    at Mason. </p>"
+  external_link: https://doi.org/10.1016/j.cities.2025.106530
+- year: 2025
+  title: 'Leveling Socioeconomic Disparities: The Role of Service Availability in
+    School Dropout Rates'
+  slug: leveling-socioeconomic-disparities-the-role-of-service-availability-in-school
+  authors: Jinyi Kim, Julia H.-P. Hsu, Gahyun Sohn, Gie Myung Lee, Myeong Lee
+  venue: "[in press] Research on Social Work Practice (RSWP)"
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/dropout.png"
+  body: <p align="left"><strong>Purpose:</strong> Adolescent school dropout remains
+    a major concern in the United States, accounting for 5.3% of the entire high school
+    students in 2022. This study aims to investigate the relationships between socioeconomic
+    status (SES), the availability of mental health and substance use treatment facilities,
+    and school dropout rates across thirteen states.</p> <p align="left"><strong>Method:</strong>
+    We used geospatial and machine learning techniques to integrate datasets and impute
+    missing values. Regression analyses were used to examine the relationships among
+    SES, service availability, and dropout rates.</p> <p align="left"><strong>Results:</strong>
+    Our findings suggest that computational techniques can help conduct multi-state
+    analysis of educational data. The availability of services negatively moderates
+    the relationship between SES and dropout.</p> <p align="left"><strong>Discussion:</strong>
+    This study demonstrates the potential of geospatial and machine learning techniques
+    for multi-level analysis. The findings provide implications for social work, public
+    policy, and education, indicating that community-level resources may serve as
+    protective factors in supporting youth educational continuity.</p> <p align="left"> </p>
+    <p align="left">* This article has been accepted to the Special Issue on <em>Emerging
+    Computational Approaches for Social Work Research and Practice</em>.</p> <p align="left">*
+    Myeong Lee is the corresponding author. </p> <p align="left">* This research was
+    supported in part by the Institute for Digital InnovAtion (IDIA) at George Mason
+    University.</p>
+  external_link: https://journals.sagepub.com/eprint/MTYMIPIPFFK9GMJNE5CT/full
+- year: 2025
+  title: 'Quantifying Urban Change across U.S. Cities using the 1930s Redlining Maps:
+    A Preliminary Study'
+  slug: quantifying-urban-change-across-us-cities-using-the-1930s-redlining-maps
+  authors: Giemyung Lee, Myeong Lee
+  venue: Proceedings of the Association for Information Science and Technology (ASIST
+    '25). 62(1). pp. 1532-1534. Wiley. Nov 14-18. Washington D.C.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/maps.png"
+  body: "<p>A wide range of studies has explored historical events and their long-term
+    impacts, with urban redevelopment, particularly in the contexts of urban renewal,
+    gentrification, and redlining, emerging as a rich area of research. However, despite
+    extensive attention to its causes and consequences, quantifying how urban structures
+    have changed over time remains methodologically challenging, as scanned historical
+    maps contain visual noise and annotation. While some computational methods have
+    been developed to quantify street networks, they are often limited in applying
+    to historical maps and their differences. This study proposes a computational
+    method to measure urban transformation by comparing contemporary road structures
+    with those from historical maps. Using the 1930’s redlining maps as a case study,
+    we extract road features and quantify urban structural change over time. The preliminary
+    analysis sheds light on studies focused on urban transformation and redevelopment,
+    aiding researchers and policymakers in understanding the spatial legacy of historical
+    policies.</p>"
+  external_link: https://doi.org/10.1002/pra2.1458
+- year: 2025
+  title: '"We Just Get Frustrated": Exploring Factors that Shape Information Provision
+    in Disability Services'
+  slug: we-just-get-frustrated-exploring-factors-that-shape-information-provision-in
+  authors: Latifah Abubakr, Samantha Whitman, Tulsi Shrivastava, Kathleen Pine, Pyeonghwa
+    Kim, Myeong Lee
+  venue: Proceedings of the Association for Information Science and Technology (ASIST
+    '25). 62(1). pp. 1333-1335. Wiley. Nov 14-18. Washington D.C.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/info_provision.png"
+  body: "<p>This study investigates how disability providers engage in information
+    provision within a fragmented disability service system. Through interviews with
+    61 providers from state, local, and nonprofit agencies from the state of Virginia,
+    we identify two descriptive patterns of organizational information practices and
+    five multi-level shaping factors: system disintegration, bureaucratic complexity,
+    provider expertise, user technological readiness, and community trust. We show
+    how these factors interact, producing layered strategies that providers develop
+    to maintain and simplify information provision across fragmented and shifting
+    service environments. These findings reframe information provision not as a linear
+    transaction, but as a relational and adaptive practice shaped by institutional
+    gaps and infrastructural complexity. The study offers a grounded account of how
+    disability providers manage and coordinate information work in disability systems.</p>"
+  external_link: https://doi.org/10.1002/pra2.1395
+- year: 2025
+  title: 'Spatial Dynamics of Local News: Mapping City Co-Mentions in Alabama'
+  slug: spatial-dynamics-of-local-news-mapping-city-co-mentions-in-alabama
+  authors: Jieshu Wang, Tugce Burcu, Brian S. Butler, Myeong Lee
+  venue: Proceedings of the Association for Information Science and Technology (ASIST
+    '25). 62(1). pp. 1708-1710. Wiley. Nov 14-18. Washington D.C.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/cooccuring.png"
+  body: "<p>This study investigates how the relationships between cities are represented
+    in local news by analyzing co-mentions of cities in 31,004 news articles from
+    Alabama. Using a large language model, we extract geographic references and construct
+    co-mention networks that reflect both spatial proximity and symbolic connections.
+    To interpret these links, we develop a classification framework of relationships
+    between cities, including common impacts and sequential dynamics. Our preliminary
+    analysis reveals that different news categories produce distinct patterns of spatial
+    association. This approach offers a novel methodology and a new lens for understanding
+    media-driven spatial imaginaries, contributing to research on information geographies
+    and shedding light on the relational dimensions of local information.</p>"
+  external_link: https://doi.org/10.1002/pra2.1516
+- year: 2025
+  title: 'News Deserts as Information Problems: A Case Study of Local News Coverage
+    in Alabama'
+  slug: news-deserts-as-information-problems-a-case-study-of-local-news-coverage-in
+  authors: Jieshu Wang, Tugce Burcu, Rebecca Ivic, Brian S. Butler, Myeong Lee
+  venue: Proceedings of the Association for Information Science and Technology (ASIST
+    '25). 62(1). pp. 741-753. Wiley. Nov 14-18. Washington D.C.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/news_deserts.png"
+  body: "<p>This paper explores the phenomenon of news deserts as information problems
+    to navigate research opportunities and theorize its dynamics. Drawing on the theory
+    of local information landscapes, news deserts are conceptualized as more than
+    merely an absence of news organizations or content; rather, emphasizing the structural
+    and material dimensions of local news ecosystems, such as fragmentation, transience,
+    and inconsistent distribution. We argue that news deserts should be understood
+    as material pre-conditions of people’s access, interpretation, and engagement
+    with information. To empirically ground this framework, we conduct a case study
+    in Alabama, using over 30,000 news articles from a local television news operation.
+    Through geographic, thematic, and temporal analyses, paired with population and
+    crime statistics, we uncover patterns of underreporting, geographic bias, and
+    thematic concentration. Our findings demonstrate that news deserts can emerge
+    even in areas served by active news outlets, contributing to a broader understanding
+    of the uneven distribution of local information, vital for civic engagement and
+    community well-being.</p> <p>* Myeong Lee is the corresponding author. </p>"
+  external_link: https://doi.org/10.1002/pra2.1293
+- year: 2025
+  title: 'From Open-Ended Text to Taxonomy: An LLM-based Framework for Information
+    Sources for Disability Services'
+  slug: from-open-ended-text-to-taxonomy-an-llm-based-framework-for-information-sources
+  authors: Julia H.P. Hsu, Myeong Lee
+  venue: Proceedings of the Association for Information Science and Technology (ASIST
+    '25). 62(1). pp. 915-919. Wiley. Nov 14-18. Washington D.C.
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/hsu_asist.jpg"
+  body: "<p>People with disabilities (PWD) and their family members often find it
+    difficult to find information about available services. One of the approaches
+    to address this information access problem is by understanding the ecology of
+    available information sources. However, identifying the landscape of information
+    sources is challenging due to the variety of sources and their varying visibility.
+    This study proposes a computational approach to processing open-ended survey answers
+    by constructing a hierarchical taxonomy of information sources. We developed a
+    semi-automated, LLM-based framework to build a taxonomy of information sources
+    from open-ended survey answers. The resulting 3-tier taxonomy captures broad categories
+    and fine-grained entities, supporting multi-level analysis of information sources.
+    This work explores the feasibility of LLM-based taxonomy building and offers a
+    scalable framework for processing open-ended texts.</p> <p> </p> <p>* This research
+    was supported by the Virginia Board for People with Disabilities (VBPD).</p>"
+  external_link: https://doi.org/10.1002/pra2.1313
+- year: 2025
+  title: 'Information Awareness, Access, and Socioeconomic Deprivation: A Cross-Jurisdictional
+    Study of Local Health Information'
+  slug: information-awareness-access-and-socioeconomic-deprivation-a
+  authors: Sanghee Oh, Myeong Lee, Jongwook Lee
+  venue: "[in press] Aslib Journal of Information Management"
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/aslib.png"
+  body: '<p align="left"><strong>Purpose</strong>: This study investigated the relationship
+    among information awareness, access, and socioeconomic deprivation in the context
+    of local health information. Drawing on theories of information poverty and the
+    digital divide, this study examined how socio-economic deprivation influences
+    individuals’ ability to become aware of and access local health information.</p>
+    <p align="left"><strong>Methodology:</strong> Using survey data from three jurisdictions
+    in South Korea’s Seoul Metropolitan Area, this study examined how socio-economic
+    factors influence information awareness and access at both the macro level (jurisdiction)
+    and the micro level (individual).</p> <p align="left"><strong>Findings:</strong>
+    The findings revealed significant differences in information awareness and access
+    across jurisdictions with varying levels of socio-economic deprivation. Participants
+    from areas with lower socioeconomic deprivation reported greater confidence in
+    their ability to access and evaluate health information. At an individual level,
+    socio-economic deprivation negatively affected information awareness and access.
+    Information awareness was shown to mediate the effects of socio-economic deprivation
+    on information access, although the degree of mediation varied across different
+    dimensions of information access, such as physical, intellectual, and social access.</p>
+    <p align="left"><strong>Originality:</strong> The study contributes to the literature
+    focused on digital divide, information poverty, and local information landscapes
+    by studying information awareness as a mediator in shaping information access.
+    The findings of this study can guide health information service providers and
+    system designers in developing customized strategies that cater to the unique
+    needs of various communities and socio-economic groups.</p> <p align="left">*
+    Myeong Lee is the corresponding author.</p> <p align="left">* This study was supported
+    by the Samsung Research Fund of Sungkyunkwan University (2022). Ethical concerns
+    regarding the survey protocols and processes were approved by the Institutional
+    Review Board (IRB) of the first author’s institution (IRB #SKKU 2023-10-013).</p>'
+  external_link: https://doi.org/10.1108/AJIM-11-2024-0863
+- year: 2025
+  title: Mapping Risk Work and Designing Technologies to Support it in CSCW Research
+  slug: mapping-risk-work-and-designing-technologies-to-support-it-in-cscw-research
+  authors: Myeong Lee, G. Mauricio Mejia, Rachel Warren, Yunan Chen, Hiba Siraj, Melissa
+    Mazmanian, Ruchita Mandhre, Kathleen Pine
+  venue: Companion of the ACM Conference on Computer Supported Cooperative Work and
+    Social Computing (CSCW '25). pp. 178-182. ACM. Oct 18-22. Bergen, Norway.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/riskwork.png"
+  body: "<p>This workshop brings together CSCW scholars of various domains, such as
+    medicine and healthcare, disaster planning, and public safety, to consider different
+    dimensions of risk work and their implications on computing. Risk work encompasses
+    the practices through which workers assess, manage, and mitigate potential harms
+    in situations framed by uncertainty. In the face of a pervasive rhetoric of crisis,
+    risk work is expanding and evolving as workers and laypeople are increasingly
+    charged with preventing, predicting, and communicating risks. The changing landscape
+    of risk work is coupled with expanding technical infrastructure that shapes communication,
+    determines information sharing, and includes technologies of data collection and
+    prediction. In this workshop, we aim to examine the challenges and opportunities
+    in designing computing systems that support risk work in order to develop a research
+    agenda for studying the future of risk work. Participants will come ready to present
+    on case studies of risk work. We will then engage in collaborative mapping exercises
+    and design practices to identify both the potential and pitfalls of technologies
+    to support risk work. The workshop will culminate in a shared research agenda
+    and design strategies for the future of computing in risk work contexts.</p> <p> </p>
+    <p>* This research is supported by National Science Foundation (NSF) #2211360. </p>
+    <p>* This paper is a workshop proposal, which will be held in CSCW 2025. </p>"
+  external_link: https://doi.org/10.1145/3715070.3748299
+- year: 2025
+  title: Exploring Librarians' Experiences and Perceptions of Public Library Data
+    Work
+  slug: exploring-librarians-experiences-and-perceptions-of-public-library-data-work
+  authors: Jongwook Lee, Sun Jae Park, Myeong Lee, Sanghee Oh
+  venue: Journal of Korean Library and Information Science Society, 56(1). 55-77.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/stat_process.png"
+  body: "<p>This study investigates the experiences and concerns of public librarians
+    responsible for statistical data management and explores strategies to address
+    related challenges. In-depth interviews were conducted with ten librarians handling
+    statistical tasks at public libraries in Metropolitan City A and Province B in
+    the Yeongnam region. Findings revealed that librarians had established a systematic
+    workflow involving data collection, internal verification, data entry, and external
+    verification. Effective communication between the overall statistics coordinator
+    and department-specific data collectors ensured efficient task distribution and
+    discussions on data collection standards. Recognizing the importance of public
+    library statistics in performance evaluation and policy development, they employed
+    strategies such as utilizing backup data, conducting internal consultations, and
+    addressing external inquiries to maintain data accuracy and consistency. Despite
+    these efforts, issues such as varying interpretations of survey items, unstable
+    data management systems, and data entry errors were reported. This study’s findings
+    are expected to improve the understanding of public library statistical tasks
+    and contribute to enhancing survey methods and workflow processes.</p> <p> </p>
+    <p>The paper is published in Korean. </p>"
+  external_link: http://dx.doi.org/10.16981/kliss.56.1.202503.55
+- year: 2024
+  title: Bridging Traditional Digital Humanities and Archives through Computational
+    Archival Science
+  slug: bridging-traditional-digital-humanities-and-archives-through-computational
+  authors: Richard Marciano, Rosemary Grant, Alexis Hill, Phillip Nicholas, Noah Scheer,
+    Alan Wierdak, Mark Conrad, Ray McCoy, Myeong Lee, Priscilla Robinson
+  venue: The Routledge Companion to Libraries, Archives, and the Digital Humanities
+  publication_type: Book Chapter
+  thumbnail: "/assets/images/publications/cas_book.png"
+  body: "<p>As libraries and archives across the world are planning an increasingly
+    digital records future, there is a critical need to strengthen digital and computational
+    literacy and training for future librarians and archivists. Acute “skills and
+    management gaps in libraries” have been recognised which highlight the need for
+    greater automation in library work, the facilitation of computational research,
+    and the need for library managers to understand and value the benefits of in-house
+    data science skills. This chapter presents a timely and impactful case study at
+    the intersection of Computational Archival Science and Digital Humanities, focusing
+    on the legacy of urban renewal in Asheville, North Carolina in the United States.
+    Between 1965 and 1980, housing policies were enacted that ultimately displaced
+    and erased African American businesses and communities with traumatic and lasting
+    effects. A Community Reparations Commission for Black Asheville was formed in
+    March 2022 and charged with developing recommendations to be presented to the
+    Asheville City Council and County Commission to repair the harm done by decades
+    of racial discrimination and systemic oppression against Black Asheville residents.</p>"
+  external_link: https://doi.org/10.4324/9781003327738
+- year: 2024
+  title: 2024 Assessment of Virginia's Information Ecology of the Disability Services
+    System
+  slug: 2024-assessment-of-virginias-information-ecology-of-the-disability-services
+  authors: Myeong Lee, Latifah Abubakr, Tulsi Shrivastava, Julia H.P. Hsu, Samantha
+    A. Whitman, Pyeonghwa Kim
+  venue: Annual Assessments Reports by Virginia Board for People with Disabilities
+    (VBPD)
+  publication_type: Report
+  thumbnail: "/assets/images/publications/vbpd.png"
+  body: "<p>Access to disability services information depends on many factors, from
+    an individual’s digital literacy, social connections and physical mobility to
+    the interface design of websites. However, it is also true that the availability
+    of disability services information (e.g., how to apply for a Medicaid Waiver)
+    and how such information is managed and provided to end users in Virginia are
+    also critical factors that shape people’s information access. This assessment
+    focuses on understanding the latter, namely, the “information ecology” of disability
+    services in Virginia. Specifically, we examine how service providers, both governmental
+    and non-governmental agencies, manage information about disability services, the
+    challenges staff face in providing information, and how different types of information
+    are communicated and shared across different providers.</p> <p>Findings based
+    on survey and interview data analysis suggest that service providers in different
+    sectors face common challenges in managing and providing information to people
+    with disabilities and their family members. Still, providers also must deal with
+    unique challenges specific to their service sectors. For example, common challenges
+    in managing and providing information include language barriers, community outreach
+    to underrepresented groups, misinformation and resource constraints. Meanwhile,
+    state agencies reported that they found it difficult to manage and provide information
+    consistently due to staff turnover, inconsistent workflows and varying use of
+    information systems. Local agencies, such as Community Services Boards (CSBs),
+    often took on additional work as they provided information to people from other
+    jurisdictions or states. Non-governmental agencies, such as nonprofits and advocacy
+    organizations, often became a first-stop shop for any informational queries, as
+    many people found it easier to contact non-governmental agencies rather than go
+    directly to governmental agencies.</p> <p>Within the information ecology of disability
+    services, diverse providers play different roles in providing information about
+    disability services while sometimes being disconnected from each other, creating
+    “information silos.” We developed recommendations to reduce the managerial and
+    ecological issues hindering people’s information access. Implementing these recommendations
+    would help the Commonwealth continue to improve the management of key information
+    in Virginia, allowing people to have consistent access to information through
+    diverse channels.</p> <p> </p> <p><em>* This report is officially published by
+    VBPD (non-referreed; board-reviewed).</em></p> <p><em>* We thank VBPD Director
+    Teri Morgan, Linh Nguyen, Dr. Katie Pine, Victoria Gonzales for their contributions
+    to this report.</em></p> <p><em>* Funding for this project/product was supported,
+    in part, by the Virginia Board for People with Disabilities, under grant number
+    2301VASCDD, from the U.S. Administration for Community Living (ACL), Department
+    of Health and Human Services, Washington, D.C. 20201. Grantees undertaking projects
+    with government sponsorship are encouraged to express their findings and conclusions.
+    Points of view or opinions do not, therefore, necessarily represent official ACL
+    policy.</em></p>"
+  external_link: https://vbpd.virginia.gov/wp-content/uploads/2024/08/2024-Assessement-of-Information-Ecology.pdf
+- year: 2024
+  title: 'Understanding Information Managers: A Thematic Analysis of Information Challenges
+    of Disability Service Providers'
+  slug: understanding-information-managers-a-thematic-analysis-of-information-challenges
+  authors: Latifah Abubakr, Tulsi Shrivastava, Samantha Whitman, Kathleen Pine, Myeong
+    Lee
+  venue: Companion of the ACM Conference on Computer Supported Cooperative Work and
+    Social Computing (CSCW '24). pp. 629-634. Nov 9-13. San Jose, Costa Rica.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/Picture1.png"
+  body: "<p>This paper details an investigation into the information management challenges
+    encountered by disability service providers. Prior research has mainly focused
+    on understanding the information management challenges related to user records
+    or internal organizational systems. However, this study posits that the information
+    access patterns of disability services users are significantly influenced by their
+    interactions with service providers’ information management practices in localized
+    settings. To explore the challenges associated with accessing disability services
+    information, we interviewed 20 employees from local agencies in Virginia involved
+    in managing disability services and related information. Qualitative analysis
+    revealed four themes related to such information challenges: quality of information,
+    rural access, jurisdictional boundaries, and overwork/emotional work for information
+    providers who are supporting those in need of disabilities services. These findings
+    serve as a foundational step towards a more comprehensive understanding of how
+    organizational information sharing practices and information access for people
+    with disabilities are shaped within both organizations and a wider community context. </p>
+    <p>* <em>This study is supported by the Virginia Board for People with Disabilities
+    (Grant# GMU-3-2023). We also thank anonymous reviewers, Teri Morgan, Linh Nguyen,
+    Pyeonghwa Kim, Victoria Gonzales, and Julia H.P. Hsu for their help and advice
+    for this study. </em></p> <p><em>* Funding for this project supported, in part,
+    by the Virginia Board for People with Disabilities, under grant number 2301VASCDD,
+    from the U.S. Administration for Community Living (ACL), Department of Health
+    and Human Services, Washington, D.C. 20201. Points of view or opinions do not,
+    therefore, necessarily represent official ACL policy.</em></p>"
+  external_link: https://doi.org/10.1145/3678884.3681917
+- year: 2024
+  title: New Kids on the Block? Exploring Onboarding Strategies of Prospective Professionals
+    in Cybersecurity
+  slug: new-kids-on-the-block-exploring-onboarding-strategies-of-prospective
+  authors: Matthew A. Willis, Myeong Lee
+  venue: Americas Conference on Information Systems (AMCIS '24). 27. August 15-17.
+    Salt Lake City, UT.
+  publication_type: Short Paper
+  award_note: Selected for Top 25% Papers
+  thumbnail: "/assets/images/publications/cybersecurity.jpeg"
+  body: "<p>This paper explores how prospective professionals, including those outside
+    of educational institutions, approach entering the cybersecurity field. Through
+    qualitative interviews with individuals planning a cybersecurity career, we explore
+    diverse challenges they face during their journey to enter the profession. Our
+    preliminary analysis suggests their challenges may include a lack of awareness
+    of occupational culture, insufficient domain-specific language, visibility into
+    the practitioner community, and differences in expectations between new and practicing
+    professionals. By complementing prior research focused on university education
+    and training programs, this work aims to uncover the challenges of individuals
+    on a broader spectrum, such as those attempting to change careers and “break in”
+    to the profession.</p>"
+  external_link: https://aisel.aisnet.org/amcis2024/is_education/is_education/27
+- year: 2024
+  title: 'Data Discretion: Screen-Level Bureaucrats and Municipal Decision-Making'
+  slug: data-discretion-screen-level-bureaucrats-and-municipal-decision-making
+  authors: Eric Gordon, John Harlow, Samantha Whitman, Myeong Lee
+  venue: 'Digital Government: Research and Practice (DGOV), 5(2). pp. 1-14. ACM.'
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/bureaucracies.png"
+  body: "<p>Public servants tasked with implementing rules or policies on the street-level
+    often make discretionary decisions based on local context. Lipsky has labeled
+    them street-level bureaucrats. During the COVID-19 pandemic, as most face-to-face
+    interactions facilitated by local government moved online, many street-level decisions
+    were moved to screens, representing the actions of who Bouvins and Zouridis refer
+    to as screen-level bureaucrats. Discretionary decision-making among public servants
+    continued, but much of it centered on the collection, analysis, and use of data.
+    This paper reports on research conducted in 2021 with municipal employees in a
+    large Northeastern city in the United States, and examines their changing relationship
+    with data in determining how and to whom they deliver services. In the context
+    of a public health crisis, public servants exercised “data discretion” to rapidly
+    alter services and to internally advocate for underserved populations. The specific
+    practices of discretionary decision making are explored through candid interviews
+    with public servants. The discussion explores how these emergent practices might
+    persist post crisis, how discretion is counter-intuitively used to build trust
+    in government, and how data discretion is not limited only to the progressive
+    values manifested in the example of a Northeastern city.</p>"
+  external_link: https://doi.org/10.1145/3652950
+- year: 2024
+  title: An Evaluation of GPT-4V for Transcribing the Urban Renewal Hand-Written Collection
+  slug: an-evaluation-of-gpt-4v-for-transcribing-the-urban-renewal-hand-written
+  authors: Myeong Lee, Julia H.P. Hsu
+  venue: In Digital Humanities (DH 2024). ADHO. Aug. 6-9. Arlington, VA.
+  publication_type: Short Paper
+  award_note: Conference Bursary Award
+  thumbnail: "/assets/images/publications/ur.png"
+  body: "<p>In November 2024, OpenAI released GPT- 4V(ision), which includes Optical
+    Character Recognition (OCR) capabilities. Given that much of the data curation,
+    processing, and cleaning can be managed through user-friendly prompts (i.e., chat),
+    we aim to conduct an initial assessment of GPT-4V’s effectiveness in transcribing
+    hand-written documents from the urban renewal collection. If GPT-4V can accurately
+    digitize hand-written documents through carefully crafted prompts, it could become
+    a valuable tool for nonexperts in transcribing historical documents on a large
+    scale. Alternatively, if it falls short, it is still crucial to understand and
+    discuss the implications of using Large Language Models (LLMs) for digitizing
+    archival documents.</p> <p>This paper evaluates GPT-4V’s performance in transcribing
+    the cover pages of selected urban renewal documents. These cover pages, all handwritten
+    and generally more challenging to read (even for humans) compared to other parts
+    of the documents, are valuable for researchers and practitioners focusing on urban
+    renewal, as they succinctly provide key information about property acquisition
+    processes. Figure 1 shows an example of an original document.</p> <p> </p> <p>*
+    Acknowledgments: We thank Ms. Priscilla Robinson and Dr. Richard Marciano for
+    their continuing collaboration and the scanning of the archival documents.</p>"
+- year: 2024
+  title: 'Examining the Shift in Political Inclination of Korean Middle School Language
+    Textbooks between the Independence and the Korean War (1945-1953): A Network Modeling
+    Approach'
+  slug: examining-the-shift-in-political-inclination-of-korean-middle-school-language
+  authors: Eunji Lee, Myeong Lee
+  venue: In Digital Humanities (DH 2024). ADHO. Aug. 6-9. Arlington, VA.
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/korean.jpg"
+  body: <p>This study leverages network modeling methodologies to examine the distribution
+    of political inclinations in Korean middle school language textbooks from 1945
+    to 1953. The textbooks included in this study are 82 textbooks, where 37 of which
+    from the U.S. military government period (1945-1948), 30 of which from the South
+    Korean government establishment period (1948-1950), and 15 of which from the wartime
+    period (1950-1953). Literature textbooks are excluded from this study due to their
+    inherent nature of containing more writings by contemporary authors, which could
+    present biases in political leaning within the language arts field. We curated
+    the textbook data by combining the list of past textbooks organized in various previous
+    studies (Oh, 2009; Park, 2012; Heo, 2013) and additional books directly found
+    from the National Library of Korea (<a href="https://nl.go.kr">https://nl.go.kr</a>)
+    and the National Museum of Korea (<a href="https://emuseum.go.kr">https://emuseum.go.kr</a>).</p>
+    <p>Specifically, we constructed a contributor co-occurrence network using six
+    sample textbooks published between 1947 and 1952). Assuming that contributors
+    to a textbook are more likely to invite others who share similar political views,
+    we initially create a network of contributors based on their co-occurrences in
+    textbooks. Each contributor is then represented as a vector of co-occurrences
+    with all other individuals. We calculate the distance between two contributors
+    based on the inversed cosine similarity between their vectors. These pairwise
+    distances form the basis for calculating political inclination scores. We establish
+    An Ho-Sang as the baseline right-wing individual (so we set his political leaning
+    score as 1), acknowledging his status as a well-known far-right-wing author with
+    political influence (Lee, 2005). Other contributors’ political leaning scores
+    are then calculated by subtracting their inversed cosine similarity values from
+    1. Finally, we standardize the range of scores so that the scores vary between
+    0 and 1. To validate this method, we compared the resulting scores against known
+    political leanings—left-wing, right-wing, or neutral—that were manually assigned
+    (“unknowns” are removed in the validation). Figure 2 presents boxplots that compare
+    known political leanings with the calculated scores. The differences in scores
+    are statistically significant across the groups, as determined by ANOVA (F[2,
+    51] = 21.96, p &lt; 0.001), confirming the method's validity.</p> <p> </p>
+- year: 2024
+  title: Exploring Domestic Workers' Risk Work During the COVID-19 Pandemic
+  slug: exploring-domestic-workers-risk-work-during-the-covid-19-pandemic
+  authors: Hiba Siraj, Samantha Whitman, Kathleen Pine, Myeong Lee
+  venue: iConference 2024 Proceedings. April 22-26. Changchun, China.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/domestic.jpg"
+  body: "<p>While many occupations turned to remote work during the COVID-19 pandemic,
+    domestic work by definition requires workers to enter other people’s households,
+    and they often work in close proximity to their employers. With domestic workers
+    proactively handling COVID19 risks as part of their already precarious jobs, there
+    is a need for a conceptual understanding of risk management to aid this occupational
+    group during a public health crisis. Our findings emerge from a preliminary qualitative
+    study interviewing occupational groups who adopted risk work practices during
+    the pandemic, providing insight into their risk perceptions and practices. In
+    this paper, we focus on the 6 paid domestic worker participants recruited to investigate
+    how they engaged in situated ‘risk calculations’ to assess the COVID-19 risk presented
+    at work and weigh against other different risks present. This paper invites an
+    initial discussion on risk practices, communication, and policy to support domestic
+    workers during crises.</p>"
+  external_link: https://www.ideals.illinois.edu/items/130014
+- year: 2023
+  title: 'AI or Authors?: A Comparative Analysis of BERT and ChatGPT''s Keyword Selection
+    in Digital Divide Studies'
+  slug: ai-or-authors-a-comparative-analysis-of-bert-and-chatgpts-keyword-selection-in
+  authors: Woojin Kang, Myeong Lee, Jongwook Lee, Sanghee Oh
+  venue: In Proceedings of the Association for Information Science and Technology
+    (ASIST '23)
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/keyword.png"
+  body: "<p>Author keywords attached to academic papers are often used in intellectual
+    structure analysis. However, the length and selection criteria for keywords vary
+    across publications and, even some publishers do not require keywords for their
+    articles. To explore the opportunity to overcome such keyword inconsistency issues,
+    this study compared author keywords from papers focused on the digital divide
+    with those extracted using the language models, BERT and ChatGPT. Preliminary
+    findings reveal structural variations across the keyword networks and suggest
+    a potential need to revisit keyword-based research. Future research will expand
+    the scope of the dataset and conduct an in-depth analysis of keyword patterns
+    across the language models.</p>"
+  external_link: https://doi.org/10.1002/pra2.926
+- year: 2023
+  title: 'Aggregate-Level Analysis of Information Behavior: A Study of Public Library
+    Book Circulation'
+  slug: aggregate-level-analysis-of-information-behavior-a-study-of-public-library-book
+  authors: Myeong Lee, Jongwook Lee, Woojin Kang, Sanghee Oh
+  venue: In Proceedings of the Association for Information Science and Technology
+    (ASIST '23)
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/bookloans.png"
+  body: "<p>Information behavior research to date has mainly focused specific cases
+    or representative surveys at the individual level, because each individual has
+    unique contexts that shape their behavior. However, they have not fully benefited
+    from aggregate-level analyses due to mainstream theories’ focus on a contextualized
+    understanding of information. To address this gap, we adopt the theory of local
+    information landscapes, that focuses on the material aspects of community dynamics,
+    and analyze national-level aggregate data on book circulations in public libraries
+    across South Korea. By examining the relationship between socioeconomic status
+    and public library book circulation, we discuss the potential to develop scalable
+    theories and relevant data-driven approaches in information behavior research.</p>"
+  external_link: https://doi.org/10.1002/pra2.933
+- year: 2023
+  title: The NYC311 App & Community Engagement in Coproducing Municipal Services
+  slug: the-nyc311-app-community-engagement-in-coproducing-municipal-services
+  authors: Myeong Lee, Xinlin Tang, Ping Wang
+  venue: Americas Conference on Information Systems (AMCIS '23). Aug 10-12. Panama
+    City, Panama.
+  publication_type: Full Paper
+  award_note: Selected for Top 25% Papers
+  thumbnail: "/assets/images/publications/311.png"
+  body: "<p>In the public sector, governments and the people they serve increasingly
+    collaborate to coproduce public services. To support the coproduction of municipal
+    services, specifically, local governments have incorporated various digital technologies
+    into their information systems. How do digital technologies affect community residents'
+    engagement in coproducing municipal services? Our analysis of the service requests
+    submitted to New York City's municipal 311 system shows that both the introduction
+    and use of the NYC311 app were associated with increased request volume in every
+    community, but the app's positive effect on community engagement was weaker for
+    minority communities, especially those with high percentage of black populations
+    at median-low to median-high income levels. These findings help bridge public
+    administration and technology perspectives on community engagement by showing
+    how ethnoracial and socio-economic factors moderate the effectiveness of digital
+    technology. Accordingly, governments are advised to heed these factors when adopting
+    digital technology to support public service coproduction.</p>"
+  external_link: https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/12
+- year: 2023
+  title: 'Two-sided Cultural Niches: Topic Overlap, Geospatial Correlation, and Local
+    Group Activities on Event-based Social Networks'
+  slug: two-sided-cultural-niches-topic-overlap-geospatial-correlation-and-local-group
+  authors: Julia H-P. Hsu, Heejoo Shin, Noseong Park, Myeong Lee
+  venue: International Conference on Communities and Technologies (C&T '23). May 29-June
+    2. Lahti, Finland.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/candt.png"
+  body: |-
+    <p>As event-based social networks (EBSNs) such as Meetup.com and Facebook Events gain popularity in managing local events like farmers' markets and social gatherings, they create two-sided cultural niches where event organizers and participants benefit from the platform while influencing each other. Among various factors, niche overlap, an ecological feature, has been studied as a key factor that shapes the success of online communities. While such ecological factors may also shape the success of EBSN-based local groups, the context of EBSNs raises unique challenges in understanding the roles of cultural niches due to the informal nature of these local groups and their geographical embeddedness. In this paper, we examine the effects of Meetup groups' topic overlap and geospatial correlation on the activity levels of both organizers and participants, using one-year Meetup data for 500 cities in the United States. We find that (1) a group's topic overlap with other groups on EBSNs is associated with its activity levels, and (2) local groups' geospatial correlation may moderate the effects of topic overlap for EBSN users, but inconsistently. The results provide a baseline understanding of EBSN-based groups from an ecological perspective.</p>
+    <p>* Myeong Lee is the corresponding author.</p>
+  external_link: https://doi.org/10.1145/3593743.3593758
+- year: 2023
+  title: '"I thought I was going to die there:" Socio-political contexts and the plight
+    of undocumented Latinx in the COVID-19 pandemic'
+  slug: i-thought-i-was-going-to-die-there-socio-political-contexts-and-the-plight-of
+  authors: Carol W. Cleaveland, Myeong Lee, Constance A. Gewa
+  venue: SSM-Qualitative Research in Health. Vol. 3. 100242. Elsevier.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/latinx.png"
+  body: "<p>Certain U.S. population groups have suffered higher rates of infection
+    and mortality than whites during the COVID-19 pandemic, including Latinx. Public
+    health officials blamed disparities on overcrowded housing and work in essential
+    industries prior to the vaccine’s availability. This study (n=34) focuses on the
+    intersectionality of social locations for undocumented Latinx immigrants living
+    in a relatively affluent suburb and working in the construction and service sectors.
+    Their narratives revealed how the pandemic created financial precarity through
+    prolonged periods of unemployment and food insecurity. Workers described worry
+    over unpaid bills, and potentially catastrophic episodes in which they treated
+    severe COVID-19 with home remedies. We argue that long spells of unemployment,
+    food insecurity and lack of access to healthcare emerged because of social-political
+    contexts including low-wage labor and lack of a safety net.</p>"
+  external_link: https://doi.org/10.1016/j.ssmqr.2023.100242
+- year: 2023
+  title: How Do YouTubers Collaborate? A Preliminary Analysis of YouTubers' Collaboration
+    Networks
+  slug: how-do-youtubers-collaborate-a-preliminary-analysis-of-youtubers-collaboration
+  authors: H. Siraj, A. Machavarapu, J. Hwang, K. Radhakrishnan, S. Adams, J. Kim,
+    Myeong Lee
+  venue: In iConference 2023 Proceedings. March 27-29. Barcelona, Spain.
+  publication_type: Extended Abstract
+  award_note: Award for Best Poster, Finalists (top-5)
+  thumbnail: "/assets/images/publications/Beauty.png"
+  body: "<p>Online videos such as those streamed through YouTube are largely produced
+    by individual users rather than traditional mass media, partly due to the incentive
+    structure of the platforms. As part of the strategy to increase the audience,
+    many content creators collaborate with other creators to attract subscribers and
+    diversify their content. This behavior can be conceptualized as “coopetition”
+    as they cooperate for their channels’ success while competing with one another
+    for the limited pool of audience. In this project, we analyze data about beauty
+    and gaming YouTubers to understand their collaboration types and network structures.
+    The network analysis suggests that (1) the coopetition networks of YouTubers may
+    show a scale-freeness in their topological structure and (2) beauty YouTubers
+    cooperate with non-beauty channels more compared to gaming YouTubers, implying
+    that YouTubers’ cooperation networks may present a different level of heterogeneity
+    depending on topics. The results inform the mechanisms of online video producers’
+    cooperation and competition processes from an ecological perspective.</p> <p>*
+    This paper is an outcome of the Aspiring Scientists Summer Internship Program
+    (ASSIP) at George Mason University, which aims to promote STEM research opportunities
+    for high school and undergraduate students. We thank the ASSIP and Dr. Andrea
+    Cobb for their support for this study.</p>"
+  external_link: https://hdl.handle.net/2142/117376
+- year: 2022
+  title: 'Towards an Expectation-Oriented Model of Public Service Quality: A Preliminary
+    Study of NYC 311'
+  slug: towards-an-expectation-oriented-model-of-public-service-quality-a-preliminary
+  authors: Julia H.P. Hsu, Jieshu Wang, Myeong Lee
+  venue: In International Conference on Social Informatics (SocInfo '22). Springer.
+    Oct 19-22. Glasgow, U.K.
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/nyc311.png"
+  body: "<p>The 311 system has been deployed in many U.S. cities to manage non-emergency
+    civic issues such as noise and illegal parking. To assess the performance of 311-mediated
+    public service provision, researchers developed models based on execution time
+    and the status of execution. However, research on user satisfaction suggests that
+    the level of individuals’ perception is asymmetric with respect to the quality
+    of services, because negative experiences have a stronger impact on people’s dissatisfaction
+    than positive experiences do for satisfaction. Informed by the uneven nature of
+    human satisfaction regarding positive and negative service quality, we propose
+    an expectation-oriented model that measures the quality of public services by
+    adapting the asymmetric function that reflects different perceptions of positive
+    and negative experiences. Our preliminary analysis of the model using the Census
+    data provides an initial assessment of the model’s validity. </p> <p><em>* Myeong
+    Lee is the corresponding author.</em></p>"
+  external_link: https://link.springer.com/chapter/10.1007/978-3-031-19097-1_31
+- year: 2022
+  title: Exploring Secondary Teachers' Needs and Values in Culturally Responsive Teaching
+  slug: exploring-secondary-teachers-needs-and-values-in-culturally-responsive-teaching
+  authors: Taylor Stevens, Olga Gkountouna, Myeong Lee
+  venue: In Companion of the ACM Conference on Computer Supported Cooperative Work
+    and Social Computing (CSCW '22)
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/crt.png"
+  body: "<p>Value sensitive design (VSD) is a methodology that focuses on examining
+    potential stakeholders' values and establishing designers' values of ethical imports
+    in designing a technological system. While this approach provides effective ways
+    to incorporate users' values in technology design, understanding teachers' values
+    in culturally responsive teaching (CRT) poses unique challenges due to their interactions
+    with students' cultural identities, school environments, and community contexts.
+    This complexity makes it difficult to apply VSD in understanding teachers' values
+    on CRT; rather, the values need to be examined in relation to different educational
+    contexts in which the teachers are situated. This preliminary study uses a design
+    mock-up of a low-fidelity cultural tool to elicit teachers' needs and values on
+    CRT and analyzes them against various contexts. The results of the preliminary
+    interview analysis provide an initial understanding of how needs, values, and
+    educational contexts are intertwined.</p>"
+  external_link: https://doi.org/10.1145/3500868.3559473
+- year: 2022
+  title: 'Evaluating Visitor Engagement Through Instagram: A Case Study of the One
+    with Eternity: Yayoi Kusama in the Hirshhorn Collection'
+  slug: evaluating-visitor-engagement-through-instagram-a-case-study-of-the-one-with
+  authors: Jinyi Kim, Myeong Lee
+  venue: In Proceedings of the Association for Information Science and Technology
+    (ASIST '22)
+  publication_type: Poster
+  thumbnail: "/assets/images/publications/kusama.jpeg"
+  body: "<p>Museums invite visitors to actively engage in exhibitions. However, it
+    is not easy to understand how visitors experience exhibitions, because people’s
+    motivations and goals to visit museums vary significantly and, therefore, there
+    are no standards to understand their experiences. This research proposes that
+    social media postings can provide implications for visitor engagement. Images
+    posted on Instagram at an exhibition, One with Eternity: Yayoi Kusama in the Hirshhorn,
+    are examined as a case study to explore the use of social media for visitor engagement.
+    Preliminary findings based on the qualitative analysis of 964 images from the
+    exhibition suggest that Instagram can surface visitors’ experiences with artifacts
+    presented in museums: they prefer interactive and immersive experiences in the
+    exhibition. This study implies that there are opportunities to extend this approach
+    as a means to understand people’s engagement in exhibitions and potentially facilitate
+    their interactions through social media.</p> <p>Photo credit: NPR</p>"
+  external_link: https://doi.org/10.1002/pra2.705
+- year: 2022
+  title: 'Delay of Routine Health Care During the COVID-19 Pandemic: A Theoretical
+    Model of Individuals'' Risk Assessment and Decision Making'
+  slug: delay-of-routine-health-care-during-the-covid-19-pandemic-a-theoretical-model
+  authors: Prakriti Shukla, Myeong Lee, Samantha Whitman, Kathleen H. Pine
+  venue: Social Science & Medicine (SSM), 307(2022). 115164.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/model.png"
+  body: "<p>Delaying routine health care has been prevalent during the COIVD-19 pandemic.
+    Macro-level data from this period reveals that U.S. patients under-utilized routine
+    health care services such as primary care visits, preventative tests, screenings,
+    routine optometry care, dental appointments, and visits for chronic disease management.
+    Yet, there is a gap in research on how and why patients understand risks associated
+    with seeking or delaying routing health care during an infectious disease pandemic.
+    Our research addresses this gap based on semi-structured interviews with 40 participants
+    living in regions across the United States. By building upon Unger-Saldaña and
+    Infante- Castañeda's model of delayed health care, we extend this model by articulating
+    how health care delays happen during an infectious disease pandemic. Specifically,
+    we show how perceptions of uncertainty and subjective risk assessments shape people's
+    decisions to delay routine health care while they operate at two levels, internal
+    and external to one's social bubble, interacting with each other.</p> <p><em>*
+    Myeong Lee is the corresponding author. </em></p> <p> </p>"
+  citation: 'Prakriti Shukla, Myeong Lee, Samantha A. Whitman, Kathleen H. Pine, Delay
+    of routine health care during the COVID-19 pandemic: A theoretical model of individuals’
+    risk assessment and decision making, Social Science &amp; Medicine, 307(2022). 115164. ISSN
+    0277-9536, <a href="https://doi.org/10.1016/j.socscimed.2022.115164">https://doi.org/10.1016/j.socscimed.2022.115164</a>.'
+  external_link: https://www.sciencedirect.com/science/article/pii/S0277953622004701
+- year: 2022
+  title: 'In Search of Social Justice: The Role of Digital Technology in a Government
+    Information System'
+  slug: in-search-of-social-justice-the-role-of-digital-technology-in-a-government
+  authors: Xinlin Tang, Myeong Lee, Forrest Hangen, Daniel T. O'Brien, Ping Wang
+  venue: In Academy of Management Annual Meeting Proceedings (AOM '22) 2022(1), Aug
+    5-9. Seattle, U.S.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/social_justice.png"
+  body: "<p>In producing and providing services to local residents, municipal governments
+    increasingly incorporate digital technology into their Information Systems (IS).
+    In these digitally-enhanced government IS, how does digital technology affect
+    social justice in the use and outcomes of the systems? By applying theories of
+    distributive justice and analyzing data collected from Boston's 311 system for
+    residents to request non-emergency services, we have found significant and lasting
+    disparities between wealthy and poor communities in the use of the system's digital
+    channels (mobile app and website). While digital channels helped all communities
+    make more service requests and receive faster responses, heavy use of the digital
+    channels exacerbated the disparities between wealthy and poor communities in both
+    service request volume and response time. This unexpected finding may be explained
+    by the uneven technology adoption trajectories and distributions of repeat users
+    in different communities, as our post-hoc analysis shows. By exposing previously
+    hidden inequalities in the outcomes of IS, this study justifies the need to bridge
+    digital divide at multiple levels, so that efficiency can be gained without sacrificing
+    justice. These insights can help reconcile different theories of social justice,
+    as well as develop effective government IS.</p>"
+  external_link: https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.17481abstract
+- year: 2022
+  title: 'Social Justice & Technical Efficiency: The Role of Digital Technology in
+    Boston''s 311 System'
+  slug: social-justice-technical-efficiency-the-role-of-digital-technology-in-bostons
+  authors: Ping Wang, Myeong Lee, Forrest Hangen, Daniel T O'Brien, Xinlin Tang
+  venue: In European Conference on Information Systems (ECIS 2022) Research Papers.
+    117. June 18-24. Timisoara, Romania.
+  publication_type: Full Paper
+  award_note: Best Full Research Paper, Runner-Up (Top-3)
+  thumbnail: "/assets/images/publications/dcu.png"
+  body: "<p>Does digital technology help or hinder the realization of social justice
+    in government services? Applying theories of distributive justice, we analyzed
+    data from Boston's 311 system (for residents to make requests for non-emergency
+    services) paired with data from the American Community Survey. We found that,
+    as residents used the system's digital channels (website and mobile app) more
+    frequently, the number of requests they submitted increased. However, to our surprise,
+    the technical efficiency from digital channel use actually exacerbated the disparities
+    between wealthy and poor communities in request volume. This unexpected finding
+    may be explained by the uneven channel use trajectories and distributions of repeat
+    users in different communities, as our additional analysis shows. These results
+    not only have exposed previously hidden inequalities but also may help reconcile
+    different theories of social justice. Practically speaking, technical efficiency
+    and social justice should be balanced when employing digital technology in coproducing
+    government services.</p>"
+  citation: '<p>Wang, Ping; Lee, Myeong; Hangen, Forrest; O''Brien, Daniel T.; and
+    Tang, Xinlin. (2022). "Social Justice &amp; Technical Efficiency: The Role of
+    Digital Technology in Boston''s 311 System". European Conference on Information
+    Systems (ECIS 2022). 117. <a href="https://aisel.aisnet.org/ecis2022_rp/117">https://aisel.aisnet.org/ecis2022_rp/117</a></p>'
+  external_link: https://aisel.aisnet.org/ecis2022_rp/117/
+- year: 2022
+  title: 'Towards a Socio-technical System of Culturally Responsive Teaching: The
+    Interplay between Individuals, Communities, and Resources'
+  slug: towards-a-socio-technical-system-of-culturally-responsive-teaching-the
+  authors: Taylor Stevens, Myeong Lee, Olga Gkountouna
+  venue: 'In ACM CHI Workshop on "There is no justice, just us": Making Mosaics of
+    Justice in Social Justice HCI. April 14.'
+  publication_type: Workshop Paper
+  thumbnail: "/assets/images/publications/crt_sociotech.png"
+  body: "<p>Culturally Responsive Teaching (CRT) is a set of instructional practices
+    that acknowledges and incorporates students’ identities and backgrounds into the
+    classroom in a way that makes learning more effective and relevant for culturally,
+    rhetorically, and ethnically diverse students. As classrooms becoming more diverse,
+    recognizing and celebrating students’ cultural traits and characteristics are
+    becoming increasingly effective to cultivating positive educational outcomes.
+    However, most curricula are designed having middle-class white students as the
+    main audience, which causes students outside of this group to often be imposed
+    to “forget” their own cultural practices and adapt to the “norm”. Due to these
+    gaps in the curricula design, an opportunity gap between students of diverse backgrounds
+    and those whose backgrounds align more with the focus of the curricula is created.
+    Embedding students’ cultural knowledge and experience into the education materials
+    can improve their engagement and academic achievement. Further, CRT cultivates
+    students’ “cultural integrity and individual abilities” because their backgrounds
+    are acknowledged and represented in teaching practices. While CRT directly helps
+    students with diverse cultural backgrounds, it is also useful for other students
+    as it gives them the opportunity to learn about different cultures and perspectives
+    than what they are familiar with. Therefore, it is of the upmost importance to
+    create a space where (1) all students are respected and empowered, and (2) their
+    differences are acknowledged, discussed, and incorporated in a meaningful manner.
+    This will not only help foster a culturally responsive classroom, but one that
+    is supporting social justice.</p> <p>As a means to overcome these challenges and
+    facilitate CRT- and justice-informed education, we aim to design a socio-technical
+    system of CRT practices by creating a “CRT agency” between teachers in diverse
+    locations and expertise. As the first step, we investigated how 16 secondary teachers
+    understand and implement their students’ cultural identities in the classroom.
+    Based on qualitative analyses of the interviews with the teachers, several challenges
+    that teachers face emerged involving either the lack of, or abundance of diversity
+    in their classrooms. Specifically, the analysis results suggest that challenges
+    in CRT stem not only from a lack of awareness and resources, but also from teachers’
+    perceptions of students’ diversity and expected education outcomes. In other words,
+    our preliminary findings indicate complex interactions between (1) individual-level
+    characteristics such as knowledge, perception, and history, (2) school- or community-level
+    features such as cultural diversity, curricular requirements, and collective experiences,
+    and (3) material resources such as time, budget, and facilities. We argue that
+    designing a socio-technical system of CRT practices needs to begin with acknowledging
+    these complex interactions. Particularly, designing educational technology for
+    CRT as an agency for facilitating CRT practices requires an understanding of how
+    the interplays between these factors manifest in classrooms and how the technological
+    components embedded in educational practices could mediate or moderate such interplays
+    in equitable and effective ways.</p> <p> </p> <p>* This project is led by Taylor
+    Stevens, a PhD candidate in the Computational and Data Sciences program at GMU. </p>"
+  citation: '<p>Stevens, T., Lee, M., &amp; Gkountouna, O. (2022). Towards a Socio-technical
+    System of Culturally Responsive Teaching: The Interplay between Individuals, Communities,
+    and Resources. In ACM CHI Workshop on "There is no justice, just us": Making Mosaics
+    of Justice in Social Justice HCI. April 14.</p>'
+- year: 2021
+  title: 'The Effects of Socioeconomic Deprivation on Public Library Book Circulation:
+    A Community-level Study'
+  slug: the-effects-of-socioeconomic-deprivation-on-public-library-book-circulation-a
+  authors: Jongwook Lee, Woojin Kang, Myeong Lee
+  venue: Journal of the Korean Library and Information Science, 55(4). pp. 219-243
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/graph.png"
+  body: "<p>This study analyzes the effects of community-level socioeconomic deprivations
+    (SED) on public libraries’ book circulation in the Seoul metropolitan area. The
+    study design draws upon the theory of local information landscapes, which explains
+    the relationship between community characteristics and information behavior. Using
+    four-year (2015-2018) open government and public library circulation data, we
+    constructed a socioeconomic deprivation index by adjusting a multi-dimensional
+    deprivation index and generated other variables. Multi-level robust linear regression
+    models were used to examine the relationship between SED and public library circulation.
+    In addition, we tested the moderating effects of the library collection size and
+    the number of libraries per unit area, respectively, on library circulation. The
+    results show that there is a significant negative relationship between socioeconomic
+    deprivation and library circulation rate. Also, we found that the size of the
+    library collection negatively moderates the effects of SED in areas with a large
+    number of books, and the number of libraries per unit area was positvely related
+    to the library book circulation, not moderating the effects of SED. These findings
+    suggest that public libraries and policymakers should consider community characteristics
+    in designing strategic plans for public libraries.</p> <p>* Myeong Lee is the
+    corresponding author. <br />* This paper is written in Korean. Contact me if you
+    need the paper details in English. </p>"
+  citation: "<p>Lee, J., Kang, W., &amp; Lee, M. (2021). The Effects of Socioeconomic
+    Deprivation on Public Library Book Circulation: A Community-level Study. <em>Journal
+    of the Korean Library and Information Science, 55</em>(4). pp. 219-243 </p>"
+  external_link: https://t.ly/6dwh
+- year: 2021
+  title: 'Crowdsourcing Behavior in Reporting Civic Issues: The Case of Boston''s
+    311 Systems'
+  slug: crowdsourcing-behavior-in-reporting-civic-issues-the-case-of-bostons-311-systems
+  authors: Myeong Lee, Jieshu Wang, Shawn Janzen, Susan Winter, John Harlow
+  venue: In Academy of Management Annual Meeting Proceedings (AOM '21) 2021(1), July
+    29-Aug 4.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/311_block_pop.png"
+  body: "<p>Many cities in the United States use civic technologies like 311 systems
+    as part of their public service systems for monitoring non-emergency civic issues.
+    These systems have enhanced the city's monitoring capability by diversifying communication
+    channels. However, the data created through these systems is often biased because
+    of differences in people's use of technology (i.e., digital divide) and individuals'
+    behavioral patterns in providing types of information to the systems. If civic
+    data is used by local governments in making informed decisions, these data-driven
+    services could be skewed towards the heavy technology users, and not reflect citizens'
+    diverse needs. If individuals share similar behavioral patterns or cultural norms
+    by neighborhood in reporting civic issues, socio-economic or regional inequality
+    could be exacerbated due to the uneven provision of service. This paper aims to
+    explore these aspects of civic technologies by examining the relationship between
+    community characteristics, individuals' data contribution behavior, and the formation
+    of data types. We report results based on Boston's 311 data as a case study.</p>"
+  citation: '<p>Lee, M., Wang, J., Janzen, S., Winter, S., &amp; Harlow, J. (2021).
+    Crowdsourcing Behavior in Reporting Civic Issues: The Case of Boston''s 311 Systems.
+    Academy of Management Annual Meeting Proceedings (AOM). 2021(1). July 29 - Aug
+    3. <a class="epub-section__doi__text" href="https://doi.org/10.5465/AMBPP.2021.16532abstract">https://doi.org/10.5465/AMBPP.2021.16532abstract</a></p>'
+  external_link: https://journals.aom.org/doi/10.5465/AMBPP.2021.16532abstract
+- year: 2021
+  title: 'Geographical Disparities of Incidence and Prevalence of Triple-negative
+    Breast Cancers: Multistate Study Data Analysis'
+  slug: geographical-disparities-of-incidence-and-prevalence-of-triple-negative-breast
+  authors: Hyein Jeon, Myeong Lee, Mohammed Jaloudi
+  venue: Journal of Clinical Oncology. e12599. 39(15_suppl). In ASCO '21 (June 4-8)
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/breast_cancer.png"
+  body: "<p>Background:</p> <p>Higher prevalence of triple negative breast cancer
+    (TNBC) in black women with associated poor outcomes due to various disparities
+    is well documented within a single state. We examine multiple states to better
+    understand the state effect on such differences in incidence and prevalence of
+    TNBC in black women.</p> <p>Methods:</p> <p>Female patients of ages 19 years old
+    and above with breast cancer from the Surveillance, Epidemiology and End Results
+    (SEER) Program across 13 states (608 counties) from 2015 (n = 66,444) and 2016
+    (n = 66,122) were examined. The relationships between the proportion of black
+    and white women and the rate of patients with different tumor subtypes (luminal
+    A, luminal B, HR-HER2+, and triple negative) were examined at the county level
+    using ordinary least-square regression models. In parallel, due to consideration
+    of various state-specific healthcare policies, socio-cultural norms, and socio-economic
+    disparities, multi-level regression models were applied to examine the nested,
+    random effect of each state on TNBC prevalence in each county. Bonferroni correction
+    was applied to reduce the Type I error caused by repeated use of the same variables
+    in multiple tests.</p> <p>Results:</p> <p>The baseline breast cancer rates between
+    black and white women were similar in the population (0.171% for black and 0.168%
+    for white). Consistent to previous studies, we demonstrate a significant positive
+    correlation (p &lt; 0.001) in TNBC in black females in both years. Surprisingly,
+    when accounted for the random effects on states, 38.2% (2015) and 34.3% (2016)
+    increase in incidence of TNBC in black females were seen, suggestive of state-specific
+    disparity affecting race-specific health. In 2015, other subtypes of breast cancer
+    in both black and white females did not result in significant relationship. Interestingly,
+    in 2016, there was a significant relationship seen between the TNBC rate in white
+    females and the white female population rate only after adjusting for the state
+    effect (p = 0.026). This indicates the impact of non-biological factors such as
+    state-wide health policies. Additionally, HR-HER2+ black females had a significant
+    relationship against respective population rate only after adjusting for the state
+    effect as well (p = 0.0394). For luminal A white females, a 15% decrease in incidence
+    was seen after adjusting for state effect (p = 0.0424).</p> <p>Conclusions:</p>
+    <p>This is the first known across-state examination of breast cancer subtypes
+    by race with random effects on state. This study shows the role of state-specific
+    factors affecting incidence in black and white females and potentially indicates
+    the importance of state-level management for breast cancer on health disparities
+    in addition to race-driven effects. Further studies are needed to elucidate comparable
+    differences between states affecting the rates of various subtypes of breast cancer
+    and thus health outcomes.</p>"
+  citation: "<p>Jeon, H., Lee, M., &amp; Jaloudi, M. (2021). Geographical disparities
+    of incidence and prevalence of triple-negative breast cancers: Multistate study
+    data analysis. Journal of Clinical Oncology. e12599. 39(15_suppl). DOI: 10.1200/JCO.2021.39.15_suppl.e12599</p>"
+  external_link: https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.15_suppl.e12599
+- year: 2021
+  title: 'Making Sense of Risk Information amidst Uncertainty: Individuals'' Perceived
+    Risks Associated with the COVID-19 Pandemic'
+  slug: making-sense-of-risk-information-amidst-uncertainty-individuals-perceived-risks
+  authors: Kathleen H. Pine, Myeong Lee, Samantha A. Whitman, Yunan Chen, Kathryn
+    Henne
+  venue: In Proceedings of the 2021 CHI Conference on Human Factors in Computing System.
+    pp. 1-15.
+  publication_type: Full Paper
+  award_note: Honorable Mention Award (Top 5%)
+  thumbnail: "/assets/images/publications/chi2021.png"
+  body: "<p>COVID-19 has killed hundreds of thousands, constituting a major global
+    crisis. Laypeople bear a large burden of responsibility for perceiving risks associated
+    with COVID-19 and taking action to manage risks in their everyday lives, yet epidemic-related
+    information is characterized by uncertainty and ambiguity. People perceive risks
+    based on partial, changing information. We draw on crisis informatics research
+    to examine the multidimensional risks people perceive in relation to the COVID-19
+    pandemic, the information sources that inform perceptions of COVID-19 risks, and
+    the challenges that people have in getting the information they need to understand
+    risks, using qualitative interviews with individuals across the United States.
+    Participants describe multiple COVID-19 threats including illness, secondary health
+    conditions, economic, socio-behavioral, and institutional risks. We further uncover
+    how people draw on multiple information sources from technological infrastructures,
+    people, and spaces to inform the dimensions of their risk perceptions, uncovering
+    deep challenges to acquiring needed risk information.</p> <p>* The first two authors
+    are co-first-authors. </p>"
+  citation: "<p>Pine, K., Lee, M., Whitman, S., Chen, Y., &amp; Henne, K. (2021). Making
+    sense of risk information amidst uncertainty: Individuals' perceived risks associated
+    with the COVID-19 pandemic. Proceedings of the 2021 CHI Conference on Human Factors
+    in Computing System. pp. 1-15. </p>"
+  external_link: https://dl.acm.org/doi/10.1145/3411764.3445051
+- year: 2021
+  title: 'Multi-Generational Stories of Urban Renewal: Preliminary Interviews for
+    Map-based Storytelling'
+  slug: multi-generational-stories-of-urban-renewal-preliminary-interviews-for-map-based
+  authors: Myeong Lee, Mark Edwin Peterson, Tammy Dam, Bezawit Challa, Priscilla Robinson
+  venue: 'In iConference 2021 Proceedings, LNCS. 319-326. Cham: Springer.'
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/ashville.png"
+  body: "<p>Urban renewal was a project of the American government that aimed to reconstruct
+    poor urban neighborhoods. Because community-level data that shows the underlying
+    mechanisms of urban renewal has not been curated in a systematic way, due to the
+    complexity and volume of the relevant archival collections, we aim to digitally
+    curate property acquisition documents from the urban renewal projects that affected
+    the Southside neighborhood of the city of Asheville, North Carolina, in the form
+    of a map-based, interactive web application. This paper reports early findings
+    from interviews. We analyze how Asheville citizens of different generations remember
+    their neighborhood before and after the multiple waves of gentrifications that
+    they have experienced, based on personal interviews. The result of this comparative
+    analysis provides design implications for the archival system we are developing
+    by revealing the inter-generational value structures of potential users.</p>"
+  citation: '<p>Lee M., Peterson M.E., Dam T., Challa B., Robinson P. (2021) Multi-generational
+    Stories of Urban Renewal: Preliminary Interviews for Map-Based Storytelling. In:
+    Toeppe K., Yan H., Chu S.K.W. (eds) <em>Diversity, Divergence, Dialogue. iConference
+    2021. Lecture Notes in Computer Science,</em> vol 12646. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-71305-8_26">https://doi.org/10.1007/978-3-030-71305-8_26</a></p>'
+  external_link: https://link.springer.com/chapter/10.1007/978-3-030-71305-8_26
+- year: 2020
+  title: 'Toward Understanding Civic Data Bias in 311 Systems: An Information Deserts
+    Perspective'
+  slug: toward-understanding-civic-data-bias-in-311-systems-an-information-deserts
+  authors: Myeong Lee, John Harlow, Eric Gordon, Jieshu Wang, Erik Johnston, Shawn
+    Janzen, Susan Winter
+  venue: 'In CSCW Workshop on Civic Technologies: Research, Practice, and Open Challenges.
+    ACM CSCW 2020.'
+  publication_type: Workshop Paper
+  thumbnail: "/assets/images/publications/civic_bias.png"
+  body: "<p>While civic technologies for public issues and services such as 311 systems
+    are widely adopted in many U.S. cities, the impact of the emerging civic technologies
+    and their datalevel dynamics are unclear. Because the provision patterns of civic
+    issues to technological systems are different across neighborhoods and populations,
+    it is difficult for city officials to understand whether the provided data itself
+    reflects civic issues. Also, the disparities in the information provided to civic
+    technologies in different neighborhoods may exacerbate the existing inequality.
+    To understand how civic data is created and how people’s use of civic technologies
+    plays a role as an intermediary process in shaping community performances, we
+    take an information deserts perspective in studying 311 systems. The concept of
+    information deserts is informed by a material understanding of local information
+    landscapes, making it possible to distinguish local information’s structural features
+    from its social-construction process. Based on this theoretical lens, we suggest
+    new opportunities for civic technology and data research.</p>"
+  citation: "<p>Lee, M., Harlow, J., Gordon, E., Wang, J., Jonston, E., Janzen, S.,
+    &amp; Winter, S. (2020). Toward Understanding Civic Data Bias in 311 Systems:
+    An Information Deserts Perspective. In<em> CSCW Workshop on Civic Technologies: Research,
+    Practice, and Open Challenges, ACM CSCW 2020</em>, Miami, FL. October 17th.</p>"
+  external_link: https://www.researchgate.net/publication/349126395_Toward_Understanding_Civic_Data_Bias_in_311_Systems_An_Information_Deserts_Perspective
+- year: 2020
+  title: A Theoretical Analysis of Independent Business Owners' Preferences for Informal
+    Information Sources
+  slug: a-theoretical-analysis-of-independent-business-owners-preferences-for-informal
+  authors: Joel Chan, Jonathan Brier, Zahra Farhadi, Myeong Lee, Shawn Janzen, Wei-Wei
+    Chi, Andrew Fellows, Susan Winter
+  venue: In Proceedings of the Association for Information Science and Technology
+    (ASIST '20)
+  publication_type: Poster
+  thumbnail: "/assets/images/publications/asist2020.png"
+  body: "<p>Independent business owners often prefer informal information sources
+    to formal ones such as library collections. Part of these preferences is rational
+    because contextual and application-oriented information is usually available from
+    informal sources, which are theoretically the best matches for this kind of information.
+    This suggests that, in addition to outreach strategies, efforts to integrate informal
+    sources of business-relevant information can improve public libraries' ability
+    to support independent business owners' information needs. Through interviews
+    with business information providers and users, we explore the multi-dimensional
+    space of information needs in independent businesses.</p>"
+  citation: "<p>Chan, J., Brier, J., Farhadi, Z., Lee, M., Janzen, S., Chi, W. W., Fellows,
+    A. &amp; Winter, S. (2020). A theoretical analysis of independent business owners'
+    preferences for informal information sources. Proceedings of the Association for
+    Information Science and Technology, 57(1), e352.</p>"
+  external_link: https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.352
+- year: 2020
+  title: 'Cultural Activity Diversity and Community Characteristics: An Exploratory
+    Study'
+  slug: cultural-activity-diversity-and-community-characteristics-an-exploratory-study
+  authors: Myeong Lee, Brian S. Butler
+  venue: 'In iConference 2020 Proceedings, LNCS. 32-49. Cham: Springer. Boras, Sweden
+    (March 23-26).'
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/ldavis.png"
+  body: "<p>Cultural diversity has been conceptualized and studied in diverse ways.
+    On the one hand, cultural diversity can be conceptualized based on people’s ethnic
+    and national backgrounds. On the other hand, cultural dimensions are defined based
+    on individuals' behaviors and traits. Sociologists further categorize the latter
+    depending on the degree of typicality in cultural artifacts/activities and individuals’
+    omnivorousness over cultural tastes. Although each dimension of culture-related
+    concepts provides meaningful implications for community-level characteristics,
+    it is still unclear how each dimension of cultural characteristics is related
+    to other community characteristics. This paper suggests a concept of <em>cultural
+    activity diversity</em>, the diversity of cultural activities as a whole in a
+    community, and provides an exploratory analysis for the relationships between
+    cultural characteristics and socio-economic features across 28 U.S. metropolitan
+    areas using local event datasets.</p>"
+  citation: '<p>Lee, M. &amp; Butler, B. S. (2020). Cultural Activity Diversity and
+    Community Characteristics: An Exploratory Study. In iConference 2020 Proceedings,
+    LNCS. 32-49. March 23-26. Borås, Sweden. DOI: <a href="https://doi.org/10.1007/978-3-030-43687-2_3">https://doi.org/10.1007/978-3-030-43687-2_3</a></p>'
+- year: 2019
+  title: 'Local Information Landscapes: Theory, Measures, and Evidence'
+  slug: local-information-landscapes-theory-measures-and-evidence
+  authors: Myeong Lee
+  venue: Doctoral Dissertation, University of Maryland Press.
+  publication_type: Thesis
+  award_note: College Nomination for the Doctoral Dissertation Award in iConference
+  thumbnail: "/assets/images/publications/dc_maps.png"
+  body: |-
+    <p>To understand issues about information accessibility within communities, research studies have examined human, social, and technical factors by taking a sociotechnical view. While this view provides a profound understanding of how people seek, use, and access information, this approach tends to overlook the impact of the larger structures of information landscapes that constantly shape peoples access to information. When it comes to local community settings where local information is embedded in diverse material entities such as urban places and technical infrastructures, the e ect of information landscapes should be taken into account in addition to particular strategies for solving information-seeking issues.</p>
+    <p>However, characterizing the information landscape of a local community at the community level is a non-trivial problem due to diverse contexts, users, and their interactions with each other. One way to conceptualize local information landscapes in a way that copes with the complexity of the interplay between information, contexts, and human factors is to focus on the materiality of information. By focusing on the material aspects of information, it becomes possible to understand how local information is provided to social entities and infrastructures and how it exists, forming structures at the community level. Through an extensive literature review, this paper develops a theory of local information landscapes (LIL Theory) to better conceptualize the community-level, material structure of local information. Speci cally, the LIL theory adapts a concept of the virtual as an ontological view of the interplay between technical infrastructures, spaces, and people as a basis for assessing and explaining community-level structures of local information. By complementing existing theories such as information worlds and information grounds, this work provides a new perspective on how information deserts manifest as a material precondition of information inequality.</p>
+    <p>Using this framework, an empirical study was conducted to examine the explicit e ects of information deserts on other community characteristics. Speci cally, the study aims to provide an initial assessment of LIL theory by examining how the fragmentation of local information, a form of information deserts, is related to important community characteristics such as socio-economic inequality, deprivation, and community engagement. Building upon previous work in sociology and political science, this study shows that the fragmentation of local information (1) is shaped by socio-economic deprivation/inequality that is confounded with ethnoracial heterogeneity, (2) the fragmentation of local information is highly correlated to people's community gatherings, (3) the fragmentation of local information moderates the e ects of socio-economic inequality on cultural activity diversity, and (4) the fragmentation of local information mediates the relationship between socio-economic inequality and community engagement. By making use of three local event datasets over 20 months in 14 U.S. cities (about two million records) and over 3 months in 28 U.S. cities (about 620K records), respectively, this study develops computational frameworks to operationalize information deserts in a scalable way. </p>
+    <p>This dissertation provides a theorization of community-level information inequality and computational models that support the quantitative examination of it. Further theorizations of the conceptual constructs and methodological improvements on measurements will bene t information policy-makers, local information system designers, and researchers who study local communities with conceptual models, vocabularies, and assessment frameworks.</p>
+    <p> </p>
+    <p>* Dissertation Committee: Dr. Brian Butler (Chair), Dr. Vanessa Frias-Martinez, Dr. Grant McKenzie, Dr. Paul Jaeger, and Dr. Hiroyuki Iseki (Dean's Rep)</p>
+  citation: "<p>Lee, M. (2019). <em>Local Information Landscapes: Theory, Measures,
+    and Evidence</em>. Doctoral Dissertation. College Park, MD: University of Maryland
+    Press.</p>"
+  external_link: https://drum.lib.umd.edu/handle/1903/25160
+- year: 2019
+  title: How are Information Deserts Created? A Theory of Local Information Landscapes
+  slug: how-are-information-deserts-created-a-theory-of-local-information-landscapes
+  authors: Myeong Lee, Brian S. Butler
+  venue: Journal of the Association for Information Science and Technology (JASIST),
+    70(2). 101-116.
+  publication_type: Full Paper
+  award_note: Dean's Award for an Outstanding Doctoral Student Paper
+  thumbnail: "/assets/images/publications/figure5.jpg"
+  body: "<p>To understand issues about information accessibility within communities,
+    research studies have examined human, social, and technical factors and contexts
+    by taking a socio-technical view. While this view provides a profound understanding
+    of how people seek, use, and access information, this approach tends to overlook
+    the impact of the larger structures of information landscapes that shape people’s
+    access to information. When it comes to local community settings where local information
+    is embedded in diverse material entities such as urban places and technical infrastructures,
+    the effect of information landscapes should be taken into account in addition
+    to particular strategies for solving information seeking issues. However, understanding
+    the information landscape of a local community at the community level is a non-trivial
+    problem due to diverse contexts and users and their interactions with each other.
+    One way to minimize the effects of information, contexts, human factors, and their
+    interplay is to focus on the materiality of information (Dourish, 2017). By distinguishing
+    the material aspects of information, it becomes possible to understand how local
+    information is provided to social entities and infrastructures and how it exists,
+    forming a certain structure at the community level. Through an extensive literature
+    review, this paper develops a theory of local information landscapes (LIL Theory)
+    to better conceptualize the community-level impact of the material structure of
+    local information. Specifically, the LIL theory adapts a concept of the virtual
+    as an ontological view of the interplay between technical infrastructures, spaces,
+    and people as a basis for assessing and explaining community-level structures
+    of local information (De Souza e Silva &amp; Sutko, 2011). By complementing existing
+    theories such as information worlds (Jaeger &amp; Burnett, 2010) and information
+    grounds (Fisher &amp; Naumer, 2006), this paper provides a new perspective on
+    how information deserts manifest as a material pre-condition of information inequality.
+    Based on these theoretical models, a research agenda is presented for future studies
+    in local communities. </p>"
+  citation: <p>Lee, M. &amp; Butler, B. S. (2019). How are Information Deserts Created?
+    A Theory of Local Information Landscapes.<em> Journal of the Association for Information
+    Science and Technology (JASIST), 70</em>(2), 101-119. <a href="https://doi.org/10.1002/asi.24114">https://doi.org/10.1002/asi.24114</a></p>
+  external_link: https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114
+- year: 2018
+  title: Identifying Urban Neighborhood Names through User-contributed Online Property
+    Listings
+  slug: identifying-urban-neighborhood-names-through-user-contributed-online-property
+  authors: Grant McKenzie, Zheng Liu, Yingjie Hu, Myeong Lee
+  venue: ISPRS International Journal of Geo-Information (IJGI), 7(10). 388. MPDI.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/map_ngrams.png"
+  body: <p>Neighborhoods are vaguely defined, localized regions that share similar
+    characteristics. They are most often defined, delineated, and named by the citizens
+    that inhabit them rather than municipal government or commercial agencies. The
+    names of these neighborhoods play an important role as a basis for community and
+    sociodemographic identity, geographic communication, and historical context. In
+    this work we take a data-driven approach to identifying neighborhood names based
+    on the geospatial properties of user-contributed rental listings.  Through a random
+    forest ensemble learning model applied to a set of spatial statistics for all
+    n-grams in listing descriptions, we show that neighborhood names can be uniquely
+    identified within urban settings. We train a model based on data from Washington,
+    DC and test it on listings in Seattle, WA and Montreal, QC. The results indicate
+    that a model trained on housing data from one city can successfully identify neighborhood
+    names in another.  In addition, our approach identifies less common neighborhood
+    names and suggestions alternative or potentially new names in each city. These
+    findings represent a first step in the process of urban neighborhood identification
+    and delineation.</p> <p>This article is included in the Special Issue "Place-Based
+    Research in GIScience and Geoinformatics" of the Journal.</p>
+  citation: <p>McKenzie, G., Liu, Z., Hu, Y., &amp; Lee, M. (2018). Identifying Urban
+    Neighborhood Names through User-contributed Online Property Listings. <em>ISPRS
+    International Journal of Geo-Information, 7</em>(10). 388. MPDI. <a href="https://doi.org/10.3390/ijgi7100388">https://doi.org/10.3390/ijgi7100388</a></p>
+  external_link: https://www.mdpi.com/2220-9964/7/10/388/pdf
+- year: 2018
+  title: 'Digital Curation of a World War II Japanese-American Incarceration Camp
+    Collection: Implications for Sociotechnical Archival Systems'
+  slug: digital-curation-of-a-world-war-ii-japanese-american-incarceration-camp
+  authors: Richard Marciano, Myeong Lee, William Underwood, Sandra Laib, Zeynep Diker,
+    Aakanksha Singh
+  venue: Digital Heritage 2018, International Congress. pp. 1-4. IEEE. Oct 26-30.
+    San Francisco, U.S.
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/card_collection.jpg"
+  body: <p>We describe computational treatments of archival collections through a
+    case study of World War II Japanese-American Incarceration Camps. Camp staff and
+    police officers compiled so-called "internal security" reports relating to alleged
+    cases of "disorderly conduct, assault, theft, loss of property, and accidents"
+    in the camps, and an index to these reports comprising over 25,000 index cards
+    to the reports. The sheer size of these collections is pushing archivists and
+    researchers to consider new forms of processing for collections at scale. We discuss
+    novel digital treatments that involve (1) processing incident cards at scale in
+    an automated way, (2) preserving and documenting the record series and their operations
+    using an Archival Information Package (AIP), and (3) developing social network-based
+    archiving, analysis, and visualization of the collection. Since this type of project
+    involves multiple partnerships, agreements, and social interactions with community
+    groups and public-sector organizations, we discuss the possibility of the concept
+    of sociotechnical archival systems as an implication of our approach.</p>
+  citation: "<p>Marciano, R., Lee, M., Underwood, W., Laib, S., Diker, Z., &amp; Singh,
+    A. (2018, October). Digital Curation of a World War II Japanese-American Incarceration
+    Camp Collection: Implications for Sociotechnical Archival Systems. In <em>Digital
+    Heritage 2018, </em><em>The 3rd International Congress</em>. pp. 1-4. San Francisco,
+    U.S. doi: 10.1109/DigitalHeritage.2018.8810034</p>"
+  external_link: https://ieeexplore.ieee.org/document/8810034
+- year: 2018
+  title: Towards Understanding Communication Behavior Changes during Floods Using
+    Cell Phone Data
+  slug: towards-understanding-communication-behavior-changes-during-floods-using-cell
+  authors: Lingzi Hong, Myeong Lee, Afra Mashhadi, Vanessa Frias-Martinez
+  venue: 'International Conference on Social Informatics (SocInfo ''18). Cham: Springer.
+    Sep. 25-28. St. Petersburg, Russia.'
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/senegal.png"
+  body: "<p>Natural disasters such as hurricanes, floods or tornadoes affect millions
+    of individuals every year. As a result, governments spend millions of dollars
+    in emergency response allocating resources to mitigate the damages. Effective
+    resource allocation requires a deep understanding of how humans react when a disaster
+    takes place. Due to the multiplicity of human behavior, however, it is not trivial
+    to understand human behaviors at large scale during and after the disaster. In
+    this paper, we explore the use of Call Detail Records (CDR) data to model people’s
+    responses to flooding events from the communication perspective in Senegal. Specifically,
+    we examine how different levels of flooding affect call volumes and communication
+    network features. Our results show that individuals are more active in calling
+    behaviors during flooding events than under normal conditions, which might imply
+    their support-seeking behavior. Regressions on network features indicate that
+    people in a large city in Senegal might have less access to resources outside
+    of their neighborhoods and require better infrastructures.</p>"
+  citation: "<p>Hong, L., Lee, M., Mashhadi, A., &amp; Frias-Martinez, V. (2018, September).
+    Towards Understanding Communication Behavior Changes during Floods Using Cell
+    Phone Data. In <em>the International Conference on Social Informatics (SocInfo
+    ‘18)</em>, 11186. pp. 97-107. Charm: Springer. </p>"
+  external_link: https://link.springer.com/chapter/10.1007/978-3-030-01159-8_9
+- year: 2018
+  title: 'Toward Identifying Values and Tensions in Designing a Historically-Sensitive
+    Data Platform: A Case-Study on Urban Renewal'
+  slug: toward-identifying-values-and-tensions-in-designing-a-historically-sensitive
+  authors: Myeong Lee, Shiyun Chen, Yuheng Zhang, Edel Spencer, Richard Marciano
+  venue: iConference 2018 Proceedings. Springer. March 25-28, Sheffield, U.K.
+  publication_type: Short Paper
+  thumbnail: "/assets/images/publications/humanface.png"
+  body: "<p>Urban renewal was a national initiative from the 1960s through 70s aimed
+    at improving so-called “blighted” areas, and resulted in the displacement of many
+    vibrant communities. While the underlying mechanisms of urban renewal have been
+    examined, there have been very few data-driven, evidence-based studies that take
+    into account the histories and interests of former residents. The “Human Face
+    of Big Data” project started as a digital curation effort to design and develop
+    a web-based, big data platform that provides insights and analytics into the mechanisms
+    of this process. However, it was found from user feedback that designing these
+    kinds of platforms is not straightforward; rather it needed to be carefully approached
+    as diverse values and tensions exist surrounding the design of a historically-sensitive
+    data system. This paper aims to report on the digitization and initial system
+    design processes, and provide a preliminary design framework constructed using
+    a top-down approach. This framework can be used to examine possible dimensions
+    of design concerns for historically-sensitive data platforms by system designers.
+    Also, human-computer interaction (HCI) and archival science researchers can potentially
+    benefit from this new perspective that considers both value sensitivity and archival
+    values.</p>"
+  citation: '<p>Lee M., Chen S., Zhang Y., Spencer E., &amp; Marciano R. (2018) Toward
+    Identifying Values and Tensions in Designing a Historically-Sensitive Data Platform:
+    A Case-Study on Urban Renewal. In: Chowdhury G., McLeod J., Gillet V., Willett
+    P. (eds) <em>Transforming Digital Worlds. </em><em>iConference</em><em> 2018.
+    Lecture Notes in Computer Science, 10766.</em> pp. 632-637. <a href="https://doi.org/10.1007/978-3-319-78105-1_72. ">https://doi.org/10.1007/978-3-319-78105-1_72. </a>Cham: Springer.</p>
+    <p><strong>or in short: </strong></p> <p>Lee M., Chen S., Zhang Y., Spencer E.,
+    &amp; Marciano R. (2018) Toward Identifying Values and Tensions in Designing a
+    Historically-Sensitive Data Platform: A Case-Study on Urban Renewal. In <em>iConference
+    2017 Proceedings, 10766</em>. pp. 632-637. Cham: Springer.</p>'
+  external_link: https://link.springer.com/chapter/10.1007/978-3-319-78105-1_72
+- year: 2017
+  title: 'Heuristics for Assessing Computational Archival Science (CAS) Research:
+    The Case of the Human Face of Big Data Project'
+  slug: heuristics-for-assessing-computational-archival-science-cas-research-the-case
+  authors: Myeong Lee, Yuheng Zhang, Shiyun Chen, Edel Spencer, Jhon Dela Cruz, Hyeonggi
+    Hong, Richard Marciano
+  venue: IEEE Big Data 2017, Workshop on Computational Archival Science, Dec. 11-14,
+    Boston, U.S.
+  publication_type: Workshop Paper
+  thumbnail: "/assets/images/publications/cas.png"
+  body: "<p>Computational Archival Science (CAS) has been proposed as a trans-disciplinary
+    field that combines computational and archival thinking. To provide grounded evidence,
+    a foundational paper explored eight initial themes that constitute potential building
+    blocks. In order for a CAS community to emerge, further studies are needed to
+    test this framework. While the foundational paper for CAS provides a conceptual
+    and theoretical basis of this new field, there is still a need to articulate useful
+    guidelines and checkpoints that validate a CAS research agenda. In this position
+    paper, we propose heuristics for assessing emerging CAS-related studies that researchers
+    from traditional fields can use in their research design stage. The Human Face
+    of Big Data project, a digital curation and interface design project for urban
+    renewal data, is presented and analyzed to demonstrate the validity of the suggested
+    heuristics. Finally, implications for CAS and future work are discussed.</p> <p>The
+    full paper is available at the external link (IEEE Big Data 2017 Proceedings pp.
+    2262-2270).</p>"
+  citation: '<p>Lee, M., Zhang, Y., Chen, S., Spencer, E., Dela Cruz, J., Hong, H.,
+    &amp; Marciano, R. (2017, December). Heuristics for Assessing Computational Archival
+    Science (CAS) Research: The Case of the Human Face of Big Data Project. <em>The 
+    Workshop on Computational Archival Science in IEEE Big Data 2017.</em> pp. 2262-2270.
+    Boston, U.S. <a href="https://doi.org/10.1109/BigData.2017.8258179">https://doi.org/10.1109/BigData.2017.8258179</a>.</p>'
+  external_link: http://ieeexplore.ieee.org/document/8258179/
+- year: 2017
+  title: Exploratory Cluster Analysis of Urban Mobility Patterns to Identify Neighborhood
+    Boundaries
+  slug: exploratory-cluster-analysis-of-urban-mobility-patterns-to-identify-neighborhood
+  authors: Myeong Lee, Grant McKenzie, Rajat Aghi
+  venue: International Symposium on Location-Based Social Media Data and Tracking
+    Data (LSMTD '17). July 1-2. Washington D.C., U.S.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/car2go_density.jpg"
+  body: "<p>Defining neighborhood boundaries within a city is a complex and often
+    subjective task. Neighborhoods boundaries are defined by the people that visit
+    and live in the region, and activities that occur within those boundaries. Depending
+    on the individual or group activity being conducted, these boundaries can change
+    substantially. Transportation and human mobility patterns offer a novel basis
+    on which to explore and delineate neighborhoods. In this work we take a first,
+    exploratory step in capturing dynamically changing neighborhoods based on two
+    different types of urban mobility data: Car2Go and BikeShare data. Through clustering
+    temporal urban mobility signatures of alternative transportation users in Washington,
+    D.C., this work provides implications about the characteristics of different types
+    of mobility data and research directions.</p> <p>This abstract has been accepted
+    for an oral presentation at the symposium, and invited to a special issue submission. </p>"
+  citation: "<p>Lee, M., McKenzie, G., &amp; Aghi, R. (2017, July). Exploratory Cluster
+    Analysis of Urban Mobility Patterns to Identify Neighborhood Boundaries. <em>Symposium
+    on Location-Based Social Media Data and Tracking Data (</em><em>LSMTD</em><em>)</em>.
+    Washington D.C., U.S.</p>"
+  external_link: https://myeonglee.com/sites/default/files/documents/Lee_urban_mobility.pdf
+- year: 2017
+  title: A Tool for Estimating and Visualizing Poverty Maps
+  slug: a-tool-for-estimating-and-visualizing-poverty-maps
+  authors: Myeong Lee, Rachael Dottle, Carlos Espino, Imam Subkhan, Ariel Rokem, Afra
+    Mashhadi
+  venue: NetMob 2017, April 5-7, Milan, Italy.
+  publication_type: Extended Abstract
+  thumbnail: "/assets/images/publications/dashboard1.png"
+  body: <p>"Poverty maps" are designed to simultaneously display the spatial distribution
+    of welfare and different dimensions of poverty determinants. The plotting of such
+    information on maps heavily relies on data that is collected through infrequent
+    national household surveys and censuses. However, due to the high cost associated
+    with this type of data collection process, poverty maps are often inaccurate in
+    capturing the current deprivation status. In this paper, we address this challenge
+    using a methodology that relies on alternative data sources from which to derive
+    up-to-date poverty indicators, at a very fine level of spatial granularity. We
+    validate our methodology for the city of Milano and demonstrate how it could be
+    used to implement a poverty mapping tool for policy-makers.</p> <p>This project
+    has been conducted as one of the major projects at the 2016 Data Science for Social
+    Good (DSSG) summer program at the University of Washington's eScience Institute. I
+    am grateful to have the opportunity to work on this project -- I learned a lot
+    from our great mentors Dr. Afra Mashhadi and Dr. Ariel Rokem, and also from my
+    colleagues Rachael, Carlos, and Imam. </p> <p>The abstract has been invited for
+    an oral presentation at the NetMob conference.</p>
+  citation: <p>Lee, M., Dottle, R., Espino, C., Subkhan, I., Rokem, A., &amp; Mashhadi,
+    A. (2017). A tool for estimating and visualizing poverty maps. In <em>NetMob 2017.
+    </em>Retrieved from <a href="http://netmob.org/assets/img/bookofabstract_oral_2017.pdf">http://netmob.org/assets/img/bookofabstract_oral_2017.pdf</a></p>
+  external_link: http://netmob.org/assets/img/bookofabstract_oral_2017.pdf
+- year: 2016
+  title: 'Toward an Ecology Theory of Creativity in IT Products: A Study of Mobile
+    Device Industry'
+  slug: toward-an-ecology-theory-of-creativity-in-it-products-a-study-of-mobile-device
+  authors: Ping Wang, Myeong Lee, Xu Meng, Brian Butler
+  venue: International Conference on Information Systems (ICIS '16). Dec. 11-14, Dublin,
+    Ireland.
+  publication_type: Full Paper
+  award_note: Best Paper Award (1st place)
+  thumbnail: "/assets/images/publications/cluster_map.jpg"
+  body: "<p>In a creative process, divergent thinking needs to be stimulated to generate
+    novel ideas; yet these ideas must be synthesized to produce something valuable.
+    Hence to foster creativity in developing IT products, creators need to manage
+    the tension between novelty and value. Since the forces affecting the novelty-value
+    tension often exist outside a creator's group or organization, we apply organizational
+    ecology theory to propose an industry-level, ecological model for understanding
+    the novelty of IT products. Analyzing data on 2,903 mobile devices developed by
+    156 firms worldwide over a ten-year period, we found that legitimation of the
+    products in a market niche and competition between market niches enhanced product
+    novelty. However, not all kinds of competition stimulated novelty. Competition
+    within each niche hampered novelty. This ecological perspective contributes to
+    creative IT/IS research and has the potential to bridge studies of creativity
+    and digital innovation.</p> <p> </p>"
+  citation: "<p>Wang, P., Lee, M., Meng, X., &amp; Butler, B. (2016, December). Toward
+    an Ecology Theory of Creativity in IT Products: A Study of Mobile Device Industry.
+    In <em>37th International Conference on Information Systems (ICIS)</em>. pp. 1-20.
+    Dublin, Ireland.</p>"
+  external_link: http://aisel.aisnet.org/icis2016/GeneralIS/Presentations/5/
+- year: 2016
+  title: 'This Is Not Just a Cafe: Toward Capturing the Dynamics of Urban Places'
+  slug: this-is-not-just-a-cafe-toward-capturing-the-dynamics-of-urban-places
+  authors: Myeong Lee, Rosta Farzan, Brian Butler
+  venue: International AAAI Conference on Web and Social Media (ICWSM '16), The CityLab
+    Workshop. May 17-20, Cologne, Germany.
+  publication_type: Workshop Paper
+  thumbnail: "/assets/images/publications/place.jpg"
+  body: "<p>Social media has provided a huge amount of user-generated data in capturing
+    urban dynamics. Among them, place-level human behavior has been largely detected
+    through people’s check-in records at certain places. Conventionally, places are
+    characterized by a set of pre-defined features, often specified by the owner of
+    the places. In this paper, we argue that capturing socially-meaningful features
+    and dynamics of an urban place may also be done by analyzing human activity traces.
+    We explore the activity-centered representation of urban places as a foundation
+    for understanding local neighborhoods at scale. We analyze activities from several
+    venues using data from MeetUp, a popular local event organizing service. Then,
+    Yelp’s business information was used to triangulate the analysis. The results
+    suggest that strategies based on local event data have great potential for modeling
+    socially-meaningful urban places at large scale.</p> <p>(Photo from Yelp.com)</p>"
+  citation: "<p>Lee, M., Farzan, R., &amp; Butler, B. (2016, May). This is Not Just
+    a Café: Toward Capturing the Dynamics of Urban Places. In <em>The CityLab Workshop
+    in 10th International AAAI Conference on Web and Social Media (ICWSM</em><em>)
+    </em>. pp. 20-25. Cologne, Germany.</p>"
+  external_link: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13230
+- year: 2016
+  title: 'Unlocking the Archives of Displacement and Trauma: Revealing Hidden Patterns
+    of Exploring New Modes of Public Access through Innovative Partnerships and Infrastructure'
+  slug: unlocking-the-archives-of-displacement-and-trauma-revealing-hidden-patterns-of
+  authors: Diane Travis, Myeong Lee, Magdalena Rojas, Allison Gunn, Anuj Nimkar, Gregory
+    Jansen, Nicholas Diakopoulos, Richard Marciano
+  venue: Archiving Conference 2016 Proceedings. April 19-22. Washington D.C., U.S.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/campmap.png"
+  body: "<p>This paper describes innovative partnerships: university - federal agency
+    (between the University of Maryland and the Office of Innovation at the National
+    Archives and Records Administration - NARA) and university - industry (between
+    the College of Information Studies or “iSchool” at the University of Maryland
+    and Archive Analytics Solutions Ltd.) where we are developing automated scalable
+    workflows that involve digitization, OCR, information extraction, and linking
+    into interactive maps and graph databases, and where digital preservation and
+    archiving are performed using an innovative NoSQL Cassandra-based archival catalog
+    and NetApp-based peta-scale storage infrastructure. This is a contribution to
+    linking sensitive dispersed cultural resources involving the archives of displacement
+    and trauma.</p>"
+  citation: '<p>Travis, D., Lee, M., Rojas, M., Gunn, A., Nimkar, A., Jansen, G.,
+    Diakopoulos, N., &amp; Marciano, R. (2016, April). Unlocking the Archives of Displacement
+    and Trauma: Revealing Hidden Patterns of Exploring New Modes of Public Access
+    through Innovative Partnerships and Infrastructure. In <em>Archiving Conference.
+    Society for Imaging Science and Technology, 2016</em>(1). pp. 135-139. Washington
+    D.C. <a href="https://doi.org/10.2352/issn.2168-3204.2016.1.0.135">https://doi.org/10.2352/issn.2168-3204.2016.1.0.135</a>.</p>'
+  external_link: http://www.ingentaconnect.com/contentone/ist/ac/2016/00002016/00000001/art00030?crawler=true
+- year: 2015
+  title: '"What Makes a Place More Familiar?": Implications of Geospatial Information
+    Format and Content'
+  slug: what-makes-a-place-more-familiar-implications-of-geospatial-information-format
+  authors: Myeong Lee, Luis Santos, Wei Zhao, Preeti Lakhole, Brian Butler
+  venue: ACM Conference on Human Factors in Computing Systems (CHI '15). April 18-23.
+    Seoul, Korea.
+  publication_type: Extended Abstract
+  body: "<p>Geo-local systems can significantly increase users' familiarity with new
+    places. However, for these systems to be useful, geospatial information needs
+    to be presented in ways that those systems can minimize users' difficulties of
+    learning about a new place. This raises a fundamental question about what kinds
+    and representations of geospatial information are effective in making a place
+    more familiar, so that people can adjust to the place more easily even before
+    visiting the unfamiliar world. This study focuses on modeling representations
+    of geospatial information, and their effects on people's familiarity of places.
+    The results show that content and format of geospatial information matter in their
+    familiarity about a place in terms of their perceptions and knowledge. Designers
+    and researchers of social computing systems can benefit from this study so that
+    geospatial information can be more effectively distributed through online systems.</p>
+    <p>This project was originally initiated as a class project from the INST 741
+    (Social Computing) class in 2013, and was redesigned as a research project and
+    accepted to the CHI '15 Work-in-progress session. I organized a 4-member team
+    and we collaborated on designing this study as a team. The video was created originally
+    for Social Media Expo, iConfernece 2014, so the title is different from that of
+    the CHI paper. This research project tried to identify the effect of geospatial
+    information format (image or text) and content (place or space) on people's familiarity
+    with new places.</p>"
+  citation: '<p>Lee, M., Santos, L., Zhao, W., Lakhole, P., &amp; Butler, B. (2015).
+    What Makes a Place More Familiar?: Implications of Geospatial Information Format
+    and Content. In <em>Proceedings of the 33rd Annual ACM Conference Extended Abstracts
+    on Human Factors in Computing Systems (CHI EA ''15)</em>. pp. 1079-1084. <a href="http://dx.doi.org/10.1145/2702613.2732911">http://dx.doi.org/10.1145/2702613.2732911</a>.
+    New York, NY: ACM.</p>'
+  external_link: https://dl.acm.org/citation.cfm?id=2732911
+  thumbnail: "/assets/images/publications/chi15_place.jpg"
+- year: 2015
+  title: 'Motherhood and Social Networking Sites: How do sociocultural contexts and
+    technological factors affect Korean mothers'' KakaoStory use?'
+  slug: motherhood-and-social-networking-sites-how-do-sociocultural-contexts-and
+  authors: Jinyoung Kim, Myeong Lee, Chiyoung Oh
+  venue: iConference 2015 Proceedings. March 24-27. Newport Beach, U.S.
+  publication_type: Full Paper
+  award_note: Lee Dirks Award for Best Paper, Runner-Up (top 5)
+  thumbnail: "/assets/images/publications/kakao.jpg"
+  body: "<p>In this paper, we investigate the role of sociocultural contexts and technological
+    characteristics in user behaviors on social networking sites (SNSs). This study
+    focuses on Korean mothers’ social roles and their use of KakaoStory—one of the
+    most popular SNSs in Korea. Through interviews with fifteen Korean mother users,
+    this research studies changing social roles of Korean mothers with childbirth,
+    and its influence on KakaoStory use. Also, we investigate how KakaoStory’s unique
+    characteristics affect mothers’ usage. The results of this study reveal that the
+    primary child caregiver role of Korean mothers influences them to use KakaoStory
+    to seek informational supports for childrearing and to perform their mothering
+    duties. The photo-driven user interface and private service characteristic of
+    KakaoStory fitted to the mothers’ need to share photos of children, with a restricted
+    group of people. This study shed lights on the importance of the socio-technical
+    perspective in the social media research.</p> <p>I participated in this project
+    as a second author and (1) co-coded the interview data using Dedoose; (2) collaborated
+    on identifying the research question; (3) wrote a part of introduction and discussions
+    (technological factors and KakaoStory use). This study tried to understand Korean
+    mothers' social media uses that were affected by socio-cultural and technological
+    factors. </p>"
+  citation: '<p>Kim, J., Lee, M., &amp; Oh, C. (2015, March). Motherhood and Social
+    Networking Sites: How do sociocultural contexts and technological factors affect
+    Korean mothers’ KakaoStory use? In <em>iConference 2015 Proceedings</em>. Newport
+    Beach, U.S. <a href="http://hdl.handle.net/2142/73668">http://hdl.handle.net/2142/73668</a></p>'
+  external_link: https://myeonglee.com/sites/default/files/documents/iConf2015_mothers_Jan4_CameraReadyJKim.pdf
+- year: 2014
+  title: Information Behavior of International Students Settling in an Unfamiliar
+    Geo-spatial Environment
+  slug: information-behavior-of-international-students-settling-in-an-unfamiliar
+  authors: Chiyoung Oh, Brian Butler, Myeong Lee
+  venue: Proceedings of the Association for Information Science and Technology (ASIST
+    '14). Oct 31-Nov 5. Seattle, U.S.
+  publication_type: Full Paper
+  thumbnail: "/assets/images/publications/asist.jpg"
+  body: "<p>This paper presents the findings from a project about how international
+    students seek and acquire information during their settlement in an unknown geo-spatial
+    environment. Through semi-structured interviews, questionnaires, and cognitive
+    mapping with twenty international students, this study examines their information
+    needs, information sources, and settlement experiences in the host country. Findings
+    of the study include their (1) focus on acquiring basic, survival-related information;
+    (2) active use of internet-based information sources including online/mobile maps;
+    (3) information behavior of wandering around and information encountering; (4)
+    co-national social networks playing a key role as information sources. Implications
+    are discussed in ways to further our understanding of international students’
+    information behavior and promote its improvement.</p> <p>* I participated in this
+    research project as an assistant interviewer/co-coder for the interview data and
+    wrote a part of the paper.</p> <p>* Chiyoung Oh, the first author of this paper,
+    received <em>The Dean’s Award for an Outstanding </em><em>iSchool</em><em> Doctoral
+    Student Paper</em> (UMD) in 2015. Congratulations!</p>"
+  citation: <p>Oh, C., Butler, B., &amp; Lee, M. (2014). Information Behavior of International
+    Students Settling in an Unfamiliar Geospatial Environment. In <em>Proceedings
+    of the Association for Information Science and Technology (ASIST). 51</em>(1).
+    pp. 1-11. <a href="https://doi.org/10.1002/meet.2014.14505101068">https://doi.org/10.1002/meet.2014.14505101068</a></p>
+  external_link: https://onlinelibrary.wiley.com/doi/abs/10.1002/meet.2014.14505101068
+- year: 2014
+  title: '"I know where that is": Cultural Differences in Perception of New Places'
+  slug: i-know-where-that-is-cultural-differences-in-perception-of-new-places
+  authors: Myeong Lee, Brian Butler
+  venue: MIM Thesis, UMD iSchool & Poster at the iConference 2014 Proceedings, Berlin,
+    Germany
+  publication_type: Thesis
+  thumbnail: "/assets/images/publications/web.jpg"
+  body: '<p>This research project had been conducted for my master''s thesis (Master
+    of Information Management degree). I conceptualized cultual background with Hall''s
+    high- and low-context culture (1976) and tried to see whether people''s perceptions
+    of urban places vary between physical addresses and symbolic representations of
+    spaces (landmarks), when their cultural backgrounds were different. A survey questionnaire
+    was used to measure cultural background, and a web-based online game was used
+    to measure people''s perceptions of places. The attached document is a work-in-progress
+    session poster before conducting the data collection and analysis, and the final
+    results are presented in the thesis (see the external link). The game website
+    for the data collection is available at <a href="https://urban.myeonglee.com"
+    target="_blank">https://urban.myeonglee.com</a>, which was developed and redesigned
+    based on Daniele Quercia et. al. (2013)''s UrbanOpticon platform.</p> <p>* Thesis
+    Committee: Dr. Brian Butler (iSchool, UMD), Dr. Marshini Chetty (iSchool, UMD),
+    Dr. Kent Norman (Dept. of Psychology &amp; iSchool, UMD)</p>'
+  citation: '<p>Lee, M. &amp; Butler, B. (2014, March). "I know where that is": Cultural
+    Differences in Perception of New Places. In <em>iConference 2014 Proceedings</em>.
+    pp. 1096-1100. Berlin, Germany. <a href="http://doi.org/10.9776/14390">http://doi.org/10.9776/14390</a></p>
+    <p><strong><em>or</em></strong></p> <p>Lee, M. (2014).<em> "I Know Where That
+    Is": Cultural Differences in Perception of Places</em>. Master of Information
+    Management Thesis. College Park, MD: University of Maryland Press. <a href="http://doi.org/10.13016/M2K893">http://doi.org/10.13016/M2K893</a></p>'
+  external_link: http://drum.lib.umd.edu/handle/1903/15923
+- year: 2011
+  title: MapReduce Framework for Swarm Robot Systems
+  slug: mapreduce-framework-for-swarm-robot-systems
+  authors: Myeong Lee
+  venue: Master of Science in Software Engineering Thesis, The Graduate School of
+    Convergence Science and Technology, Seoul National University
+  publication_type: Thesis
+  body: "<p>This was a part of research projects conducted under the Basic Research
+    Laboratory Grant from Ministry of Education, Science, and Technology in South
+    Korea. This project is two folds: (1) simulating an application of swarm robot
+    systems; (2) designing a software framework for the swarm robot systems to reduce
+    the complexity of developing applications while minimizing the amount of transmitted
+    data by adopting MapReduce paradigm. The video above is a simulation of a swarm
+    robot system application that searches for red pillars (foraging). The purpose
+    of the swarm robot system was to enhance the surveillance performance of robots
+    and to maintain the high intelligence/coverage while reducing the cost of each
+    unit. Webot simulator was used to develop the system (written in C++). The second
+    part of the project (designing a software framework) was fulfilled for my master's
+    thesis. The external link is a link to the master's thesis (written in Korean). </p>
+    <p>Thesis Committee: Dr. Seongsoo Hong (Dept. of EE, SNU), Dr. Jung Ho Ahn (Graduate
+    School of Convergence Science and Technology, SNU), Dr. Jongwon Kim (Dept. of
+    Mechanical Engineering, SNU)</p>"
+  citation: "<p>Lee, M. (2011). <em>MapReduce Framework for Swarm Robot Systems</em>.
+    Master of Science in Software Engineering Thesis. Seoul, Korea: Seoul National
+    University.</p>"
+  external_link: http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21449204400002591
+  thumbnail: "/assets/images/publications/swarm.jpg"
+- year: 2009
+  title: Image Retrieval Systems based on Color Similarity and Edge Detection
+  slug: image-retrieval-systems-based-on-color-similarity-and-edge-detection
+  authors: Myeong Lee
+  venue: Bachelor of Science in Electrical Engineering Thesis, Seoul National University
+  publication_type: Thesis
+  thumbnail: "/assets/images/publications/imageRet.jpg"
+  body: '<p>This project was conducted in 2008 for my bachelor''s thesis in the Department
+    of Electrical Engineering at Seoul National University (it was more like a capstone
+    project rather than a thesis, since the focus of the project was mainly at implementing
+    algorithms rather than analyzing the performance of algorithms using concrete
+    measures, e.g., recall and precision). I implemented an image retrieval system prototype
+    that takes an image as input, and outputs most similar images from the image database.
+    The measures used for the retrieval were color similarities: Earth Mover''s Distance
+    and Histogram Intersection. I compared the performance of the two metrics qualitatively
+    by looking at the output images. The target image database was the Corel image
+    dataset. The algorithms and GUI were implemented using MFC (Visual C++ 6.0) and
+    OpenCV (image processing library). This project showed that histogram intersection
+    was better in finding top-6 similar images (potentially high precision) than using
+    Earth Mover''s Distance for the target dataset. </p> <p>I presented this work
+    to thesis committee members, and I received A+ in the "Bachelor''s thesis" class
+    (a project-based class advised by a professor and a Ph.D. student with no physical
+    lectures). </p> <p> </p> <p>Thesis Committee: Dr. Namik Cho and Dr. Jungwoo Lee
+    (Dept. of EE, SNU)</p>'
+  citation: <p class="p1">Myeong Lee (2009). <em>Image Retrieval Systems based on
+    Color Similarity and Edge Detection Algorithms</em>. Bachelor of Science in Electrical
+    Engineering Thesis. Seoul National University, Seoul, Korea.</p>
+  external_link: http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413791630002591

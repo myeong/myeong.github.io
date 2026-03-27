@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div id="pub-detail-content">
+  <p>Loading...</p>
+</div>
+
+<script>
+(function() {
+  var slug = window.location.pathname.split('/').filter(Boolean).pop();
+  var publications = {{ site.data.publications | jsonify }};
+
+  var pub = null;
+  for (var i = 0; i < publications.length; i++) {
+    if (publications[i].slug === slug) {
+      pub = publications[i];
+      break;
+    }
+  }
+
+  var el = document.getElementById('pub-detail-content');
+  if (!pub) {
+    el.innerHTML = '<p>Publication not found.</p><p><a href="/publications/">Back to Publications</a></p>';
+    return;
+  }
+
+  var html = '';
+  html += '<h1>' + pub.title + '</h1>';
+
+  if (pub.award_note) {
+    html += '<span class="badge badge-award">' + pub.award_note + '</span>';
+  }
+
+  if (pub.thumbnail) {
+    html += '<div class="pub-detail-image"><img src="' + pub.thumbnail + '" alt=""></div>';
+  }
+
+  if (pub.body) {
+    html += '<div class="pub-detail-body">' + pub.body + '</div>';
+  }
+
+  html += '<div class="pub-detail-fields">';
+  html += '<p><strong>Venue:</strong> ' + pub.venue + '</p>';
+
+  var authors = pub.authors.replace(/Myeong Lee/g, '<span class="myeong">Myeong Lee</span>');
+  html += '<p><strong>Authors:</strong> ' + authors + '</p>';
+  html += '<p><strong>Type:</strong> ' + pub.publication_type + '</p>';
+
+  if (pub.external_link) {
+    html += '<p><strong>External Link:</strong> <a href="' + pub.external_link + '" target="_blank">' + pub.external_link + '</a></p>';
+  }
+
+  if (pub.citation) {
+    html += '<p><strong>Citation:</strong> ' + pub.citation + '</p>';
+  }
+
+  html += '</div>';
+  html += '<p style="margin-top: 20px;"><a href="/publications/">&larr; Back to Publications</a></p>';
+
+  el.innerHTML = html;
+  document.title = pub.title + ' | Myeong Lee';
+})();
+</script>

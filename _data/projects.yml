@@ -1,0 +1,463 @@
+---
+- title: 'SAFETI: Strategic Analysis for Fine-granular Injury and Fatality PrEvenTion
+    Insight'
+  slug: safeti-strategic-analysis-for-fine-granular-injury-and-fatality-prevention
+  description: SAFETI is the first Mason-DOLI Innovation Lab initiative that turns
+    more than 15 years of detailed Virginia workplace-accident records into forward-looking,
+    preventive insights. Using predictive models, the computational approach estimates
+    the likelihood of a fatality occurring within a specific time frame and sector.
+  image: "/assets/images/projects/doli_prj.jpeg"
+  categories:
+  - Big Data
+  - Community Informatics
+  - Geospatial
+  - Machine Learning
+  - Quantitative
+  status:
+  - On-going
+  - Funded
+  funding: Virginia Department of Labor and Industry (DOLI); AI-in-Gov council
+  body: |-
+    <p>SAFETI is the first Mason–DOLI Innovation Lab initiative that turns more than 15 years of detailed Virginia workplace-accident records into forward-looking, preventive insights. Using predictive models, the computational approach developed for SAFETI estimates the likelihood of a fatality occurring within a specific time frame and sector, along with its associated probability. This shift from reactive to preventive measures is enabled by advanced spatio-temporal and predictive analytics. By replacing after-the-fact investigations with proactive, data-guided interventions, SAFETI lays the groundwork for regulators, employers, and researchers to target inspections, refine safety practices, and explore new solution spaces that keep Virginia’s workers safer.</p>
+    <p>* We are grateful for the generous support from the Virginia Department of Labor and Industry (DOLI). Also, we are grateful for the support of AI-in-Gov council and Dr. Amarda Shehu for supporting this initiative.</p>
+    <p>* PIs: Myeong Lee &amp; Kevin Laybarge</p>
+- title: 'Visualizing Local Information Inequality in South Korea: An AI-Based Approach
+    Using Public Library Data'
+  slug: visualizing-local-information-inequality-in-south-korea-an-ai-based-approach
+  description: The goal is to understand information inequality across geographical
+    regions in South Korea and visualize them using an AI-backed visualization tool.
+    A three-year plan revolves around developing an intuitive platform for visualizing
+    disparities, constructing metrics for assessing informational inequality based
+    on the theory of local information landscapes (LIL theory).
+  image: "/assets/images/projects/fig_krf.jpg"
+  categories:
+  - Big Data
+  - Community Informatics
+  - Geospatial
+  - HCI
+  - Info Management
+  - Software
+  - Qualitative
+  - Quantitative
+  status:
+  - On-going
+  - Funded
+  funding: 'National Research Foundation of Korea (NRF), Award #2023S1A5A2A21087977'
+  body: |-
+    <p>The goal of the project is to understand information inequality across geographical regions in South Korea and visualize them using an AI-backed visualization tool. Our plan, spanning three years, revolves around the development of an intuitive platform for the purpose of visualizing these disparities. During the first year, we aim to construct comprehensive metrics for assessing the level of informational inequality, based on the theory of local information landscapes (LIL theory). The subsequent year will be dedicated to the development of a predictive model leveraging artificial intelligence, designed to forecast future trends of inequality. This model will be constructed based on features extracted from survey and open library data. By the final year, our aim is to develop a fully-functioning, user-friendly prototype of an AI-powered platform. This research combines expertise from information science, data science, and information technology. Also, we employ a multifaceted research methodology, incorporating both qualitative and quantitative strategies. The aim extends beyond merely propelling scientific comprehension such as contextualizing LIL theory in the health and education domains; we also aspire to utilize our findings to guide policy-making, thereby augmenting its objectivity and grounding in empirical studies. We endeavor to make this information universally accessible, which we believe will elevate transparency and fortify accountability in decision-making processes. Additionally, the execution and results of this project have the potential to invigorate the data, AI, and platform sectors. One significant outcome we anticipate is enhancing data and AI literacy among local residents and other stakeholders, thereby laying a solid foundation for the development of future educational initiatives. </p>
+    <p>* This research is funded by the National Research Foundation of Korea (NRF), an NSF-equivalent in South Korea (Award #2023S1A5A2A21087977).</p>
+    <p>* PI: Jongwook Lee (Kyungbuk National University iSchool).<br />* Co-PIs: Myeong Lee (GMU), Sanghee Oh (SKKU), Seungwon Yang (LSU), and Kwonho Choi (KNU). </p>
+    <p>* Project Period: June 2023 - May 2026</p>
+    <p>* Funding: ₩565,803,000 = $427K</p>
+    <p> </p>
+- title: 'Mapping Information Ecology: Understanding the Fragmentation of Disability
+    Service Information'
+  slug: mapping-information-ecology-understanding-the-fragmentation-of-disability-service
+  description: Research aiming to provide a comprehensive understanding of the information
+    ecology of disability service information by conducting in-depth research on information
+    sources, key organizations, and their users. Focuses on Medicaid services for
+    people with developmental disabilities in Virginia.
+  image: "/assets/images/projects/network.png"
+  categories:
+  - Community Informatics
+  - Info Management
+  - Theory
+  - Qualitative
+  - Quantitative
+  status:
+  - Funded
+  funding: 'Virginia Board for People with Disabilities (VBPD) and U.S. Department
+    of Health and Human Services (DHHS), Award #GMU-3-2023'
+  external_link: https://vbpd.virginia.gov/grantee/mapping-information-ecology-understanding-the-fragmentation-of-disability/
+  body: |-
+    <p>As organizations and individuals provide various information to multiple systems within a region, the information becomes fragmented, making it difficult for people to access the necessary information. Individuals have limited resources to navigate all the sources and use only part of the available ones. Disability service information is further fragmented due to diverse actors, ranging from government agencies to for-profit organizations, who often provide only partial information. The complex interactions between these actors make it challenging for information managers to understand the flow of information, which is frequently moderated by policies, market forces, and organizational cultures. Without addressing the complexity of the information ecology, the responsibility of finding necessary information will continue to fall on people with disabilities and their families, negatively impacting their quality of life. Our research aims to provide a comprehensive understanding of the information ecology of disability service information by conducting in-depth research on information sources, key organizations, and their users. Our findings will be reported in numerical, descriptive, and graphical forms that detail the information ecology of disability services in Virginia (with a focus on Medicaid services for people with developmental disabilities). Also, we will identify information providers' key challenges in making information accessible and provides recommendations for improving information accessibility (e.g., enhancing data interopratebiltiy and standardizing data storages), from an information management perspective.</p>
+    <p>* Our team is grateful to the sponsors, the Virginia Board for People with Disabilities (VBPD) and the U.S. Department of Health and Human Services (DHHS), Award #GMU-3-2023</p>
+    <p>* PI: Myeong Lee (GMU), Co-PI: Katie Pine (ASU)</p>
+- title: Exploring How Convergence Methods Foster Shared Accountability to Reveal,
+    Map, and Mitigate the Sources and Dynamics of Bias across Social Service Provisioning
+    Systems
+  slug: exploring-how-convergence-methods-foster-shared-accountability-to-reveal-map-and
+  description: Research addressing how civic participation may be better supported
+    and bias reduced in the development and integration of systems of care for communities.
+    Evaluates the implementation of a system of care in a real-world setting.
+  image: "/assets/images/projects/dass.png"
+  categories:
+  - Big Data
+  - Community Informatics
+  - HCI
+  - Software
+  - Qualitative
+  - Quantitative
+  status:
+  - Funded
+  funding: NSF
+  external_link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217706
+  body: |-
+    <p>Social services, traditionally, have been organized around their missions, such as education or safety or health. A newer approach, called "wrap-around services" or "systems of care," organizes services around individuals and their specific context and needs. These systems face many challenges when applied in real-world settings. Application processes often focus more on the potential of technologies and less on the realities, histories, and needs of communities. The proposed research addresses this gap by evaluating the implementation of a system of care in a real-world setting. The research involves studying how civic participation may be better supported and bias reduced in the development and integration of systems of care for communities. A key outcome of this proposal is to understand the influence of processes inspired by justice, equity, diversity, and inclusion to intentionally check bias and reduce disparities in the design and application of public service provisioning software systems. The goal of the proposed work is to advance accountable software systems through developing generalizable and localizable practices for exploring how to identify specific and systemic sources of bias, improve public service provisioning outcomes, and minimize disparities from biased program outcomes.</p>
+    <p>The proposed work builds from existing theory and the project team’s experience in designing and executing software systems that support services to the public. The intent is to identify and map the different types of threats to accountability that can be anticipated within the socio-computational ecosystem of care services. The team is studying dynamics of how bias might propagate across the system through regulations, social contexts, data, and lack of representation in the software development process, among other factors. Once such dynamics are mapped, the team will explore how to attend to bias through a series of interventions planned and conducted in collaboration with community members. These will include mapping the system collaboratively, and holding knowledge convergence workshops, algorithmic impact assessments, and using computational analytic techniques that can augment governance opportunities in the design and deployment of these systems of care. An outcome measure to be tracked through this process is the effectiveness of a system at responding to individual-level threats and creating bias immunity at the systems level through shared stewardship and accountability. The type of products expected from this research are advances in theory (articulation of novel threats, new understandings of dynamics &amp; treatments), specific products related to an algorithmic accountability policy toolkit, and guidelines for practice customizable to local use cases through generalizable convergence workshops.</p>
+    <p> </p>
+    <p>*The PIs thank the National Science Foundation (NSF) DASS program for funding this project (#2217706). </p>
+    <p>*This project has been terminated on 4/25/2025, due to the change of NSF and adminsitration prioirities.</p>
+- title: Understanding the Present and Designing the Future of Risk Prediction IT
+    in Fire Departments
+  slug: understanding-the-present-and-designing-the-future-of-risk-prediction-it-in-fire
+  description: Research to develop and design new data-driven risk prediction principles
+    and management (DDRPM) tools that anticipate and manage a variety of community
+    risks, which fire departments are increasingly required to respond to, including
+    medical, fire, and safety emergencies.
+  image: "/assets/images/projects/fire.jpg"
+  categories:
+  - Community Informatics
+  - HCI
+  - Info Management
+  - Theory
+  - Qualitative
+  status:
+  - On-going
+  - Funded
+  funding: NSF
+  external_link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211360
+  body: |-
+    <p>This research will develop and design new data-driven risk prediction principles and management (DDRPM) tools that anticipate and manage a variety of community risks, which fire departments are increasingly required to respond to, including medical, fire, and safety emergencies. Today, much of their work focuses on community risk reduction (CRR), a paradigm that seeks to mitigate risks before they lead to emergencies in the first place. The CRR paradigm will leverage new data-driven risk prediction and management (DDRPM) tools to predict and respond to a variety of community risks. Yet, designing DDRPM tools to realize this vision requires deep understanding of current work practices, and the potential future impacts of such tools on labor (e.g., increased data work), workers (e.g., decreased autonomy), and communities (e.g., intensified surveillance of marginalized populations). Understanding the intersection of sociotechnical work practices for handling risks and the design of data-driven computational tools requires fundamental human-centered computing research. The fire service is key to the health, safety, and security of individuals, communities, and society; thus, this research is primed to provide lasting, practical benefits. This project will directly benefit the study sites and the populations they serve since insights drawn from ethnographic research will be disseminated to study sites and participants.</p>
+    <p>This project has multiple goals: (1) comprehensive empirical exploration of community-oriented risk work performed by fire personnel and their associated data work, (2) development of a human-centered design process for the future of DDRPM tools, (3) co-designing speculative DDRPM tools with fire departments, and (4) developing a sociotechnical theory of risk work. It will achieve these goals in three phases. First, it will document current practices of community-focused risk work and community data resources using in-depth ethnographic research in three fire departments. The ethnographic data will be leveraged as part of a novel human-centered design process that combines ethnography, inquiry through design, participatory design, and speculative design. Second, the team of researchers will co-design speculative prototypes for DDRPM in partnership with the study participants. This methodological approach will fill a crucial gap in research and design of sustainable data-driven tools for risk handling by enabling consideration of impacts of design of DDRPM tools on future work practices in the fire service and on communities. Third, the team will evaluate the resulting speculative prototypes to understand how they shift visions of technologically-supported community risk work for the fire service. Both the design process and the co-designed prototypes will be disseminated to the fire service professional community.</p>
+    <p>* I am grateful to NSF's HCC program for supporting this project (#2211360). </p>
+    <p>* This is a collaborative project between Arizona State University, UC Irvine, and George Mason University. </p>
+- title: 'A Visualization Tool and Assessment Framework for Civic Technology Use in
+    the DMV Area: The Case of 311 Systems During the COVID-19 Outbreak'
+  slug: a-visualization-tool-and-assessment-framework-for-civic-technology-use-in-the-dmv
+  description: Research analyzing 311 systems from a socio-technical perspective,
+    focusing on how residents re-appropriate civic technology during the COVID-19
+    pandemic. Aims to understand the tension between managerial efficiency and citizen
+    empowerment.
+  image: "/assets/images/projects/dmv.png"
+  categories:
+  - Big Data
+  - Community Informatics
+  - Data Management
+  - Geospatial
+  - Info Management
+  - Web Application
+  - Qualitative
+  - Quantitative
+  status:
+  - Funded
+  funding: NSF
+  external_link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043900
+  body: |-
+    <p>The 311 systems that city officials currently deploy can efficiently detect non-emergency civic issues such as potholes and trash. From a socio-technical perspective, residents can re-appropriate the technology for their own purpose adding new capacities and affordances not initially intended. For example, when Hurricane Irma hit Miami in 2017, residents used 311 systems to report disaster-related issues, which led city officials to adapt the system by creating a new category. This user-driven technology re-appropriation has been called the “emancipation process." Although 311 systems have not been designed to facilitate disaster- or pandemic-related communication, individuals use them as critical methods to report issues to the local governments. The COVID-19 pandemic has impacted all aspects of civic infrastructures that range from reduced public transportation systems and the closure of public libraries. These changing norms and the emergence of new issues create a challenge and an opportunity for local governments and publics. If managed well, they can co-produce effective civic technology that addresses pandemic-related issues, systematizes the management of quality services, and can include this effort in local governments’ performance metrics. The success of civic technology for both citizens and local governments lies in understanding the tension between managerial efficiency and citizen empowerment. At its core, we aim to understand how people use the system, how local governments support people’s different uses of the system, and how the different performance metrics of local governments for 311 systems function at the metropolitan area level. We will (1) survey and consolidate local governments’ performance metrics that assess the outcomes of 311 systems in the Washington D.C. metropolitan area (a.k.a., DMV area), (2) analyze their 311 datasets using AI technologies and statistical methods to understand the changes in people’s 311 use patterns in the six jurisdictions in the DMV area during the pandemic, (3) survey city officials to examine how each government has engaged the changing needs of their residents, and (4) build a web-based visualization tool that demonstrates the commonalities among and discrepancies between local governments’ assessment metrics regarding 311 systems. In Stage 1, we propose to achieve these goals by establishing connections with DMV’s jurisdictions through the roundtables organized by our community partner, Connected DMV, and consolidating the inconsistent 311 datasets as a viable unified database.</p>
+    <p>* We are grateful for this grant from the NSF S&amp;CC Program (CIVIC Innovation Challenge #2043900) and the support of MetroLab in conducting this project. Also, I thank Shawn Janzen (UMD), George Thomas (Connected DMV), and John Yesawich (Connected DMV) for their input in the proposal. </p>
+    <p>* PI: Dr. Myeong Lee (GMU); Co-PI: Dr. Susan Winter (UMD); Community Partner: Connected DMV</p>
+    <p> </p>
+- title: 'KNEXT: Data Analytics to Support Innovation Communities'
+  slug: knext-data-analytics-to-support-innovation-communities
+  description: A three-year collaborative project between Kent State University and
+    University of Maryland, partnering with local public libraries, small business
+    development centers, economic development organizations, and community advocacy
+    groups to bring advanced data analytics and business intelligence services to
+    public libraries.
+  image: "/assets/images/projects/knext-logo.jpg"
+  categories:
+  - Community Informatics
+  - HCI
+  - Information Behavior
+  - Info Management
+  - Theory
+  - Qualitative
+  status:
+  - Funded
+  funding: 'IMLS National Leadership Grants for National Digital Platform, #LG-71-17-0124-17'
+  external_link: https://knext.ischool.umd.edu
+  body: |-
+    <p>KNEXT is a three-year collaborative project between Kent State University (KSU-SLIS) and the University of Maryland (UMD-CIS), which partners with local public libraries, small business development centers, economic development organizations, and community advocacy groups to bring advanced data analytics and business intelligence (DA&amp;BI) services to public libraries in order to support small businesses, entrepreneurs, and community advocates within two recovering communities in Ohio and Maryland. Funded by the Institute of Museum and Library Services’ National Leadership Grants for National Digital Platform, this research project addresses the question: How can we integrate advances in big data and data analytics into libraries as essential community anchors in a way that empowers those communities while encouraging economic development and well-being? Hence, this project addresses two strategic goals of the IMLS: to “promote the use of technology to facilitate discovery of knowledge” within local communities through libraries and promote libraries as community anchors “to enhance civic engagement and economic vitality.”</p>
+    <p>* This project was funded by IMLS #LG-71-17-0124-17 (<a href="https://www.imls.gov/sites/default/files/project-proposals/lg-71-17-0124-17-preliminary-proposal.pdf">https://www.imls.gov/sites/default/files/project-proposals/lg-71-17-0124...</a>)<br />*<strong> </strong>PI: Dr. Susan Winter<br />* Senior Researchers: Andrew Fellows and Dr. Joel Chan.<br />* I am contributing to the project by conceptualizing the dynamics of local businesses that are captured from qualitative data analysis through an Information Deserts lens and by analyzing the local information landscapes of local businesses.  </p>
+- title: 'Making Information Deserts Visible: Computational Models, Disparities in
+    Civic Technology Use, and Urban Decision Making'
+  slug: making-information-deserts-visible-computational-models-disparities-in-civic
+  description: Research developing a foundational tool for understanding how civic
+    technologies are used and how information inequalities manifest in a city. Analyzes
+    and visualizes data from Boston's 311 system using computational and qualitative
+    approaches.
+  image: "/assets/images/projects/311_block_pop.png"
+  categories:
+  - Big Data
+  - Community Informatics
+  - Data Management
+  - Geospatial
+  - HCI
+  - Machine Learning
+  - Theory
+  - Web Application
+  - Qualitative
+  - Quantitative
+  status:
+  - Funded
+  funding: NSF
+  external_link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1816763
+  body: |-
+    <p>This research will develop a foundational tool for understanding how civic technologies are used and how information inequalities manifest in a city. User data from new civic technologies that reveal inequalities in the information environments of citizens has only recently become available. Since a large portion of data is demographically or geospatially biased due to varying human-data relationships, computational social scientists have used data modeling and algorithmic techniques to adjust the data and remove biases during data-processing. However, this approach limits our understanding of how and why biased information is created, and our ability to address urban information inequalities and biased data-creation. Consequently, as cities transition to e-government enabled by information and communication technology, they may project the inequities of the past into the smart cities of the future, so a fresh approach is needed. This innovative research analyzes and visualizes data from Boston's 311 system for reporting non-emergency issues to the city government, using computational and qualitative approaches to identify, categorize, and understand the kinds of information disparities that are becoming institutionalized by crowdsourced municipal systems, inhibiting smart city transitions, and perpetuating information deserts. For Boston and its citizens, this research could improve both the function and the equity of the city's 311 system. The resulting insights and tools could also inform other cities' implementation of smart city technologies, identify potential distortions in existing urban datasets, and surface potential corrections that could improve decision making and equitable delivery of services for all residents. </p>
+    <p>The research will be performed in three phases. First, six years of civic, census, and geospatial data will be combined with interviews with users, then analyzed to discover the socio-technical dimensions of "information deserts," which are conceptual and physical spaces where local information is poorly embedded in diverse infrastructures and/or less available than in other areas of a city. This research will develop a conceptual model to determine where and how information deserts are located, identify a typology of information deserts based on related community features; and, assess relationships between information deserts and major demographic and geospatial features of data biases. Second, the research team will perform semi-structured interviews with civic stakeholders to gather user requirements for a visual analytics tool as well as to validate the ground truths for the initial models. Based on this, a visual analytics tool will be created to show different types of information deserts, their causes, and anticipated results. Third, through an iterative process, the research team will conduct participatory modeling activities with municipality officials and relevant stakeholders to refine the computational models with local contextual information. Also, the usability of the visual analytics tool will be improved with additional user studies. The resulting conceptual and computational models of information deserts will support a refined visual analytics tool that displays information deserts and their characteristics.</p>
+    <p>* I am grateful that this research was accepted to NSF IIS' CHS Program in collaboration with UMD (Dr. Susan Winter, PI), Arizona State University (Dr. Erik Johnston, PI, and Dr. John Harlow, Non-PI Senior Personnel) and Emerson College (Dr. Eric Gordon, PI) (Award #: 1816763)</p>
+    <p>* I lead-authored this proposal with PIs and Dr. Harlow. This project will make use of <a href="https://myeonglee.com/publications/how-are-information-deserts-created-theory-local-information-landscapes">a Theory of Local Information Landscapes (LIL theory) and the information deserts framework</a>, which appears in JASIST.</p>
+- title: 'Remapping Southside Community: Storytelling Urban Renewal Impact'
+  slug: remapping-southside-community-storytelling-urban-renewal-impact
+  description: Project building a map-based platform presenting historical documents
+    of the nationwide urban renewal project in the 1960s-70s, providing easy-to-use
+    interfaces for former residents, archivists, researchers, and citizens.
+  image: "/assets/images/projects/urban_renewal.png"
+  categories:
+  - Community Informatics
+  - Data Management
+  - Geospatial
+  - HCI
+  - Software
+  - Web Application
+  - Qualitative
+  status:
+  - Funded
+  external_link: https://urbanrenewalimpact.org
+  body: |-
+    <p>This project aims to build a map-based platform that presents historical documents of the nation-wide, urban renewal project in 1960's and 70's and to provide easy-to-use interfaces that can be used by former residents, archivists, researchers, and citizens. Ultimately, this platform aims to reconstruct a virtual neighborhood where people can share their memories by creating social networks of former residents. This project is three-fold: (1) exploring map-based techniques to archive and visualize historical data so to provide diverse access points to the collection, (2) providing structured data by integrating various kinds of databases and navigation tools, and (3) studying value-sensitive design of historically sensitive data platforms in the context of local communities and social justice through interviewing diverse stakeholders. For the map-based techniques, we are currently developing digitization methods using QGIS, ArcGIS, and other geographical/graphical tools to better present old maps and associated information on the online map. Also, user-centered UI design methods are used to develop the user-friendly interfaces.</p>
+    <p>* On June 24th, 2021, our team of researchers, community members, and experts held a Stage 1 website launch event virtually. The launching event video available at: <a href="https://www.youtube.com/watch?v=R4hPRMwlbcU">https://www.youtube.com/watch?v=R4hPRMwlbcU</a></p>
+    <p>* The website has been built as a storytelling platform: <a href="https://urbanrenewalimpact.org" target="_blank">https://urbanrenewalimpact.org</a></p>
+    <p>* I have led a group of undergraduate and graduate students for this project to curate the documents and to design and prototype a map-based system since 2016. </p>
+    <p>* This work was presented at the MARAC conference (Fall 2016), the Digital Curation and the Local Community workshop (Spring 2017), IEEE Big Data (Winter 2017), and iConference (Spring 2018).</p>
+    <p>* Our team received the Research Improvement Grant (RIG-II) from the UMD iSchool for this project in 2017. </p>
+    <p>* 3/20/2023 Asheville Reparation Commission Meeting (demonstrating urban renewal impact): <a href="https://www.youtube.com/watch?v=BLrpQLU_buE">https://www.youtube.com/watch?v=BLrpQLU_buE</a></p>
+- title: 'Cycle Atlanta: Seeing Like a Bike'
+  slug: cycle-atlanta-seeing-like-a-bike
+  description: Creating sensor systems that allow a bike to 'see' its environment
+    and collect data as a participatory effort to help the City of Atlanta make informed
+    decisions about biking infrastructures. A sensor box equipped with sonars, lidars,
+    PM sensors, gas sensors, gyroscope, accelerometer was developed.
+  image: "/assets/images/projects/cycle_atlanta.jpg"
+  categories:
+  - Community Informatics
+  - Geospatial
+  - HCI
+  - Machine Learning
+  - Software
+  - Hardware
+  status:
+  - Fellowship
+  funding: Data Science for Social Good Fellowship
+  body: |-
+    <p>The Cycle Atlanta project aims at creating sensor systems that allow a bike to "see" its environment and collect data as a participatory effort so that we can help the City of Atlanta to make informed decisions about biking infrastructures. Specifically, a sensor box equipped with sonars, lidars, PM sensors, gas sensors, gyroscope, accelerometer, and others was developed to detect environmental factors that can give rise to cyclists' stress level. I participated in this project as a Data Science for Social Good (Atlanta's DSSG) Summer fellow in 2017. </p>
+    <p>My team mainly worked on (1) reverse-engineering all the prototypes developed previously by the LMC6650 class and consolidating all sensors into two microcontoller units (i.e., Raspberry Pi and Arduino) using the Master-Slave architecture; (2) identifying hardware/software bugs/flaws and refining systems iteratively; (3) implementing fault-tolerent techniques; (4) classifying environmental factors (to detect semantic-level objects) after collecting data using GoPro, voice recorders, and sensors; and (5) visualizing and analyzing the collected data using 3D models and machine learning techniques. My role was to design the system architectures and program on the microcontrollers using Python, C, and shell scripts; to manage the team in developing hardware/software systems, and to analyze data using some signal processing and machine learning techniques (e.g., Fourier/cosine transform, SVM, RandomForest, etc.). </p>
+    <p>For the initial attempt to predict the environmental factors using sensor-level signals (only using the cosine-transformed, frequency-level signatures), it was possible to predict up to 50% of target objects when formulating this object-detection task as the 7-bin classification problem. Once the prediction power for the environment detection becomes reasonable by engineering features and collecting more data, the sensory data will become eligible to be used for semantic-level empirical studies that identify the relationships between environmental factors and cyclists' stress level.</p>
+    <p>* I am grateful to have this opportunity to work on this project. This is an on-going project at GeorgiaTech led by our amazing PI, Dr. Christopher Le Dantec. </p>
+    <p>* Our team members for Atlanta's DSSG 2017 are Javier Argota (CMU), Noel Mannariat (Mahindra Ecole Centrale), Erica Pantoja (Kennesaw State), and myself.</p>
+    <p> </p>
+    <p> </p>
+- title: Open Data Impact Map
+  slug: open-data-impact-map
+  description: A searchable, centralized database of open data use cases from around
+    the world, developed at the Center for Open Data Enterprise. The map shows the
+    distribution of organizations worldwide that make use of open data.
+  image: "/assets/images/projects/ode.png"
+  categories:
+  - Data Management
+  - Geospatial
+  - HCI
+  - Info Management
+  - Software
+  - Web Application
+  status:
+  - Fellowship
+  external_link: http://opendataimpactmap.org
+  body: |-
+    <p>The Center for Open Data Enterprise is a non-profit organization that aims to maximize the value of open data as a public resource that anyone can use. As a means to promote the impact and value of using open data, the center designed and developed the Open Data Impact map. As a Data Science &amp; Technology Fellow at the Center for Open Data Enterprise, I have worked on the Open Data Impact Map, which is a searchable, centralized database of open data use cases from around the world. The map shows the distribution of organizations in the world that make use of open data. The data have been collected through research, surveys, and interviews. Researchers in the center have conducted quantitative analyses based on these data.</p>
+    <p>My role was to lead a team of technology interns in developing a new version of the impact map; the tasks included (1) providing technical directions, (2) designing and implementing a relational database (MySQL), (3) managing the data, and (4) visualizing geo-tagged data using the ArcGIS online map (w/ Leaflet). This experience was very meaningful not only in learning about geospatial systems but also for understanding the impact of social good work on policy and organizations.</p>
+    <p>I am grateful for the center's support (Joel Gurin, Laura Manley, and Audrey Ariss) and interns' endeavors in developing the map (thanks to Noah, Vinayak, and Pooja). </p>
+- title: Virtual Observatory of Innovation Communities and Ecosystems (VOICE)
+  slug: virtual-observatory-of-innovation-communities-and-ecosystems-voice
+  description: Building the Virtual Observatory of Innovation Communities and Ecosystems
+    (VOICE) that collects, connects, and curates large datasets from multiple sources
+    on people, groups, and organizations engaging with multiple innovations.
+  image: "/assets/images/projects/cluster_map.jpg"
+  categories:
+  - Big Data
+  - Data Management
+  - Geospatial
+  - Info Management
+  - Theory
+  - Quantitative
+  status:
+  - Funded
+  funding: NSF
+  external_link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1546404
+  body: |-
+    <p>Today's digital revolution is fostering remarkable innovations. The landscape of innovation is rapidly changing and thus difficult to navigate or study. Understanding broader participation in innovation requires large datasets on the innovation participants and their activities. As organizational and industry boundaries become fuzzy in the digitized world, small data analysis cannot fully explain how boundaries shift and evolve. Open innovation leads to overlapping roles of designer and user, making it inadequate to examine innovation development and adoption separately. Therefore, it is necessary to collect data on larger units of analysis encompassing multiple organizations and multiple industries engaging in both the production and use of innovations. Further, the fast pace and risky nature of digital innovations mean that it is no longer sufficient to retrospectively study only successful innovations, but it is important to analyze contemporaneous data on a full range of innovations, including emergent and potentially failing ones, as they unfold. Addressing these challenges in conducting and studying digital innovations, this research team will build the Virtual Observatory of Innovation Communities and Ecosystems (VOICE) that (1) collects, connects, and curates large datasets from multiple sources on the people, groups, and organizations engaging with multiple innovations; (2) employs data science techniques to process and analyze these datasets; and (3) advances an ecology theory of digital innovation.</p>
+    <p>The project collects data on Big Data innovations from popular, professional, and trade press; academic publications; press releases; blogs and wikis; and social media. Further, a suite of theory-informed measures and models are developed for characterizing the evolving innovations and their communities in the Big Data ecosystem. Finally, via an open, layered modular information platform, the project's datasets and tools are shared widely and data and tools from other innovation ecosystems can be added as well. The VOICE platform would become a "Hubble Telescope" for everyone to observe and partake in digital innovations beyond those associated with Big Data. Policymakers are able to evaluate the mix of capabilities in innovation communities and recommend necessary interventions to broaden participation, reduce inequality, and cultivate partnerships. By monitoring emergent trends in different but related innovation communities, entrepreneurs and managers would be more likely to develop or adopt the right innovation at the right time. Overall, VOICE enhances the research and education infrastructure that supports individuals from underrepresented backgrounds, students, educators, and other citizens to engage mindfully with science and technology innovations.</p>
+    <p>* I have participated in this project as a research collaborator since 2016.</p>
+    <p>* This project is supported by the NSF IIS BIGDATA program (PI: Dr. Ping Wang, Co-PIs: Dr. Brian Butler and Dr. Yla Tausczik), Award #1546404.</p>
+- title: Mapping Inequality
+  slug: mapping-inequality
+  description: 'Digitizing portions of National Archives RG195: General Records of
+    the Home Owners'' Loan Corporation (HOLC), including surveys, memorandums, and
+    maps of American neighborhoods in the 1930s. Working to curate the collection
+    and extract text from 75-year-old records.'
+  image: "/assets/images/projects/redlining.jpg"
+  categories:
+  - Community Informatics
+  - Data Management
+  - Geospatial
+  - Software
+  - Web Application
+  external_link: http://dcicblog.umd.edu/mapping-inequality
+  body: |-
+    <p>Over the past four years, teams of archivists have digitized portions of National Archives RG195: General Records of the Home Owners’ Loan Corporation [HOLC]. The records include surveys, memorandums, and maps of American neighborhoods in the 1930’s. Now that the records are available digitally, students and faculty members are working to curate the collection and “data-fy” the information contained within. This involves extracting text from digitized 75-year-old records, designing queryable databases to house the information, and disseminating the information, so it is publically accessible. With partners from the University of Richmond, John Hopkins University, and Virginia Tech, the Digital Curation Innovation Center plans to georeference the historical maps and display them on Google Maps, an innovative digital curation technique to visualize changing American neighborhoods.</p>
+    <p>I mainly worked on adjusting and developing a crowdsourcing platform called "<strong>Scribe</strong>," which was initially developed by NYPL. This platform provides interfaces and databases that allow many people to transcribe scanned documents collaboratively. My goal was to modify and adjust the platform so that it can be connected to the Redlining app that hosts HOLC documents. This platform is deployed on a production server (running on top of Nginx and Passenger) and being used by student volunteers who transcribe documents in a systematic way. The URL for this platform is: <a href="https://transcribe.ischool.umd.edu">https://transcribe.ischool.umd.edu</a></p>
+    <p>This work has been released to numerous newspapers such as National Geographic and NPR. For my interview at the iSchool: <a href="https://ischool.umd.edu/news/ischool-students-contribute-nationally-recognized-project-expose-historically-racist-housing">https://ischool.umd.edu/news/ischool-students-contribute-nationally-reco...</a></p>
+- title: On Information Deserts
+  slug: on-information-deserts
+  description: Proposes the concept of local information landscapes (LIL) to provide
+    an ontological understanding of how community-level information looks and conceptualizes
+    the material pre-condition of information inequality in a local community as information
+    deserts.
+  image: "/assets/images/projects/events.png"
+  categories:
+  - Community Informatics
+  - Data Management
+  - Geospatial
+  - HCI
+  - Information Behavior
+  - Machine Learning
+  - Social Media
+  - Theory
+  - Web Application
+  - Quantitative
+  status:
+  - Fellowship
+  external_link: https://event.myeonglee.com
+  body: |-
+    <p>Information accessibility problems include diverse types of human- and system-driven barriers that make it difficult for individuals to access desired information. These issues have been studied in two main streams: (1) a human-centered view based on the understand­ing of individual-level characteristics such as physical impairment and economic status, and (2) a technology-focused view that emphasizes system-based factors such as the information filtering techniques and interface designs. Beyond human and system factors, however, pre-existing information sources and their material structures can also affect people’s access to desired information. This work proposes a concept of<em> local information landscapes (LIL)</em> to provide an ontological understanding of how the community-level information looks and conceptualizes the material pre-condition of information inequality in a local community as <em>information deserts</em> based on the LIL framework. Then, using this framework, I aim to analyze real-world data such as local event data to demonstrate the impact of local information landscapes on other community characteristics as an important community-level factor. </p>
+    <p>* We had a brainstorming session on this topic at CSST 2015 (Colorado Springs, CO) as a Catalyst Workshop team where team members were Dr. Brian Butler (UMD iSchool), Dr. Rosta Farzan (U of Pitt, iSchool), Claudia Lopez (U of Pitt, iSchool), and myself. An example showcase of this phenomenon is available at the external link.</p>
+    <p>* This project is a major topic for my doctoral dissertation.</p>
+    <p>* I received a Wylie Dissertation Fellowship from the UMD Graduate School with this research proposal (AY2018-19).</p>
+- title: Drupal Course Management Module for UMD Websites
+  slug: drupal-course-management-module-for-umd-websites
+  description: Designed to provide most up-to-date course information to University
+    of Maryland College of Arts and Humanities (ARHU) websites. A Drupal module was
+    developed to migrate the university's course catalogs into Drupal databases.
+  image: "/assets/images/projects/courses.jpg"
+  categories:
+  - Data Management
+  - Info Management
+  - Software
+  - Web Application
+  external_link: https://github.com/myeong/courses
+  body: |-
+    <div>This project was designed to provide most up-to-date courses information to University of Maryland College of Arts and Humanities (ARHU) websites. Since most ARHU websites were implemented with Drupal (Content Management System), a Drupal module was developed to migrate the university's course catalogs into Drupal databases. For crawling the course catalogs, Brady Law (CS student)'s Python scripts were modified and re-implemented. Subsequently, Drupal UIs to trigger migrations, Migrate classes that trigger Python scripts, and cron jobs for periodic migrations were developed and implemented as Drupal custom modules. These modules have been deployed in Classics, History, and School of Languages, Literatures, and Cultures (SLLC) websites. The external link is to the Git repository for the modules. </div>
+    <div> </div>
+    <div>With the support of my awesome mentor Megan Weng, I presented this work at UMD Drupal Users Group's monthly meeting in November 2014.
+- title: Human-Robot Interaction via Sound
+  slug: human-robot-interaction-via-sound
+  description: A robot-human interaction prototype developed at Torooc Inc., a VC-funded
+    start-up. Won first-place at the 2012 Start-up Competition by Seoul National University
+    R&DB Foundation. Implemented the Time-Difference of Arrival (TDOA) algorithm for
+    sound source localization.
+  image: "/assets/images/projects/tdoa.jpg"
+  categories:
+  - HCI
+  - Software
+  - Hardware
+  status:
+  - Funded
+  - Entrepreneurship
+  funding: VC-funded start-up (Torooc Inc.)
+  body: "<p>This prototype was an intermediate result of a robot-human interaction
+    project conducted at <a href=\"http://torooc.com\" target=\"_blank\">Torooc Inc.,
+    a VC-funded start-up company</a> where I was a co-founder and Director of Software
+    Development, in 2011. We started up this company through winning the first-place
+    prize at the 2012 Start-up Competition by Seoul National University R&amp;DB Foundation
+    and Seoul Techno Holdings. </p>\n<p>I first designed microphone amplifier circuits
+    using transistors and amplifier chips, respectively. Then, I connected three microphones
+    to Texas Instruments' Stellaris LM4F embedded board. On top of that, I implemented
+    the <a href=\"https://ieeexplore.ieee.org/abstract/document/4063553/\" target=\"_blank\">Time-Difference
+    of Arrival (TDOA) algorithm</a> in C language. Specifically, (1) sound signals
+    acquired through 3 microphones were transformed to frequency domain signals using
+    Fast Fourier Transform (FFT); (2) the correlation values were calculated; and
+    (3) finally the direction of sound source was determined based on the correlation
+    values (a.k.a., sound source localization). The motors of the robot prototype
+    were controlled using an Arduino board that was receiving the calculated values
+    in real time from the Stellaris board. These two boards were separately used due
+    to the limitation of Arduino's memory size and servo motors' electrical noises.
+    The plastic body of the prototype was built using a 3D printer.</p>\n<p>The picture
+    below is a test bed that I built for testing the sound localization algorithm, before
+    making the working mock-up.</p>\n<p style=\"text-align: center;\"></p><div class=\"media
+    media-element-container media-default\"><div id=\"file-52\" class=\"file file-image
+    file-image-jpeg\">\n\n        <h2 class=\"element-invisible\"><a href=\"/file/52\">1st_testbed.jpg</a></h2>\n
+    \   \n  \n  <div class=\"content\">\n    <img height=\"2048\" width=\"1536\" style=\"font-size:
+    13.008px; height: 667px; width: 500px;\" class=\"media-element file-default\"
+    data-delta=\"2\" typeof=\"foaf:Image\" src=\"https://myeonglee.com/sites/default/files/1st_testbed.jpg\"
+    alt=\"\" />"
+  video: "/assets/videos/tdoa.mp4"
+- title: Designing a Future Home Service Robot
+  slug: designing-a-future-home-service-robot
+  description: In 2010, a team of graduate students from Philosophy, Design, Electrical
+    Engineering, and Mechanical Engineering designed a home service robot of the future
+    using the Taguchi method for robust hardware design.
+  image: "/assets/images/projects/mir.jpg"
+  categories:
+  - HCI
+  - Hardware
+  status:
+  - Funded
+  funding: Seoul National University Brain Fusion Research Fund
+  body: |-
+    <p>In 2010, a team of graduate students from Philosophy, Design, Electrical Engineering, and Mechanical Engineering worked together to design a home service robot of the future. We initially started with using the<a href="https://en.wikipedia.org/wiki/Taguchi_methods" target="_blank"> Taguchi method</a>, a robust hardware design method, to list the necessary functions of the future robot. Subsequently, we had regular ideation/brainstorming sessions iteratively to come up with future robots that will operate in an automated household environment. I participated in this project as a student researcher (an EE student) and contributed to the software platform, the modular structure of robot functionalities, and business model that can support the robot ecology (e.g., "action store"). The final deliverables were a real-world mock-up design of the robot and a movie clip that shows the functionalities of the robot. </p>
+    <p>This project was supported by Seoul National University's Brain Fusion Research Fund (PI: Dr. Jongwon Kim, Dept. of Mechanical Engineering). </p>
+- title: Development of a VoIP Testing Program
+  slug: development-of-a-voip-testing-program
+  description: Skype's SILK codec was tested as an exploratory project to see if there
+    was an opportunity to integrate real-time audio communication with smart TVs.
+    Conducted as an internship project in LG Electronics' LCD TV Research Lab in 2010.
+  image: "/assets/images/projects/silk.jpg"
+  categories:
+  - Software
+  status:
+  - Fellowship
+  funding: LG Electronics (Internship)
+  body: "<p>Skype's SILK codec was tested as an exploratory project to see if there
+    was an opportunity to integrate real-time audio communication with smart TVs.
+    This project was conducted as an internship project in LG Electronics' LCD TV
+    Research Lab in 2010. Siwon Yang (currently, a developer at Hyundai Mobis) and
+    I implemented a VoIP testing program on Linux using C and SLIK codec APIs. The
+    video is a demo of the testing program.</p>"
+- title: Fundamental Technologies for the Multi-Scale Mass-Deployable Cooperative
+    Robots
+  slug: fundamental-technologies-for-the-multi-scale-mass-deployable-cooperative-robots
+  description: A next-generation robotics paradigm where a large number of robots
+    that vary in size cooperate in a hierarchical fashion to collect information in
+    various environments. Master's thesis project.
+  image: "/assets/images/projects/robots.png"
+  categories:
+  - Data Management
+  - Software
+  - Hardware
+  status:
+  - Funded
+  funding: Basic Research Laboratory (BRL) Grant, Ministry of Education, Science,
+    and Technology, South Korea
+  body: |-
+    <p>"Multi-scale mass-deployable cooperative robots are a next-generation robotics paradigm where a large number of robots that vary in size cooperate in a hierarchical fashion to collect information in various environments. While this paradigm can exhibit the effective solution for exploration of the wide area consisting of various types of terrain, its technical maturity is still in its infant stage and many technical hurdles should be resolved to realize this paradigm."  (Choo et al., 2013)</p>
+    <p>This project was conducted under the Basic Research Laboratory (BRL) Grant from the Ministry of Education, Science, and Technology in South Korea (FY2009 - 2012). The project was collaborative work of multiple labs from Department of Mechanical Engineering and Department of Electrical Engineering at Seoul National University, Korea.</p>
+    <p>I participated in this project as a research assistant and completed my Master's thesis out of this project. </p>
+    <p> </p>
+- title: Wireless Price Display System
+  slug: wireless-price-display-system
+  description: A wireless system that substitutes price tags with electrical displays
+    in grocery stores. The base station manages a product database and sends price
+    information to receiver units via RF. Led to founding student-venture company
+    U-Mind Inc. in 2004.
+  image: "/assets/images/projects/board.jpg"
+  categories:
+  - Data Management
+  - Software
+  - Hardware
+  status:
+  - Entrepreneurship
+  body: |-
+    <p>This project was my final team project for "Electrical Engineering Laboratory 3" class in 2004 (when I was junior in college). The goal was to make a wireless system that substitutes price tags with electrical displays in grocery stores. The base station manages a list of products in the database, and it sends out price information to receiver units. Receiver units are simple character displays having unique IDs. When any products' prices change, the system can easily update new prices on these displays. </p>
+    <p>In order to implement this system, ARM7 board was used as a base unit that manages a database and transmits price information. RF hardware modules were used for the wireless communication. Receiver units were implemented using 8051 boards. I implemented the LCD control modules for ARM7 (dot LCD display) and 8051 (character LCD display), and a physical-layer wireless communication module for RF chipsets using C language (firmware). </p>
+    <p>After the class, I re-implemented the base unit using MFC instead of ARM7 board, so that we can manage the database using MS Access on a desktop computer. Then, my colleagues and I started up a student-venture company called U-Mind Inc. in 2004 with this system. But it lasted only for five months due to the failure to get investment.</p>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} | {{ site.tagline }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body class="{% if page.url == '/' %}front{% endif %} {{ page.body_class }}">
+
+  <div id="page-wrapper">
+    <header id="zone-branding">
+      <div class="container">
+        <div id="site-name">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          <span id="site-tagline">{{ site.tagline }}</span>
+        </div>
+      </div>
+    </header>
+
+    <nav id="zone-menu">
+      <div class="container">
+        <button class="menu-toggle" aria-label="Toggle navigation">Menu</button>
+        <ul id="main-menu">
+          {% for item in site.data.navigation %}
+          <li{% if page.url contains item.url %} class="active"{% endif %}>
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+
+    <div id="zone-content" class="container">
+      <div id="content-layout" class="{{ page.layout_class | default: 'with-sidebars' }}">
+
+        {% unless page.hide_sidebar %}
+        <aside id="sidebar-first">
+          {% include sidebar.html %}
+        </aside>
+        {% endunless %}
+
+        {% if page.layout_class == 'cv-layout-page' %}
+        <aside id="sidebar-first">
+          <nav class="cv-side-menu">
+            <ul>
+              <li><a href="#appointments">Appointments</a></li>
+              <li><a href="#education">Education</a></li>
+              <li><a href="#research-programs">Research Programs</a></li>
+              <li><a href="#honors">Honors & Awards</a></li>
+              <li><a href="#presentations">Presentations</a></li>
+              <li><a href="#workshops">Workshops</a></li>
+              <li><a href="#teaching">Teaching</a></li>
+              <li><a href="#experience">Experience</a></li>
+              <li><a href="#service">Professional Service</a></li>
+              <li><a href="#university-service">University Service</a></li>
+              <li><a href="#skills">Technical Skills</a></li>
+              <li><a href="#memberships">Memberships</a></li>
+            </ul>
+          </nav>
+        </aside>
+        {% endif %}
+
+        <main id="region-content">
+          {{ content }}
+        </main>
+
+        {% if page.show_news_sidebar %}
+        <aside id="sidebar-second">
+          {% include news-sidebar.html %}
+        </aside>
+        {% endif %}
+
+      </div>
+    </div>
+
+    <footer id="zone-footer">
+      <div class="container">
+        <hr>
+        <p>&copy; Designed and implemented by <a href="https://github.com/myeong">Myeong Lee</a></p>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    document.querySelector('.menu-toggle').addEventListener('click', function() {
+      document.getElementById('main-menu').classList.toggle('open');
+    });
+
+    // External links open in new tab, internal links stay in same tab
+    document.querySelectorAll('a[href]').forEach(function(a) {
+      var href = a.getAttribute('href');
+      if (href && (href.startsWith('http://') || href.startsWith('https://')) && !href.includes('myeonglee.com') && !href.includes('127.0.0.1')) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener');
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+title: Myeong Lee
+tagline: Information Science
+description: "Myeong Lee | Information Science"
+url: "https://myeonglee.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+# Collections
+collections:
+  projects:
+    output: false
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

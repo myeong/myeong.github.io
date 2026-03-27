@@ -1,0 +1,17 @@
+---
+title: News
+layout: default
+layout_class: wide-content
+---
+
+<h1>News</h1>
+
+{% for item in site.data.news %}
+<div class="news-full-item">
+  <span class="news-date">{{ item.date }}</span>
+  <p><strong>{% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</strong></p>
+  {% if item.detail %}
+    <p class="news-detail">{{ item.detail }}</p>
+  {% endif %}
+</div>
+{% endfor %}

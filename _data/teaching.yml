@@ -1,0 +1,33 @@
+- institution: "George Mason University, IST Department"
+  courses:
+    - code: "IT 700"
+      title: "Doctoral Seminar I: Intro to Research"
+      syllabus: "/assets/files/IT700_Syllabus.pdf"
+      notes: "Developed from scratch in 2023. Core course for early-stage doctoral students in the PhD in IT program."
+
+    - code: "AIT 722"
+      title: "Theories and Models in Geo-Social Data Analytics"
+      syllabus: "/assets/files/AIT722_Fall2022_syllabus.pdf"
+      notes: "Developed from scratch in 2020. Covers social theories, ML, computational modeling for Smart & Connected Communities."
+
+    - code: "AIT 602"
+      title: "Introduction to Research in Applied IT"
+      syllabus: "/assets/files/AIT602_Syllabus2022.pdf"
+      notes: "Re-designed in 2020. Discusses modern computational techniques in information science research."
+
+    - code: "AIT 580"
+      title: "Analytics: Big Data to Information"
+      syllabus: "/assets/files/AIT580_Syllabus2022.pdf"
+      notes: "Core course for Masters students in Applied IT or Data Analytics Engineering."
+
+    - code: "IT 304"
+      title: "IT in the Global Economy"
+      syllabus: "https://catalog.gmu.edu/courses/it/"
+      notes: "Core course in the BS in IT program. Explores how IT changed society and global economy."
+
+- institution: "University of Maryland, iSchool"
+  courses:
+    - code: "INST377"
+      title: "Dynamic Web Applications"
+      syllabus: "/assets/files/Lee_Syllabus_INST_377_Dynamic_Web_Applications.pdf"
+      notes: "Fall 2017. Developed from scratch as core course for Data Science concentration in BS in Information Science. Covers PHP, JavaScript, HTML, CSS, jQuery, databases, Linux."

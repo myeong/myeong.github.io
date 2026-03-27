@@ -1,0 +1,1073 @@
+/* ==========================================================================
+   Font Size System — only three sizes used site-wide
+   ========================================================================== */
+
+:root {
+  --font-big: 20px;
+  --font-md: 15px;
+  --font-sm: 12px;
+}
+
+/* ==========================================================================
+   Reset & Base
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+  color: #41484d;
+  line-height: 1.6;
+  font-size: var(--font-md);
+  background: #fff;
+}
+
+a {
+  color: indianred;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  color: #41484d;
+  line-height: 1.3;
+  font-size: var(--font-big);
+}
+
+h1 { margin-bottom: 16px; }
+h2 { margin-bottom: 12px; }
+h3 { margin-bottom: 10px; }
+
+p {
+  margin-bottom: 12px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+ul, ol {
+  margin-left: 20px;
+  margin-bottom: 12px;
+}
+
+/* ==========================================================================
+   Layout Container
+   ========================================================================== */
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+#page-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ==========================================================================
+   Header / Branding
+   ========================================================================== */
+
+#zone-branding {
+  margin-top: 15px;
+  padding: 15px 0 5px;
+  border-bottom: 1px solid #eee;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#site-name {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+#site-name a {
+  font-size: 39px;
+  font-weight: 400;
+  color: #41484d;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+}
+
+#site-name a:hover {
+  color: indianred;
+  text-decoration: none;
+}
+
+#site-tagline {
+  font-size: var(--font-md);
+  color: #888;
+  font-weight: 300;
+}
+
+/* ==========================================================================
+   Navigation
+   ========================================================================== */
+
+#zone-menu {
+  margin: 0;
+  padding: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.menu-toggle {
+  display: none;
+  background: indianred;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-family: 'Roboto Slab', serif;
+  font-size: var(--font-md);
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+
+#main-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0;
+}
+
+#main-menu li {
+  margin: 0;
+}
+
+#main-menu li {
+  margin: 0;
+}
+
+#main-menu li a {
+  display: block;
+  padding: 8px 16px;
+  color: #41484d;
+  font-weight: 400;
+  font-size: var(--font-md);
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  border-bottom: 3px solid transparent;
+  transition: border-color 0.2s;
+}
+
+#main-menu li:first-child a {
+  padding-left: 0;
+}
+
+#main-menu li a:hover,
+#main-menu li.active a {
+  border-bottom-color: indianred;
+  color: indianred;
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   Content Layout (3-column on home, flexible on other pages)
+   ========================================================================== */
+
+#zone-content {
+  padding: 20px;
+}
+
+#content-layout {
+  display: grid;
+  gap: 30px;
+}
+
+#content-layout.with-sidebars {
+  grid-template-columns: 220px 1fr 240px;
+}
+
+#content-layout.wide-content {
+  grid-template-columns: 220px 1fr;
+}
+
+#content-layout.full-width {
+  grid-template-columns: 220px 1fr;
+}
+
+#content-layout.cv-layout-page {
+  grid-template-columns: 220px 1fr;
+}
+
+/* ==========================================================================
+   Sidebar (Left - Profile)
+   ========================================================================== */
+
+#sidebar-first {
+  font-size: var(--font-sm);
+}
+
+.sidebar-profile {
+  text-align: center;
+}
+
+.profile-photo {
+  width: 200px;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+.profile-title {
+  font-size: var(--font-md);
+  margin-bottom: 2px;
+}
+
+.profile-dept {
+  font-size: var(--font-md);
+  color: #666;
+  margin-bottom: 1px;
+}
+
+.profile-icons {
+  margin: 15px 0;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.profile-icons a img {
+  width: 38px;
+  height: 38px;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+  border-radius: 3px;
+}
+
+.profile-icons a img:hover {
+  opacity: 1;
+}
+
+.profile-logos {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.profile-logos a {
+  display: inline-block;
+}
+
+.logo-cil {
+  width: 160px;
+}
+
+.logo-orcid {
+  width: 110px;
+}
+
+/* ==========================================================================
+   Sidebar (Right - News)
+   ========================================================================== */
+
+#sidebar-second {
+  font-size: var(--font-sm);
+}
+
+.news-sidebar h3 {
+  font-size: var(--font-md);
+  margin-top: 25px;
+  margin-bottom: 12px;
+  color: #41484d;
+}
+
+.news-item {
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.news-date {
+  display: block;
+  font-size: var(--font-sm);
+  color: #888;
+  margin-bottom: 3px;
+}
+
+.news-item p {
+  margin: 0;
+  font-size: var(--font-md);
+}
+
+.news-item a {
+  font-size: var(--font-md);
+}
+
+.news-link-bracket {
+  font-size: var(--font-sm);
+  color: indianred;
+}
+
+.sidebar-section {
+  margin-top: 25px;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
+}
+
+.sidebar-section:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+.sidebar-section h3 {
+  font-size: var(--font-md);
+  font-weight: 400;
+  margin-bottom: 10px;
+  color: #41484d;
+}
+
+.sidebar-recent-pubs {
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+.sidebar-recent-pubs .sidebar-list li {
+  font-size: var(--font-sm);
+  line-height: 1.4;
+}
+
+.sidebar-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-list li {
+  margin-bottom: 10px;
+  font-size: var(--font-md);
+  line-height: 1.5;
+}
+
+.sidebar-list li a {
+  color: indianred;
+  text-decoration: none;
+}
+
+.sidebar-list li a:hover {
+  text-decoration: underline;
+}
+
+.travel-item {
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.travel-city {
+  font-size: var(--font-md);
+  font-weight: 300;
+  color: #41484d;
+}
+
+.travel-title {
+  font-size: var(--font-md);
+}
+
+.more-link {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.more-link a {
+  font-size: var(--font-sm);
+  font-weight: 400;
+  color: indianred;
+}
+
+/* News full page */
+.news-full-item {
+  margin-bottom: 18px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #eee;
+}
+
+.news-full-item .news-date {
+  font-size: var(--font-sm);
+  color: #888;
+}
+
+.news-full-item p {
+  font-size: var(--font-md);
+  margin-bottom: 4px;
+}
+
+.news-detail {
+  font-size: var(--font-sm) !important;
+  color: #666;
+}
+
+/* ==========================================================================
+   Main Content Area
+   ========================================================================== */
+
+#region-content {
+  max-width: 900px;
+  width: 100%;
+  line-height: 1.7;
+}
+
+#region-content h1 {
+  font-size: var(--font-big);
+  margin-bottom: 20px;
+}
+
+.front #region-content {
+  max-width: 710px;
+  padding-right: 18px;
+}
+
+/* Highlight author name */
+.myeong {
+  text-decoration: underline;
+}
+
+/* Citation highlight */
+.citation-highlight {
+  background-color: #FBDC84;
+  padding: 2px 4px;
+}
+
+/* ==========================================================================
+   Badges (Awards, Status)
+   ========================================================================== */
+
+.badge {
+  display: inline-block;
+  font-size: var(--font-sm);
+  padding: 2px 8px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 400;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.badge-award {
+  background-color: #AD4E00;
+}
+
+.badge-ongoing {
+  background-color: #99CCFF;
+  color: #333;
+}
+
+.badge-funded {
+  background-color: #ff6666;
+}
+
+.badge-fellowship {
+  background-color: #e6ac00;
+}
+
+.badge-entrepreneurship {
+  background-color: #8cd9b3;
+  color: #333;
+}
+
+/* ==========================================================================
+   Publications Page
+   ========================================================================== */
+
+.pub-subnav {
+  margin-bottom: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.pub-subnav a {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: var(--font-sm);
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  color: #41484d;
+  transition: all 0.2s;
+}
+
+.pub-subnav a:hover,
+.pub-subnav a.active {
+  background: indianred;
+  color: #fff;
+  border-color: indianred;
+  text-decoration: none;
+}
+
+.pub-year-heading {
+  font-size: var(--font-big);
+  font-weight: 400;
+  margin: 30px 0 15px 0;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-year-heading:first-of-type {
+  margin-top: 10px;
+}
+
+.pub-entry {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+  min-height: 100px;
+}
+
+.pub-thumbnail {
+  flex-shrink: 0;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+.pub-thumbnail-placeholder {
+  flex-shrink: 0;
+  width: 120px;
+  height: 120px;
+  background: #f0f0f0;
+  border-radius: 3px;
+}
+
+.pub-details {
+  flex: 1;
+}
+
+.pub-title {
+  font-size: var(--font-md);
+  font-weight: 400;
+  margin-bottom: 4px;
+  color: indianred;
+}
+
+.pub-title a {
+  color: indianred;
+}
+
+.pub-venue {
+  font-size: var(--font-sm);
+  color: #555;
+  margin-bottom: 3px;
+}
+
+.pub-authors {
+  font-size: var(--font-sm);
+  color: #666;
+}
+
+a.pub-entry-link {
+  display: flex;
+  gap: 15px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s;
+  padding: 8px;
+  margin: -8px;
+  border-radius: 4px;
+}
+
+a.pub-entry-link:hover {
+  background: #f8f8f8;
+  text-decoration: none;
+}
+
+a.pub-entry-link .pub-title {
+  color: indianred;
+}
+
+/* ==========================================================================
+   Projects Page
+   ========================================================================== */
+
+.tag-filters {
+  margin-bottom: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 6px;
+}
+
+.project-categories {
+  margin-bottom: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.project-categories a {
+  display: inline-block;
+  padding: 6px 14px;
+  font-size: var(--font-sm);
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  color: #41484d;
+  transition: all 0.2s;
+  flex: 1 1 auto;
+  text-align: center;
+  min-width: fit-content;
+}
+
+.project-categories a:hover,
+.project-categories a.active {
+  background: indianred;
+  color: #fff;
+  border-color: indianred;
+  text-decoration: none;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+
+.project-card {
+  max-width: 270px;
+}
+
+.project-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.project-card h3 {
+  font-size: var(--font-md);
+  font-weight: 400;
+  margin-bottom: 6px;
+}
+
+.project-card h3 a {
+  color: indianred;
+}
+
+.project-card p {
+  font-size: var(--font-sm);
+  color: #555;
+  line-height: 1.5;
+}
+
+.project-status {
+  margin-bottom: 8px;
+}
+
+.project-status .badge {
+  font-size: var(--font-sm);
+  border-radius: 3px;
+  margin-left: 0;
+  margin-right: 4px;
+}
+
+/* ==========================================================================
+   Teaching Page
+   ========================================================================== */
+
+.teaching-section {
+  margin-bottom: 30px;
+}
+
+.teaching-section h2 {
+  font-size: var(--font-big);
+  margin-bottom: 15px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+.course-item {
+  margin-bottom: 16px;
+  padding-left: 10px;
+  border-left: 3px solid indianred;
+}
+
+.course-item h3 {
+  font-size: var(--font-md);
+  margin-bottom: 4px;
+}
+
+.course-item p {
+  font-size: var(--font-sm);
+  color: #555;
+}
+
+.course-item h3 a {
+  font-size: var(--font-md);
+}
+
+/* ==========================================================================
+   Media Page
+   ========================================================================== */
+
+.media-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.media-item {
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.media-date {
+  font-size: var(--font-sm);
+  color: #888;
+}
+
+.media-outlet {
+  font-size: var(--font-sm);
+  color: #666;
+  font-weight: 400;
+}
+
+.media-title {
+  font-size: var(--font-md);
+}
+
+/* ==========================================================================
+   CV Page
+   ========================================================================== */
+
+.cv-section {
+  margin-bottom: 25px;
+}
+
+.cv-section h2 {
+  font-size: var(--font-big);
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+  margin-bottom: 12px;
+}
+
+.cv-entry {
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.cv-entry strong {
+  font-weight: 400;
+}
+
+/* ==========================================================================
+   Publication & Project Detail Pages
+   ========================================================================== */
+
+.pub-detail-image img,
+.project-detail-image img {
+  max-width: 640px;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 15px 0;
+}
+
+.project-detail-image {
+  text-align: center;
+}
+
+.project-detail-video {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.project-detail-video video {
+  max-width: 640px;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.pub-detail-body,
+.project-detail-body {
+  margin: 15px 0;
+  line-height: 1.7;
+}
+
+.pub-detail-fields,
+.project-detail-fields {
+  margin-top: 20px;
+  padding: 15px;
+  background: #f9f9f9;
+  border-radius: 4px;
+  font-size: var(--font-sm);
+}
+
+.pub-detail-fields p,
+.project-detail-fields p {
+  margin-bottom: 8px;
+}
+
+/* ==========================================================================
+   CV Page with Side Menu
+   ========================================================================== */
+
+
+.cv-side-menu {
+  position: sticky;
+  top: 20px;
+  align-self: start;
+  font-size: var(--font-md);
+}
+
+.cv-side-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cv-side-menu li {
+  margin-bottom: 3px;
+}
+
+.cv-side-menu a {
+  color: #666;
+  text-decoration: none;
+  padding: 3px 0;
+  display: block;
+  border-left: 3px solid transparent;
+  padding-left: 10px;
+  transition: all 0.2s;
+}
+
+.cv-side-menu a:hover,
+.cv-side-menu a.active {
+  color: indianred;
+  border-left-color: indianred;
+}
+
+.cv-main {
+  max-width: 900px;
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .cv-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .cv-side-menu {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+  }
+
+  .cv-side-menu ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .cv-side-menu a {
+    border-left: none;
+    padding: 4px 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: var(--font-sm);
+  }
+}
+
+/* ==========================================================================
+   Homepage specific
+   ========================================================================== */
+
+.home-section {
+  margin-bottom: 25px;
+}
+
+.home-section h2 {
+  font-size: var(--font-md);
+  margin-bottom: 10px;
+}
+
+.research-focus-img {
+  max-width: 100%;
+  margin: 15px 0;
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+#zone-footer {
+  padding: 10px 20px 30px;
+  text-align: center;
+  font-size: var(--font-sm);
+  color: #888;
+}
+
+#zone-footer a {
+  color: indianred;
+}
+
+/* ==========================================================================
+   Responsive Design
+   ========================================================================== */
+
+/* Tablet: 768px - 979px */
+@media (max-width: 979px) {
+  #content-layout.with-sidebars {
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: auto auto;
+  }
+
+  #sidebar-second {
+    grid-column: 1 / -1;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+  }
+
+  .news-sidebar {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .news-sidebar h3 {
+    grid-column: 1 / -1;
+  }
+
+  .project-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .project-card {
+    max-width: none;
+  }
+
+  #content-layout.wide-content {
+    grid-template-columns: 200px 1fr;
+  }
+}
+
+/* Mobile: < 768px */
+@media (max-width: 767px) {
+  #zone-branding {
+    text-align: center;
+  }
+
+  /* Mobile nav */
+  .menu-toggle {
+    display: block;
+  }
+
+  #main-menu {
+    display: none;
+    flex-direction: column;
+  }
+
+  #main-menu.open {
+    display: flex;
+  }
+
+  #main-menu li a {
+    padding: 10px 16px;
+    border-bottom: 1px solid #eee;
+  }
+
+  #main-menu li a:hover,
+  #main-menu li.active a {
+    border-bottom: 1px solid #eee;
+    background: #f9f9f9;
+  }
+
+  /* Stack layout */
+  #content-layout.with-sidebars,
+  #content-layout.wide-content,
+  #content-layout.full-width {
+    grid-template-columns: 1fr;
+  }
+
+  #sidebar-first {
+    text-align: center;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+  }
+
+  .profile-photo {
+    width: 130px;
+  }
+
+  .profile-icons {
+    justify-content: center;
+  }
+
+  #region-content {
+    max-width: none;
+  }
+
+  .front #region-content {
+    max-width: none;
+    padding-right: 0;
+  }
+
+  /* Publications responsive */
+  .pub-entry {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .pub-thumbnail,
+  .pub-thumbnail-placeholder {
+    width: 100%;
+    height: 200px;
+  }
+
+  /* Projects responsive */
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card {
+    max-width: none;
+  }
+
+  .project-card img {
+    height: 200px;
+  }
+
+  /* News sidebar responsive */
+  .news-sidebar {
+    display: block;
+  }
+
+  /* Categories wrap */
+  .project-categories {
+    gap: 4px;
+  }
+}
+
+/* Wide: >= 1220px */
+@media (min-width: 1220px) {
+  .container {
+    max-width: 1180px;
+  }
+}

@@ -1,0 +1,24 @@
+<div class="sidebar-section">
+  <h3>Travels &amp; Events</h3>
+  {% for item in site.data.travels limit:5 %}
+  <div class="travel-item">
+    <div class="travel-city">{{ item.city }}</div>
+    <span class="news-date">{{ item.date }}</span>
+    <div class="travel-title">{{ item.title }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="news-sidebar">
+  <h3>News</h3>
+  {% assign display_news = site.data.news | slice: 0, 9 %}
+  {% for item in display_news %}
+  <div class="news-item">
+    <span class="news-date">{{ item.date }}</span>
+    <p>{{ item.text }}{% if item.link %} <a href="{{ item.link }}" target="_blank" class="news-link-bracket">[link]</a>{% endif %}</p>
+  </div>
+  {% endfor %}
+  <div class="more-link">
+    <a href="{{ '/news/' | relative_url }}">Read More News</a>
+  </div>
+</div>

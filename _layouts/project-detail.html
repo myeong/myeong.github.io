@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<div id="project-detail-content">
+  <p>Loading...</p>
+</div>
+
+<script>
+(function() {
+  var slug = window.location.pathname.split('/').filter(Boolean).pop();
+  var projects = {{ site.data.projects | jsonify }};
+
+  var project = null;
+  for (var i = 0; i < projects.length; i++) {
+    if (projects[i].slug === slug) {
+      project = projects[i];
+      break;
+    }
+  }
+
+  var el = document.getElementById('project-detail-content');
+  if (!project) {
+    el.innerHTML = '<p>Project not found.</p><p><a href="/projects/">Back to Projects</a></p>';
+    return;
+  }
+
+  var html = '';
+  html += '<h1>' + project.title + '</h1>';
+
+  if (project.status && project.status.length > 0) {
+    html += '<div class="project-status">';
+    project.status.forEach(function(s) {
+      var cls = 'badge-funded';
+      if (s === 'On-going') cls = 'badge-ongoing';
+      else if (s === 'Fellowship') cls = 'badge-fellowship';
+      else if (s === 'Entrepreneurship') cls = 'badge-entrepreneurship';
+      html += '<span class="badge ' + cls + '">' + s + '</span> ';
+    });
+    html += '</div>';
+  }
+
+  if (project.video) {
+    html += '<div class="project-detail-video"><video controls><source src="' + project.video + '" type="video/mp4">Your browser does not support the video tag.</video></div>';
+  }
+
+  if (project.image) {
+    html += '<div class="project-detail-image"><img src="' + project.image + '" alt=""></div>';
+  }
+
+  if (project.body) {
+    html += '<div class="project-detail-body">' + project.body + '</div>';
+  } else {
+    html += '<div class="project-detail-body"><p>' + project.description + '</p></div>';
+  }
+
+  html += '<div class="project-detail-fields">';
+
+  if (project.funding) {
+    html += '<p><strong>Funding:</strong> ' + project.funding + '</p>';
+  }
+
+  if (project.external_link) {
+    html += '<p><strong>External Link:</strong> <a href="' + project.external_link + '" target="_blank">' + project.external_link + '</a></p>';
+  }
+
+  if (project.categories && project.categories.length > 0) {
+    html += '<p><strong>Categories:</strong> ';
+    html += project.categories.map(function(c) {
+      return '<span class="badge" style="background:#eee;color:#333;">' + c + '</span>';
+    }).join(' ');
+    html += '</p>';
+  }
+
+  html += '</div>';
+  html += '<p style="margin-top: 20px;"><a href="/projects/">&larr; Back to Projects</a></p>';
+
+  el.innerHTML = html;
+  document.title = project.title + ' | Myeong Lee';
+})();
+</script>

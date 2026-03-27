@@ -1,0 +1,37 @@
+<div class="sidebar-profile">
+  <img src="{{ '/assets/images/mlee.jpg' | relative_url }}" alt="Myeong Lee" class="profile-photo">
+  <p class="profile-title">Assistant Professor</p>
+  <p class="profile-title">Director of CIL</p>
+  <p class="profile-dept">Information Sciences &amp; Tech</p>
+  <p class="profile-dept">School of Computing</p>
+  <p class="profile-dept">George Mason University</p>
+  <p class="profile-dept">Arlington, VA 22201, U.S.</p>
+
+  <div class="profile-icons">
+    <a href="mailto:mlee89@gmu.edu" title="Email"><img src="{{ '/assets/images/icons/mail.png' | relative_url }}" alt="Email"></a>
+    <a href="https://github.com/myeong" title="GitHub"><img src="{{ '/assets/images/icons/github.png' | relative_url }}" alt="GitHub"></a>
+    <a href="https://twitter.com/deeperlee" title="Twitter"><img src="{{ '/assets/images/icons/twitter.png' | relative_url }}" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/myeonglee/" title="LinkedIn"><img src="{{ '/assets/images/icons/linkedin.jpg' | relative_url }}" alt="LinkedIn"></a>
+  </div>
+
+  {% if page.url == '/' %}
+  <div class="sidebar-section sidebar-recent-pubs">
+    <h3>Recent Publications</h3>
+    <ul class="sidebar-list">
+      {% assign recent_pubs = site.data.publications | slice: 0, 7 %}
+      {% for pub in recent_pubs %}
+      <li>
+        {% if pub.slug %}<a href="{{ '/publications/' | append: pub.slug | append: '/' | relative_url }}">{% endif %}
+        {{ pub.title }}
+        {% if pub.slug %}</a>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <div class="profile-logos">
+    <a href="https://cil.cec.gmu.edu" target="_blank"><img src="{{ '/assets/images/cil_logo.png' | relative_url }}" alt="CIL Logo" class="logo-cil"></a>
+    <a href="https://orcid.org/0000-0002-7643-4797" target="_blank"><img src="{{ '/assets/images/orcid-logo.png' | relative_url }}" alt="ORCID" class="logo-orcid"></a>
+  </div>
+</div>
