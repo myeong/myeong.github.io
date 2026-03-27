@@ -99,6 +99,11 @@
         a.setAttribute('rel', 'noopener');
       }
     });
+
+    // Underline "Myeong Lee" in author lists
+    document.querySelectorAll('.pub-authors').forEach(function(el) {
+      el.innerHTML = el.innerHTML.replace(/Myeong Lee/g, '<span style="text-decoration:underline">Myeong Lee</span>');
+    });
   </script>
 </body>
 </html>

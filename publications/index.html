@@ -38,7 +38,7 @@ layout_class: wide-content
       </div>
       <div class="pub-venue">{{ pub.venue }}</div>
       <div class="pub-authors">
-        {{ pub.authors | replace: "Myeong Lee", "<span class='myeong'>Myeong Lee</span>" | replace: "Myeong", "<span class='myeong'>Myeong</span>" }}
+        {{ pub.authors }}
       </div>
     </div>
     {% if pub.slug %}</a>{% endif %}
