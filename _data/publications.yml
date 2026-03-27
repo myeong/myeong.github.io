@@ -1713,6 +1713,7 @@
     University.</p>"
   external_link: http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21449204400002591
   thumbnail: "/assets/images/publications/swarm.jpg"
+  video: "/assets/videos/swarm.mp4"
 - year: 2009
   title: Image Retrieval Systems based on Color Similarity and Edge Detection
   slug: image-retrieval-systems-based-on-color-similarity-and-edge-detection
