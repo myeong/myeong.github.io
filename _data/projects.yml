@@ -424,6 +424,7 @@
     Research Lab in 2010. Siwon Yang (currently, a developer at Hyundai Mobis) and
     I implemented a VoIP testing program on Linux using C and SLIK codec APIs. The
     video is a demo of the testing program.</p>"
+  video: "/assets/videos/silk.mp4"
 - title: Fundamental Technologies for the Multi-Scale Mass-Deployable Cooperative
     Robots
   slug: fundamental-technologies-for-the-multi-scale-mass-deployable-cooperative-robots
