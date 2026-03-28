@@ -27,6 +27,9 @@
     (URL: <a href="https://orc.gmu.edu">https://orc.gmu.edu</a>, NSF #2018631) and
     funded in part by grants from the National Science Foundation (Award #2217706).</p>
     <p>*Myeong Lee is the corresponding author.</p>'
+  citation: 'Lee, M., Gkountouna, O., Mahabir, R., Wang, J., & Fadahunsi, T. (forthcoming).
+    Organizational Ecology of Hyperlocal Groups: How Does Category Fuzziness Relate
+    to Participation in an Event-Based Social Network?. <em>Sage Open</em>.'
 - year: 2026
   title: 'Care Workers'' Risk Work: How Nannies Manage Invisible Threats in Employers''
     Homes'
@@ -49,6 +52,10 @@
     support both direct and indirect strategies while addressing the underlying constraints
     through enhanced public awareness, thereby making domestic childcare workers’
     workplace risks more visible and better understood.</p>"
+  citation: 'Jeong, S., Lee, J., Lee, M., & Chen, Y. (forthcoming). Care Workers''
+    Risk Work: How Nannies Manage Invisible Threats in Employers'' Homes. <em>Proceedings
+    of the CHI Conference on Human Factors in Computing Systems (CHI ''26)</em>, Apr.
+    13-17. Barcelona, Spain.'
 - year: 2026
   title: 'Designing for Upstream Work: Learnings from Co-Design for Preventative Solutions
     with Urban Fire Departments'
@@ -72,6 +79,11 @@
     our co-designed prototype, a data dashboard to visibilize and track the outcomes
     of alternate EMS response programs for different stakeholder audiences, and detail
     good practices for designing to support local and community based upstream initiatives.  </p>"
+  citation: 'Warren, R., Mandhre, R., Siraj, H., Mejia, G. M., Lee, M., Chen, Y.,
+    & Pine, K. (forthcoming). Designing for Upstream Work: Learnings from Co-Design
+    for Preventative Solutions with Urban Fire Departments. <em>Proceedings of the
+    CHI Conference on Human Factors in Computing Systems (CHI ''26)</em>, Apr. 13-17.
+    Barcelona, Spain.'
 - year: 2026
   title: 'Local News at a Distance: Psychological Distance and the Formation of News
     Deserts'
@@ -103,6 +115,10 @@
     (URSP) sponsored by the Office of Student Creative Activities and Research (OSCAR).
     The 1st author, Tugce Gundogdu, is the URSP student for Fall 2025. </p>"
   external_link: https://doi.org/10.47989/ir31iConf64259
+  citation: 'Gundogdu, T., Wang, J., Butler, B. S., & Lee, M. (2026). Local News at
+    a Distance: Psychological Distance and the Formation of News Deserts. <em>Information
+    Research an international electronic journal (iConference)</em>, 31(iConf(2026)).
+    pp. 1042-1053. Mar. 29-Apr. 2. Edinburgh, U.K. <a href="https://doi.org/10.47989/ir31iConf64259">https://doi.org/10.47989/ir31iConf64259</a>'
 - year: 2026
   title: 'Disability Misinformation on Facebook: A Comparison of LLM-based Fact-Checking
     Tools'
@@ -131,6 +147,10 @@
     of LLM-based tools.</p> <p>* This paper is an outcome of the ASSIP internship
     at Mason, designed for high school and undergraduate students, in 2024.</p>"
   external_link: https://doi.org/10.47989/ir31iConf64259
+  citation: 'Prazak, I., Padovani, L., Lim, Y., Hsu, J. H. P., & Lee, M. (2026). Disability
+    Misinformation on Facebook: A Comparison of LLM-based Fact-Checking Tools. <em>Information
+    Research an international electronic journal (iConference)</em>, 31(iConf(2026)).
+    pp. 1042-1053. Mar. 29-Apr. 2. Edinburgh, U.K. <a href="https://doi.org/10.47989/ir31iConf64259">https://doi.org/10.47989/ir31iConf64259</a>'
 - year: 2026
   title: 'Predicting the Success of Local Gatherings: A Comparison of Organizer- and
     Participant-side Success in Meetup'
@@ -163,6 +183,10 @@
     that support urban community life.</p> <p> </p> <p>*This study was funded by 4VA
     at Mason. </p>"
   external_link: https://doi.org/10.1016/j.cities.2025.106530
+  citation: 'Hsu, J. H., Mahabir, R., Gonzales, V., Gkountouna, O., Hilal, A., & Lee,
+    M. (2026). Predicting the Success of Local Gatherings: A Comparison of Organizer-
+    and Participant-side Success in Meetup. <em>Cities</em>, 169. 106530. Elsevier.
+    <a href="https://doi.org/10.1016/j.cities.2025.106530">https://doi.org/10.1016/j.cities.2025.106530</a>'
 - year: 2025
   title: 'Leveling Socioeconomic Disparities: The Role of Service Availability in
     School Dropout Rates'
@@ -192,6 +216,9 @@
     supported in part by the Institute for Digital InnovAtion (IDIA) at George Mason
     University.</p>
   external_link: https://journals.sagepub.com/eprint/MTYMIPIPFFK9GMJNE5CT/full
+  citation: 'Kim, J., Hsu, J. H., Sohn, G., Lee, G. M., & Lee, M. (in press). Leveling
+    Socioeconomic Disparities: The Role of Service Availability in School Dropout
+    Rates. <em>Research on Social Work Practice (RSWP)</em>. <a href="https://journals.sagepub.com/eprint/MTYMIPIPFFK9GMJNE5CT/full">https://journals.sagepub.com/eprint/MTYMIPIPFFK9GMJNE5CT/full</a>'
 - year: 2025
   title: 'Quantifying Urban Change across U.S. Cities using the 1930s Redlining Maps:
     A Preliminary Study'
@@ -216,6 +243,10 @@
     aiding researchers and policymakers in understanding the spatial legacy of historical
     policies.</p>"
   external_link: https://doi.org/10.1002/pra2.1458
+  citation: 'Lee, G. & Lee, M. (2025). Quantifying Urban Change across U.S. Cities
+    using the 1930s Redlining Maps: A Preliminary Study. <em>Proceedings of the Association
+    for Information Science and Technology (ASIST ''25)</em>, 62(1). pp. 1532-1534.
+    Wiley. Nov. 14-18. Washington D.C. <a href="https://doi.org/10.1002/pra2.1458">https://doi.org/10.1002/pra2.1458</a>'
 - year: 2025
   title: '"We Just Get Frustrated": Exploring Factors that Shape Information Provision
     in Disability Services'
@@ -239,6 +270,11 @@
     gaps and infrastructural complexity. The study offers a grounded account of how
     disability providers manage and coordinate information work in disability systems.</p>"
   external_link: https://doi.org/10.1002/pra2.1395
+  citation: 'Abubakr, L., Whitman, S., Shrivastava, T., Pine, K., Kim, P., & Lee,
+    M. (2025). "We Just Get Frustrated": Exploring Factors that Shape Information
+    Provision in Disability Services. <em>Proceedings of the Association for Information
+    Science and Technology (ASIST ''25)</em>, 62(1). pp. 1333-1335. Wiley. Nov. 14-18.
+    Washington D.C. <a href="https://doi.org/10.1002/pra2.1395">https://doi.org/10.1002/pra2.1395</a>'
 - year: 2025
   title: 'Spatial Dynamics of Local News: Mapping City Co-Mentions in Alabama'
   slug: spatial-dynamics-of-local-news-mapping-city-co-mentions-in-alabama
@@ -258,6 +294,10 @@
     media-driven spatial imaginaries, contributing to research on information geographies
     and shedding light on the relational dimensions of local information.</p>"
   external_link: https://doi.org/10.1002/pra2.1516
+  citation: 'Wang, J., Burcu, T., Butler, B. S., & Lee, M. (2025). Spatial Dynamics
+    of Local News: Mapping City Co-Mentions in Alabama. <em>Proceedings of the Association
+    for Information Science and Technology (ASIST ''25)</em>, 62(1). pp. 1708-1710.
+    Wiley. Nov. 14-18. Washington D.C. <a href="https://doi.org/10.1002/pra2.1516">https://doi.org/10.1002/pra2.1516</a>'
 - year: 2025
   title: 'News Deserts as Information Problems: A Case Study of Local News Coverage
     in Alabama'
@@ -283,6 +323,10 @@
     of the uneven distribution of local information, vital for civic engagement and
     community well-being.</p> <p>* Myeong Lee is the corresponding author. </p>"
   external_link: https://doi.org/10.1002/pra2.1293
+  citation: 'Wang, J., Burcu, T., Ivic, R., Butler, B. S., & Lee, M. (2025). News
+    Deserts as Information Problems: A Case Study of Local News Coverage in Alabama.
+    <em>Proceedings of the Association for Information Science and Technology (ASIST
+    ''25)</em>, 62(1). pp. 741-753. Wiley. Nov. 14-18. Washington D.C. <a href="https://doi.org/10.1002/pra2.1293">https://doi.org/10.1002/pra2.1293</a>'
 - year: 2025
   title: 'From Open-Ended Text to Taxonomy: An LLM-based Framework for Information
     Sources for Disability Services'
@@ -306,6 +350,10 @@
     scalable framework for processing open-ended texts.</p> <p> </p> <p>* This research
     was supported by the Virginia Board for People with Disabilities (VBPD).</p>"
   external_link: https://doi.org/10.1002/pra2.1313
+  citation: 'Hsu, J. H. P. & Lee, M. (2025). From Open-Ended Text to Taxonomy: An
+    LLM-based Framework for Information Sources for Disability Services. <em>Proceedings
+    of the Association for Information Science and Technology (ASIST ''25)</em>, 62(1).
+    pp. 915-919. Wiley. Nov. 14-18. Washington D.C. <a href="https://doi.org/10.1002/pra2.1313">https://doi.org/10.1002/pra2.1313</a>'
 - year: 2025
   title: 'Information Awareness, Access, and Socioeconomic Deprivation: A Cross-Jurisdictional
     Study of Local Health Information'
@@ -342,6 +390,9 @@
     regarding the survey protocols and processes were approved by the Institutional
     Review Board (IRB) of the first author’s institution (IRB #SKKU 2023-10-013).</p>'
   external_link: https://doi.org/10.1108/AJIM-11-2024-0863
+  citation: 'Oh, S., Lee, M., & Lee, J. (in press). Information Awareness, Access,
+    and Socioeconomic Deprivation: A Cross-Jurisdictional Study of Local Health Information.
+    <em>Aslib Journal of Information Management</em>. <a href="https://doi.org/10.1108/AJIM-11-2024-0863">https://doi.org/10.1108/AJIM-11-2024-0863</a>'
 - year: 2025
   title: Mapping Risk Work and Designing Technologies to Support it in CSCW Research
   slug: mapping-risk-work-and-designing-technologies-to-support-it-in-cscw-research
@@ -370,6 +421,11 @@
     <p>* This research is supported by National Science Foundation (NSF) #2211360. </p>
     <p>* This paper is a workshop proposal, which will be held in CSCW 2025. </p>"
   external_link: https://doi.org/10.1145/3715070.3748299
+  citation: Lee, M., Mejia, G. M., Warren, R., Chen, Y., Siraj, H., Mazmanian, M.,
+    Mandhre, R., & Pine, K. (2025). Mapping Risk Work and Designing Technologies to
+    Support it in CSCW Research. <em>Companion of the ACM Conference on Computer Supported
+    Cooperative Work and Social Computing (CSCW '25)</em>, pp. 178-182. ACM. Oct.
+    18-22. Bergen, Norway. <a href="https://doi.org/10.1145/3715070.3748299">https://doi.org/10.1145/3715070.3748299</a>
 - year: 2025
   title: Exploring Librarians' Experiences and Perceptions of Public Library Data
     Work
@@ -396,6 +452,9 @@
     and contribute to enhancing survey methods and workflow processes.</p> <p> </p>
     <p>The paper is published in Korean. </p>"
   external_link: http://dx.doi.org/10.16981/kliss.56.1.202503.55
+  citation: Lee, J., Park, S. J., Lee, M., & Oh, S. (2025). Exploring Librarians'
+    Experiences and Perceptions of Public Library Data Work. <em>Journal of Korean
+    Library and Information Science Society</em>, 56(1). 55-77. <a href="http://dx.doi.org/10.16981/kliss.56.1.202503.55">http://dx.doi.org/10.16981/kliss.56.1.202503.55</a>
 - year: 2024
   title: Bridging Traditional Digital Humanities and Archives through Computational
     Archival Science
@@ -421,6 +480,11 @@
     Asheville City Council and County Commission to repair the harm done by decades
     of racial discrimination and systemic oppression against Black Asheville residents.</p>"
   external_link: https://doi.org/10.4324/9781003327738
+  citation: Marciano, R., Grant, R., Hill, A., Nicholas, P., Scheer, N., Wierdak,
+    A., Conrad, M., McCoy, R., Lee, M., & Robinson, P. (2024). Bridging Traditional
+    Digital Humanities and Archives through Computational Archival Science. In <em>The
+    Routledge Companion to Libraries, Archives, and the Digital Humanities</em>. <a
+    href="https://doi.org/10.4324/9781003327738">https://doi.org/10.4324/9781003327738</a>
 - year: 2024
   title: 2024 Assessment of Virginia's Information Ecology of the Disability Services
     System
@@ -473,6 +537,10 @@
     Points of view or opinions do not, therefore, necessarily represent official ACL
     policy.</em></p>"
   external_link: https://vbpd.virginia.gov/wp-content/uploads/2024/08/2024-Assessement-of-Information-Ecology.pdf
+  citation: Lee, M., Abubakr, L., Shrivastava, T., Hsu, J. H. P., Whitman, S. A.,
+    & Kim, P. (2024). 2024 Assessment of Virginia's Information Ecology of the Disability
+    Services System. <em>Annual Assessments Reports by Virginia Board for People with
+    Disabilities (VBPD)</em>. <a href="https://vbpd.virginia.gov/wp-content/uploads/2024/08/2024-Assessement-of-Information-Ecology.pdf">https://vbpd.virginia.gov/wp-content/uploads/2024/08/2024-Assessement-of-Information-Ecology.pdf</a>
 - year: 2024
   title: 'Understanding Information Managers: A Thematic Analysis of Information Challenges
     of Disability Service Providers'
@@ -507,6 +575,11 @@
     and Human Services, Washington, D.C. 20201. Points of view or opinions do not,
     therefore, necessarily represent official ACL policy.</em></p>"
   external_link: https://doi.org/10.1145/3678884.3681917
+  citation: 'Abubakr, L., Shrivastava, T., Whitman, S., Pine, K., & Lee, M. (2024).
+    Understanding Information Managers: A Thematic Analysis of Information Challenges
+    of Disability Service Providers. <em>Companion of the ACM Conference on Computer
+    Supported Cooperative Work and Social Computing (CSCW ''24)</em>, pp. 629-634.
+    ACM. Nov. 9-13. San Jose, Costa Rica. <a href="https://doi.org/10.1145/3678884.3681917">https://doi.org/10.1145/3678884.3681917</a>'
 - year: 2024
   title: New Kids on the Block? Exploring Onboarding Strategies of Prospective Professionals
     in Cybersecurity
@@ -529,6 +602,10 @@
     on a broader spectrum, such as those attempting to change careers and “break in”
     to the profession.</p>"
   external_link: https://aisel.aisnet.org/amcis2024/is_education/is_education/27
+  citation: Willis, M. A. & Lee, M. (2024). New Kids on the Block? Exploring Onboarding
+    Strategies of Prospective Professionals in Cybersecurity. <em>Americas Conference
+    on Information Systems (AMCIS '24)</em>, 27. Aug. 15-17. Salt Lake City, UT. <a
+    href="https://aisel.aisnet.org/amcis2024/is_education/is_education/27">https://aisel.aisnet.org/amcis2024/is_education/is_education/27</a>
 - year: 2024
   title: 'Data Discretion: Screen-Level Bureaucrats and Municipal Decision-Making'
   slug: data-discretion-screen-level-bureaucrats-and-municipal-decision-making
@@ -554,6 +631,9 @@
     in government, and how data discretion is not limited only to the progressive
     values manifested in the example of a Northeastern city.</p>"
   external_link: https://doi.org/10.1145/3652950
+  citation: 'Gordon, E., Harlow, J., Whitman, S., & Lee, M. (2024). Data Discretion:
+    Screen-Level Bureaucrats and Municipal Decision-Making. <em>Digital Government:
+    Research and Practice (DGOV)</em>, 5(2). pp. 1-14. ACM. <a href="https://doi.org/10.1145/3652950">https://doi.org/10.1145/3652950</a>'
 - year: 2024
   title: An Evaluation of GPT-4V for Transcribing the Urban Renewal Hand-Written Collection
   slug: an-evaluation-of-gpt-4v-for-transcribing-the-urban-renewal-hand-written
@@ -579,6 +659,9 @@
     processes. Figure 1 shows an example of an original document.</p> <p> </p> <p>*
     Acknowledgments: We thank Ms. Priscilla Robinson and Dr. Richard Marciano for
     their continuing collaboration and the scanning of the archival documents.</p>"
+  citation: Lee, M. & Hsu, J. H. P. (2024). An Evaluation of GPT-4V for Transcribing
+    the Urban Renewal Hand-Written Collection. <em>Digital Humanities (DH 2024)</em>,
+    ADHO. Aug. 6-9. Arlington, VA.
 - year: 2024
   title: 'Examining the Shift in Political Inclination of Korean Middle School Language
     Textbooks between the Independence and the Korean War (1945-1953): A Network Modeling
@@ -619,6 +702,10 @@
     known political leanings with the calculated scores. The differences in scores
     are statistically significant across the groups, as determined by ANOVA (F[2,
     51] = 21.96, p &lt; 0.001), confirming the method's validity.</p> <p> </p>
+  citation: 'Lee, E. & Lee, M. (2024). Examining the Shift in Political Inclination
+    of Korean Middle School Language Textbooks between the Independence and the Korean
+    War (1945-1953): A Network Modeling Approach. <em>Digital Humanities (DH 2024)</em>,
+    ADHO. Aug. 6-9. Arlington, VA.'
 - year: 2024
   title: Exploring Domestic Workers' Risk Work During the COVID-19 Pandemic
   slug: exploring-domestic-workers-risk-work-during-the-covid-19-pandemic
@@ -640,6 +727,9 @@
     initial discussion on risk practices, communication, and policy to support domestic
     workers during crises.</p>"
   external_link: https://www.ideals.illinois.edu/items/130014
+  citation: Siraj, H., Whitman, S., Pine, K., & Lee, M. (2024). Exploring Domestic
+    Workers' Risk Work During the COVID-19 Pandemic. <em>iConference 2024 Proceedings</em>,
+    LNCS. April 22-26. Changchun, China. <a href="https://www.ideals.illinois.edu/items/130014">https://www.ideals.illinois.edu/items/130014</a>
 - year: 2023
   title: 'AI or Authors?: A Comparative Analysis of BERT and ChatGPT''s Keyword Selection
     in Digital Divide Studies'
@@ -660,6 +750,10 @@
     the scope of the dataset and conduct an in-depth analysis of keyword patterns
     across the language models.</p>"
   external_link: https://doi.org/10.1002/pra2.926
+  citation: 'Kang, W., Lee, M., Lee, J., & Oh, S. (2023). AI or Authors?: A Comparative
+    Analysis of BERT and ChatGPT''s Keyword Selection in Digital Divide Studies. <em>Proceedings
+    of the Association for Information Science and Technology (ASIST ''23)</em>, 60(1).
+    pp. 924-926. Wiley. Oct 27-31. London, U.K. <a href="https://doi.org/10.1002/pra2.926">https://doi.org/10.1002/pra2.926</a>'
 - year: 2023
   title: 'Aggregate-Level Analysis of Information Behavior: A Study of Public Library
     Book Circulation'
@@ -680,6 +774,10 @@
     and public library book circulation, we discuss the potential to develop scalable
     theories and relevant data-driven approaches in information behavior research.</p>"
   external_link: https://doi.org/10.1002/pra2.933
+  citation: 'Lee, M., Lee, J., Kang, W., & Oh, S. (2023). Aggregate-Level Analysis
+    of Information Behavior: A Study of Public Library Book Circulation. <em>Proceedings
+    of the Association for Information Science and Technology (ASIST ''23)</em>, 60(1).
+    pp. 931-933. Wiley. Oct 27-31. London, U.K. <a href="https://doi.org/10.1002/pra2.933">https://doi.org/10.1002/pra2.933</a>'
 - year: 2023
   title: The NYC311 App & Community Engagement in Coproducing Municipal Services
   slug: the-nyc311-app-community-engagement-in-coproducing-municipal-services
@@ -704,6 +802,9 @@
     technology. Accordingly, governments are advised to heed these factors when adopting
     digital technology to support public service coproduction.</p>"
   external_link: https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/12
+  citation: Lee, M., Tang, X., & Wang, P. (2023). The NYC311 App & Community Engagement
+    in Coproducing Municipal Services. <em>Americas Conference on Information Systems
+    (AMCIS '23)</em>, Aug. 10-12. Panama City, Panama. <a href="https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/12">https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/12</a>
 - year: 2023
   title: 'Two-sided Cultural Niches: Topic Overlap, Geospatial Correlation, and Local
     Group Activities on Event-based Social Networks'
@@ -717,6 +818,10 @@
     <p>As event-based social networks (EBSNs) such as Meetup.com and Facebook Events gain popularity in managing local events like farmers' markets and social gatherings, they create two-sided cultural niches where event organizers and participants benefit from the platform while influencing each other. Among various factors, niche overlap, an ecological feature, has been studied as a key factor that shapes the success of online communities. While such ecological factors may also shape the success of EBSN-based local groups, the context of EBSNs raises unique challenges in understanding the roles of cultural niches due to the informal nature of these local groups and their geographical embeddedness. In this paper, we examine the effects of Meetup groups' topic overlap and geospatial correlation on the activity levels of both organizers and participants, using one-year Meetup data for 500 cities in the United States. We find that (1) a group's topic overlap with other groups on EBSNs is associated with its activity levels, and (2) local groups' geospatial correlation may moderate the effects of topic overlap for EBSN users, but inconsistently. The results provide a baseline understanding of EBSN-based groups from an ecological perspective.</p>
     <p>* Myeong Lee is the corresponding author.</p>
   external_link: https://doi.org/10.1145/3593743.3593758
+  citation: 'Hsu, J. H., Shin, H., Park, N., & Lee, M. (2023). Two-sided Cultural
+    Niches: Topic Overlap, Geospatial Correlation, and Local Group Activities on Event-based
+    Social Networks. <em>International Conference on Communities and Technologies
+    (C&T ''23)</em>, pp. 54-63. ACM. May 29-June 2. Lahti, Finland. <a href="https://doi.org/10.1145/3593743.3593758">https://doi.org/10.1145/3593743.3593758</a>'
 - year: 2023
   title: '"I thought I was going to die there:" Socio-political contexts and the plight
     of undocumented Latinx in the COVID-19 pandemic'
@@ -738,6 +843,10 @@
     food insecurity and lack of access to healthcare emerged because of social-political
     contexts including low-wage labor and lack of a safety net.</p>"
   external_link: https://doi.org/10.1016/j.ssmqr.2023.100242
+  citation: Cleaveland, C. W., Lee, M., & Gewa, C. A. (2023). "I thought I was going
+    to die there:" Socio-political contexts and the plight of undocumented Latinx
+    in the COVID-19 pandemic. <em>SSM-Qualitative Research in Health</em>, Vol. 3.
+    100242. Elsevier. <a href="https://doi.org/10.1016/j.ssmqr.2023.100242">https://doi.org/10.1016/j.ssmqr.2023.100242</a>
 - year: 2023
   title: How Do YouTubers Collaborate? A Preliminary Analysis of YouTubers' Collaboration
     Networks
@@ -767,6 +876,10 @@
     for high school and undergraduate students. We thank the ASSIP and Dr. Andrea
     Cobb for their support for this study.</p>"
   external_link: https://hdl.handle.net/2142/117376
+  citation: Siraj, H., Machavarapu, A., Hwang, J., Radhakrishnan, K., Adams, S., Kim,
+    J., & Lee, M. (2023). How Do YouTubers Collaborate? A Preliminary Analysis of
+    YouTubers' Collaboration Networks. <em>iConference 2023 Proceedings</em>, March
+    27-29. Barcelona, Spain. <a href="https://hdl.handle.net/2142/117376">https://hdl.handle.net/2142/117376</a>
 - year: 2022
   title: 'Towards an Expectation-Oriented Model of Public Service Quality: A Preliminary
     Study of NYC 311'
@@ -790,12 +903,16 @@
     data provides an initial assessment of the model’s validity. </p> <p><em>* Myeong
     Lee is the corresponding author.</em></p>"
   external_link: https://link.springer.com/chapter/10.1007/978-3-031-19097-1_31
+  citation: 'Hsu, J. H. P., Wang, J., & Lee, M. (2022). Towards an Expectation-Oriented
+    Model of Public Service Quality: A Preliminary Study of NYC 311. <em>International
+    Conference on Social Informatics (SocInfo ''22)</em>, LNCS 13618. pp. 499-508.
+    Springer. Oct 19-22. Glasgow, U.K. <a href="https://link.springer.com/chapter/10.1007/978-3-031-19097-1_31">https://link.springer.com/chapter/10.1007/978-3-031-19097-1_31</a>'
 - year: 2022
   title: Exploring Secondary Teachers' Needs and Values in Culturally Responsive Teaching
   slug: exploring-secondary-teachers-needs-and-values-in-culturally-responsive-teaching
   authors: Taylor Stevens, Olga Gkountouna, Myeong Lee
-  venue: Companion of the ACM Conference on Computer Supported Cooperative Work
-    and Social Computing (CSCW '22). pp. 159-163. ACM. Nov 8-22.
+  venue: Companion of the ACM Conference on Computer Supported Cooperative Work and
+    Social Computing (CSCW '22). pp. 159-163. ACM. Nov 8-22.
   publication_type: Extended Abstract
   thumbnail: "/assets/images/publications/crt.png"
   body: "<p>Value sensitive design (VSD) is a methodology that focuses on examining
@@ -812,6 +929,10 @@
     interview analysis provide an initial understanding of how needs, values, and
     educational contexts are intertwined.</p>"
   external_link: https://doi.org/10.1145/3500868.3559473
+  citation: Stevens, T., Gkountouna, O., & Lee, M. (2022). Exploring Secondary Teachers'
+    Needs and Values in Culturally Responsive Teaching. <em>Companion of the ACM Conference
+    on Computer Supported Cooperative Work and Social Computing (CSCW '22)</em>, pp.
+    159-163. ACM. Nov 8-22. <a href="https://doi.org/10.1145/3500868.3559473">https://doi.org/10.1145/3500868.3559473</a>
 - year: 2022
   title: 'Evaluating Visitor Engagement Through Instagram: A Case Study of the One
     with Eternity: Yayoi Kusama in the Hirshhorn Collection'
@@ -835,6 +956,10 @@
     as a means to understand people’s engagement in exhibitions and potentially facilitate
     their interactions through social media.</p> <p>Photo credit: NPR</p>"
   external_link: https://doi.org/10.1002/pra2.705
+  citation: 'Kim, J. & Lee, M. (2022). Evaluating Visitor Engagement Through Instagram:
+    A Case Study of the One with Eternity: Yayoi Kusama in the Hirshhorn Collection.
+    <em>Proceedings of the Association for Information Science and Technology (ASIST
+    ''22)</em>, 59(1). Wiley. Oct 29-Nov 1. Pittsburgh, PA. <a href="https://doi.org/10.1002/pra2.705">https://doi.org/10.1002/pra2.705</a>'
 - year: 2022
   title: 'Delay of Routine Health Care During the COVID-19 Pandemic: A Theoretical
     Model of Individuals'' Risk Assessment and Decision Making'
@@ -857,10 +982,10 @@
     decisions to delay routine health care while they operate at two levels, internal
     and external to one's social bubble, interacting with each other.</p> <p><em>*
     Myeong Lee is the corresponding author. </em></p> <p> </p>"
-  citation: 'Prakriti Shukla, Myeong Lee, Samantha A. Whitman, Kathleen H. Pine, Delay
-    of routine health care during the COVID-19 pandemic: A theoretical model of individuals’
-    risk assessment and decision making, Social Science &amp; Medicine, 307(2022). 115164. ISSN
-    0277-9536, <a href="https://doi.org/10.1016/j.socscimed.2022.115164">https://doi.org/10.1016/j.socscimed.2022.115164</a>.'
+  citation: 'Shukla, P., Lee, M., Whitman, S., & Pine, K. H. (2022). Delay of Routine
+    Health Care During the COVID-19 Pandemic: A Theoretical Model of Individuals''
+    Risk Assessment and Decision Making. <em>Social Science & Medicine (SSM)</em>,
+    307(2022). 115164. Elsevier. <a href="https://www.sciencedirect.com/science/article/pii/S0277953622004701">https://www.sciencedirect.com/science/article/pii/S0277953622004701</a>'
   external_link: https://www.sciencedirect.com/science/article/pii/S0277953622004701
 - year: 2022
   title: 'In Search of Social Justice: The Role of Digital Technology in a Government
@@ -889,13 +1014,17 @@
     justice. These insights can help reconcile different theories of social justice,
     as well as develop effective government IS.</p>"
   external_link: https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.17481abstract
+  citation: 'Tang, X., Lee, M., Hangen, F., O''Brien, D. T., & Wang, P. (2022). In
+    Search of Social Justice: The Role of Digital Technology in a Government Information
+    System. <em>Academy of Management Annual Meeting Proceedings (AOM ''22)</em>,
+    2022(1). Aug 5-9. Seattle, U.S. <a href="https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.17481abstract">https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.17481abstract</a>'
 - year: 2022
   title: 'Social Justice & Technical Efficiency: The Role of Digital Technology in
     Boston''s 311 System'
   slug: social-justice-technical-efficiency-the-role-of-digital-technology-in-bostons
   authors: Ping Wang, Myeong Lee, Forrest Hangen, Daniel T O'Brien, Xinlin Tang
-  venue: European Conference on Information Systems (ECIS 2022) Research Papers.
-    117. June 18-24. Timisoara, Romania.
+  venue: European Conference on Information Systems (ECIS 2022) Research Papers. 117.
+    June 18-24. Timisoara, Romania.
   publication_type: Full Paper
   award_note: Best Full Research Paper, Runner-Up (Top-3)
   thumbnail: "/assets/images/publications/dcu.png"
@@ -913,18 +1042,18 @@
     different theories of social justice. Practically speaking, technical efficiency
     and social justice should be balanced when employing digital technology in coproducing
     government services.</p>"
-  citation: '<p>Wang, Ping; Lee, Myeong; Hangen, Forrest; O''Brien, Daniel T.; and
-    Tang, Xinlin. (2022). "Social Justice &amp; Technical Efficiency: The Role of
-    Digital Technology in Boston''s 311 System". European Conference on Information
-    Systems (ECIS 2022). 117. <a href="https://aisel.aisnet.org/ecis2022_rp/117">https://aisel.aisnet.org/ecis2022_rp/117</a></p>'
+  citation: 'Wang, P., Lee, M., Hangen, F., O''Brien, D. T., & Tang, X. (2022). Social
+    Justice & Technical Efficiency: The Role of Digital Technology in Boston''s 311
+    System. <em>European Conference on Information Systems (ECIS 2022) Research Papers</em>,
+    117. June 18-24. Timisoara, Romania. <a href="https://aisel.aisnet.org/ecis2022_rp/117/">https://aisel.aisnet.org/ecis2022_rp/117/</a>'
   external_link: https://aisel.aisnet.org/ecis2022_rp/117/
 - year: 2022
   title: 'Towards a Socio-technical System of Culturally Responsive Teaching: The
     Interplay between Individuals, Communities, and Resources'
   slug: towards-a-socio-technical-system-of-culturally-responsive-teaching-the
   authors: Taylor Stevens, Myeong Lee, Olga Gkountouna
-  venue: 'ACM CHI Workshop on "There is no justice, just us": Making Mosaics of
-    Justice in Social Justice HCI. April 14. New Orleans, U.S.'
+  venue: 'ACM CHI Workshop on "There is no justice, just us": Making Mosaics of Justice
+    in Social Justice HCI. April 14. New Orleans, U.S.'
   publication_type: Workshop Paper
   thumbnail: "/assets/images/publications/crt_sociotech.png"
   body: "<p>Culturally Responsive Teaching (CRT) is a set of instructional practices
@@ -969,10 +1098,10 @@
     components embedded in educational practices could mediate or moderate such interplays
     in equitable and effective ways.</p> <p> </p> <p>* This project is led by Taylor
     Stevens, a PhD candidate in the Computational and Data Sciences program at GMU. </p>"
-  citation: '<p>Stevens, T., Lee, M., &amp; Gkountouna, O. (2022). Towards a Socio-technical
+  citation: 'Stevens, T., Lee, M., & Gkountouna, O. (2022). Towards a Socio-technical
     System of Culturally Responsive Teaching: The Interplay between Individuals, Communities,
-    and Resources. In ACM CHI Workshop on "There is no justice, just us": Making Mosaics
-    of Justice in Social Justice HCI. April 14.</p>'
+    and Resources. <em>ACM CHI Workshop on "There is no justice</em>, just us": Making
+    Mosaics of Justice in Social Justice HCI. April 14. New Orleans, U.S.'
 - year: 2021
   title: 'The Effects of Socioeconomic Deprivation on Public Library Book Circulation:
     A Community-level Study'
@@ -1000,9 +1129,9 @@
     in designing strategic plans for public libraries.</p> <p>* Myeong Lee is the
     corresponding author. <br />* This paper is written in Korean. Contact me if you
     need the paper details in English. </p>"
-  citation: "<p>Lee, J., Kang, W., &amp; Lee, M. (2021). The Effects of Socioeconomic
-    Deprivation on Public Library Book Circulation: A Community-level Study. <em>Journal
-    of the Korean Library and Information Science, 55</em>(4). pp. 219-243 </p>"
+  citation: 'Lee, J., Kang, W., & Lee, M. (2021). The Effects of Socioeconomic Deprivation
+    on Public Library Book Circulation: A Community-level Study. <em>Journal of the
+    Korean Library and Information Science</em>, 55(4). pp. 219-243. <a href="https://t.ly/6dwh">https://t.ly/6dwh</a>'
   external_link: https://t.ly/6dwh
 - year: 2021
   title: 'Crowdsourcing Behavior in Reporting Civic Issues: The Case of Boston''s
@@ -1027,10 +1156,10 @@
     explore these aspects of civic technologies by examining the relationship between
     community characteristics, individuals' data contribution behavior, and the formation
     of data types. We report results based on Boston's 311 data as a case study.</p>"
-  citation: '<p>Lee, M., Wang, J., Janzen, S., Winter, S., &amp; Harlow, J. (2021).
-    Crowdsourcing Behavior in Reporting Civic Issues: The Case of Boston''s 311 Systems.
-    Academy of Management Annual Meeting Proceedings (AOM). 2021(1). July 29 - Aug
-    3. <a class="epub-section__doi__text" href="https://doi.org/10.5465/AMBPP.2021.16532abstract">https://doi.org/10.5465/AMBPP.2021.16532abstract</a></p>'
+  citation: 'Lee, M., Wang, J., Janzen, S., Winter, S., & Harlow, J. (2021). Crowdsourcing
+    Behavior in Reporting Civic Issues: The Case of Boston''s 311 Systems. <em>Academy
+    of Management Annual Meeting Proceedings (AOM ''21)</em>, 2021(1). July 29-Aug
+    4. <a href="https://journals.aom.org/doi/10.5465/AMBPP.2021.16532abstract">https://journals.aom.org/doi/10.5465/AMBPP.2021.16532abstract</a>'
   external_link: https://journals.aom.org/doi/10.5465/AMBPP.2021.16532abstract
 - year: 2021
   title: 'Geographical Disparities of Incidence and Prevalence of Triple-negative
@@ -1077,9 +1206,10 @@
     in addition to race-driven effects. Further studies are needed to elucidate comparable
     differences between states affecting the rates of various subtypes of breast cancer
     and thus health outcomes.</p>"
-  citation: "<p>Jeon, H., Lee, M., &amp; Jaloudi, M. (2021). Geographical disparities
-    of incidence and prevalence of triple-negative breast cancers: Multistate study
-    data analysis. Journal of Clinical Oncology. e12599. 39(15_suppl). DOI: 10.1200/JCO.2021.39.15_suppl.e12599</p>"
+  citation: 'Jeon, H., Lee, M., & Jaloudi, M. (2021). Geographical Disparities of
+    Incidence and Prevalence of Triple-negative Breast Cancers: Multistate Study Data
+    Analysis. <em>Journal of Clinical Oncology</em>, 39(15_suppl). e12599. ASCO ''21.
+    June 4-8. <a href="https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.15_suppl.e12599">https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.15_suppl.e12599</a>'
   external_link: https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.15_suppl.e12599
 - year: 2021
   title: 'Making Sense of Risk Information amidst Uncertainty: Individuals'' Perceived
@@ -1107,17 +1237,18 @@
     people, and spaces to inform the dimensions of their risk perceptions, uncovering
     deep challenges to acquiring needed risk information.</p> <p>* The first two authors
     are co-first-authors. </p>"
-  citation: "<p>Pine, K., Lee, M., Whitman, S., Chen, Y., &amp; Henne, K. (2021). Making
-    sense of risk information amidst uncertainty: Individuals' perceived risks associated
-    with the COVID-19 pandemic. Proceedings of the 2021 CHI Conference on Human Factors
-    in Computing System. pp. 1-15. </p>"
+  citation: 'Pine, K. H., Lee, M., Whitman, S. A., Chen, Y., & Henne, K. (2021). Making
+    Sense of Risk Information amidst Uncertainty: Individuals'' Perceived Risks Associated
+    with the COVID-19 Pandemic. <em>Proceedings of the 2021 CHI Conference on Human
+    Factors in Computing Systems (CHI ''21)</em>, pp. 1-15. ACM. May 8-13. Yokohama,
+    Japan. <a href="https://dl.acm.org/doi/10.1145/3411764.3445051">https://dl.acm.org/doi/10.1145/3411764.3445051</a>'
   external_link: https://dl.acm.org/doi/10.1145/3411764.3445051
 - year: 2021
   title: 'Multi-Generational Stories of Urban Renewal: Preliminary Interviews for
     Map-based Storytelling'
   slug: multi-generational-stories-of-urban-renewal-preliminary-interviews-for-map-based
   authors: Myeong Lee, Mark Edwin Peterson, Tammy Dam, Bezawit Challa, Priscilla Robinson
-  venue: 'iConference 2021 Proceedings. LNCS 12646. pp. 319-326. Springer. March 17-31.'
+  venue: iConference 2021 Proceedings. LNCS 12646. pp. 319-326. Springer. March 17-31.
   publication_type: Short Paper
   thumbnail: "/assets/images/publications/ashville.png"
   body: "<p>Urban renewal was a project of the American government that aimed to reconstruct
@@ -1132,10 +1263,10 @@
     they have experienced, based on personal interviews. The result of this comparative
     analysis provides design implications for the archival system we are developing
     by revealing the inter-generational value structures of potential users.</p>"
-  citation: '<p>Lee M., Peterson M.E., Dam T., Challa B., Robinson P. (2021) Multi-generational
-    Stories of Urban Renewal: Preliminary Interviews for Map-Based Storytelling. In:
-    Toeppe K., Yan H., Chu S.K.W. (eds) <em>Diversity, Divergence, Dialogue. iConference
-    2021. Lecture Notes in Computer Science,</em> vol 12646. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-71305-8_26">https://doi.org/10.1007/978-3-030-71305-8_26</a></p>'
+  citation: 'Lee, M., Peterson, M. E., Dam, T., Challa, B., & Robinson, P. (2021).
+    Multi-Generational Stories of Urban Renewal: Preliminary Interviews for Map-based
+    Storytelling. <em>iConference 2021 Proceedings</em>, LNCS 12646. pp. 319-326.
+    Springer. March 17-31. <a href="https://link.springer.com/chapter/10.1007/978-3-030-71305-8_26">https://link.springer.com/chapter/10.1007/978-3-030-71305-8_26</a>'
   external_link: https://link.springer.com/chapter/10.1007/978-3-030-71305-8_26
 - year: 2020
   title: 'Toward Understanding Civic Data Bias in 311 Systems: An Information Deserts
@@ -1161,10 +1292,10 @@
     landscapes, making it possible to distinguish local information’s structural features
     from its social-construction process. Based on this theoretical lens, we suggest
     new opportunities for civic technology and data research.</p>"
-  citation: "<p>Lee, M., Harlow, J., Gordon, E., Wang, J., Jonston, E., Janzen, S.,
-    &amp; Winter, S. (2020). Toward Understanding Civic Data Bias in 311 Systems:
-    An Information Deserts Perspective. In<em> CSCW Workshop on Civic Technologies: Research,
-    Practice, and Open Challenges, ACM CSCW 2020</em>, Miami, FL. October 17th.</p>"
+  citation: 'Lee, M., Harlow, J., Gordon, E., Wang, J., Johnston, E., Janzen, S.,
+    & Winter, S. (2020). Toward Understanding Civic Data Bias in 311 Systems: An Information
+    Deserts Perspective. <em>CSCW Workshop on Civic Technologies: Research</em>, Practice,
+    and Open Challenges. ACM CSCW 2020. Oct 17. Virtual. <a href="https://www.researchgate.net/publication/349126395_Toward_Understanding_Civic_Data_Bias_in_311_Systems_An_Information_Deserts_Perspective">https://www.researchgate.net/publication/349126395_Toward_Understanding_Civic_Data_Bias_in_311_Systems_An_Information_Deserts_Perspective</a>'
   external_link: https://www.researchgate.net/publication/349126395_Toward_Understanding_Civic_Data_Bias_in_311_Systems_An_Information_Deserts_Perspective
 - year: 2020
   title: A Theoretical Analysis of Independent Business Owners' Preferences for Informal
@@ -1185,18 +1316,19 @@
     to support independent business owners' information needs. Through interviews
     with business information providers and users, we explore the multi-dimensional
     space of information needs in independent businesses.</p>"
-  citation: "<p>Chan, J., Brier, J., Farhadi, Z., Lee, M., Janzen, S., Chi, W. W., Fellows,
-    A. &amp; Winter, S. (2020). A theoretical analysis of independent business owners'
-    preferences for informal information sources. Proceedings of the Association for
-    Information Science and Technology, 57(1), e352.</p>"
+  citation: Chan, J., Brier, J., Farhadi, Z., Lee, M., Janzen, S., Chi, W., Fellows,
+    A., & Winter, S. (2020). A Theoretical Analysis of Independent Business Owners'
+    Preferences for Informal Information Sources. <em>Proceedings of the Association
+    for Information Science and Technology (ASIST '20)</em>, 57(1). e352. Wiley. Oct
+    22-Nov 1. Virtual. <a href="https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.352">https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.352</a>
   external_link: https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.352
 - year: 2020
   title: 'Cultural Activity Diversity and Community Characteristics: An Exploratory
     Study'
   slug: cultural-activity-diversity-and-community-characteristics-an-exploratory-study
   authors: Myeong Lee, Brian S. Butler
-  venue: 'iConference 2020 Proceedings. LNCS 12051. pp. 32-49. Springer. March 23-26.
-    Boras, Sweden.'
+  venue: iConference 2020 Proceedings. LNCS 12051. pp. 32-49. Springer. March 23-26.
+    Boras, Sweden.
   publication_type: Full Paper
   thumbnail: "/assets/images/publications/ldavis.png"
   body: "<p>Cultural diversity has been conceptualized and studied in diverse ways.
@@ -1212,9 +1344,9 @@
     community, and provides an exploratory analysis for the relationships between
     cultural characteristics and socio-economic features across 28 U.S. metropolitan
     areas using local event datasets.</p>"
-  citation: '<p>Lee, M. &amp; Butler, B. S. (2020). Cultural Activity Diversity and
-    Community Characteristics: An Exploratory Study. In iConference 2020 Proceedings,
-    LNCS. 32-49. March 23-26. Borås, Sweden. DOI: <a href="https://doi.org/10.1007/978-3-030-43687-2_3">https://doi.org/10.1007/978-3-030-43687-2_3</a></p>'
+  citation: 'Lee, M. & Butler, B. S. (2020). Cultural Activity Diversity and Community
+    Characteristics: An Exploratory Study. <em>iConference 2020 Proceedings</em>,
+    LNCS 12051. pp. 32-49. Springer. March 23-26. Boras, Sweden.'
 - year: 2019
   title: 'Local Information Landscapes: Theory, Measures, and Evidence'
   slug: local-information-landscapes-theory-measures-and-evidence
@@ -1230,9 +1362,8 @@
     <p>This dissertation provides a theorization of community-level information inequality and computational models that support the quantitative examination of it. Further theorizations of the conceptual constructs and methodological improvements on measurements will bene t information policy-makers, local information system designers, and researchers who study local communities with conceptual models, vocabularies, and assessment frameworks.</p>
     <p> </p>
     <p>* Dissertation Committee: Dr. Brian Butler (Chair), Dr. Vanessa Frias-Martinez, Dr. Grant McKenzie, Dr. Paul Jaeger, and Dr. Hiroyuki Iseki (Dean's Rep)</p>
-  citation: "<p>Lee, M. (2019). <em>Local Information Landscapes: Theory, Measures,
-    and Evidence</em>. Doctoral Dissertation. College Park, MD: University of Maryland
-    Press.</p>"
+  citation: 'Lee, M. (2019). <em>Local Information Landscapes: Theory, Measures, and
+    Evidence</em>. Doctoral Dissertation, University of Maryland Press.. <a href="https://drum.lib.umd.edu/handle/1903/25160">https://drum.lib.umd.edu/handle/1903/25160</a>'
   external_link: https://drum.lib.umd.edu/handle/1903/25160
 - year: 2019
   title: How are Information Deserts Created? A Theory of Local Information Landscapes
@@ -1270,9 +1401,9 @@
     how information deserts manifest as a material pre-condition of information inequality.
     Based on these theoretical models, a research agenda is presented for future studies
     in local communities. </p>"
-  citation: <p>Lee, M. &amp; Butler, B. S. (2019). How are Information Deserts Created?
-    A Theory of Local Information Landscapes.<em> Journal of the Association for Information
-    Science and Technology (JASIST), 70</em>(2), 101-119. <a href="https://doi.org/10.1002/asi.24114">https://doi.org/10.1002/asi.24114</a></p>
+  citation: Lee, M. & Butler, B. S. (2019). How are Information Deserts Created? A
+    Theory of Local Information Landscapes. <em>Journal of the Association for Information
+    Science and Technology (JASIST)</em>, 70(2). 101-116. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114">https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114</a>
   external_link: https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114
 - year: 2018
   title: Identifying Urban Neighborhood Names through User-contributed Online Property
@@ -1299,9 +1430,9 @@
     findings represent a first step in the process of urban neighborhood identification
     and delineation.</p> <p>This article is included in the Special Issue "Place-Based
     Research in GIScience and Geoinformatics" of the Journal.</p>
-  citation: <p>McKenzie, G., Liu, Z., Hu, Y., &amp; Lee, M. (2018). Identifying Urban
-    Neighborhood Names through User-contributed Online Property Listings. <em>ISPRS
-    International Journal of Geo-Information, 7</em>(10). 388. MPDI. <a href="https://doi.org/10.3390/ijgi7100388">https://doi.org/10.3390/ijgi7100388</a></p>
+  citation: McKenzie, G., Liu, Z., Hu, Y., & Lee, M. (2018). Identifying Urban Neighborhood
+    Names through User-contributed Online Property Listings. <em>ISPRS International
+    Journal of Geo-Information (IJGI)</em>, 7(10). 388. MDPI. <a href="https://www.mdpi.com/2220-9964/7/10/388/pdf">https://www.mdpi.com/2220-9964/7/10/388/pdf</a>
   external_link: https://www.mdpi.com/2220-9964/7/10/388/pdf
 - year: 2018
   title: 'Digital Curation of a World War II Japanese-American Incarceration Camp
@@ -1327,11 +1458,11 @@
     involves multiple partnerships, agreements, and social interactions with community
     groups and public-sector organizations, we discuss the possibility of the concept
     of sociotechnical archival systems as an implication of our approach.</p>
-  citation: "<p>Marciano, R., Lee, M., Underwood, W., Laib, S., Diker, Z., &amp; Singh,
-    A. (2018, October). Digital Curation of a World War II Japanese-American Incarceration
-    Camp Collection: Implications for Sociotechnical Archival Systems. In <em>Digital
-    Heritage 2018, </em><em>The 3rd International Congress</em>. pp. 1-4. San Francisco,
-    U.S. doi: 10.1109/DigitalHeritage.2018.8810034</p>"
+  citation: 'Marciano, R., Lee, M., Underwood, W., Laib, S., Diker, Z., & Singh, A.
+    (2018). Digital Curation of a World War II Japanese-American Incarceration Camp
+    Collection: Implications for Sociotechnical Archival Systems. <em>Digital Heritage
+    2018</em>, International Congress. pp. 1-4. IEEE. Oct. 26-30. San Francisco, CA.
+    <a href="https://ieeexplore.ieee.org/document/8810034">https://ieeexplore.ieee.org/document/8810034</a>'
   external_link: https://ieeexplore.ieee.org/document/8810034
 - year: 2018
   title: Towards Understanding Communication Behavior Changes during Floods Using
@@ -1356,10 +1487,10 @@
     their support-seeking behavior. Regressions on network features indicate that
     people in a large city in Senegal might have less access to resources outside
     of their neighborhoods and require better infrastructures.</p>"
-  citation: "<p>Hong, L., Lee, M., Mashhadi, A., &amp; Frias-Martinez, V. (2018, September).
-    Towards Understanding Communication Behavior Changes during Floods Using Cell
-    Phone Data. In <em>the International Conference on Social Informatics (SocInfo
-    ‘18)</em>, 11186. pp. 97-107. Charm: Springer. </p>"
+  citation: Hong, L., Lee, M., Mashhadi, A., & Frias-Martinez, V. (2018). Towards
+    Understanding Communication Behavior Changes during Floods Using Cell Phone Data.
+    <em>International Conference on Social Informatics (SocInfo '18)</em>, LNCS 11186.
+    pp. 97-107. Springer. Sep. 25-28. St. Petersburg, Russia. <a href="https://link.springer.com/chapter/10.1007/978-3-030-01159-8_9">https://link.springer.com/chapter/10.1007/978-3-030-01159-8_9</a>
   external_link: https://link.springer.com/chapter/10.1007/978-3-030-01159-8_9
 - year: 2018
   title: 'Toward Identifying Values and Tensions in Designing a Historically-Sensitive
@@ -1387,15 +1518,10 @@
     Also, human-computer interaction (HCI) and archival science researchers can potentially
     benefit from this new perspective that considers both value sensitivity and archival
     values.</p>"
-  citation: '<p>Lee M., Chen S., Zhang Y., Spencer E., &amp; Marciano R. (2018) Toward
+  citation: 'Lee, M., Chen, S., Zhang, Y., Spencer, E., & Marciano, R. (2018). Toward
     Identifying Values and Tensions in Designing a Historically-Sensitive Data Platform:
-    A Case-Study on Urban Renewal. In: Chowdhury G., McLeod J., Gillet V., Willett
-    P. (eds) <em>Transforming Digital Worlds. </em><em>iConference</em><em> 2018.
-    Lecture Notes in Computer Science, 10766.</em> pp. 632-637. <a href="https://doi.org/10.1007/978-3-319-78105-1_72. ">https://doi.org/10.1007/978-3-319-78105-1_72. </a>Cham: Springer.</p>
-    <p><strong>or in short: </strong></p> <p>Lee M., Chen S., Zhang Y., Spencer E.,
-    &amp; Marciano R. (2018) Toward Identifying Values and Tensions in Designing a
-    Historically-Sensitive Data Platform: A Case-Study on Urban Renewal. In <em>iConference
-    2017 Proceedings, 10766</em>. pp. 632-637. Cham: Springer.</p>'
+    A Case-Study on Urban Renewal. <em>iConference 2018 Proceedings</em>, LNCS 10766.
+    pp. 632-637. Springer. March 25-28. Sheffield, U.K. <a href="https://link.springer.com/chapter/10.1007/978-3-319-78105-1_72">https://link.springer.com/chapter/10.1007/978-3-319-78105-1_72</a>'
   external_link: https://link.springer.com/chapter/10.1007/978-3-319-78105-1_72
 - year: 2017
   title: 'Heuristics for Assessing Computational Archival Science (CAS) Research:
@@ -1421,11 +1547,11 @@
     heuristics. Finally, implications for CAS and future work are discussed.</p> <p>The
     full paper is available at the external link (IEEE Big Data 2017 Proceedings pp.
     2262-2270).</p>"
-  citation: '<p>Lee, M., Zhang, Y., Chen, S., Spencer, E., Dela Cruz, J., Hong, H.,
-    &amp; Marciano, R. (2017, December). Heuristics for Assessing Computational Archival
-    Science (CAS) Research: The Case of the Human Face of Big Data Project. <em>The 
-    Workshop on Computational Archival Science in IEEE Big Data 2017.</em> pp. 2262-2270.
-    Boston, U.S. <a href="https://doi.org/10.1109/BigData.2017.8258179">https://doi.org/10.1109/BigData.2017.8258179</a>.</p>'
+  citation: 'Lee, M., Zhang, Y., Chen, S., Spencer, E., Cruz, J. D., Hong, H., & Marciano,
+    R. (2017). Heuristics for Assessing Computational Archival Science (CAS) Research:
+    The Case of the Human Face of Big Data Project. <em>IEEE Big Data 2017</em>, Workshop
+    on Computational Archival Science. pp. 2262-2270. Dec. 11-14. Boston, U.S. <a
+    href="http://ieeexplore.ieee.org/document/8258179/">http://ieeexplore.ieee.org/document/8258179/</a>'
   external_link: http://ieeexplore.ieee.org/document/8258179/
 - year: 2017
   title: Exploratory Cluster Analysis of Urban Mobility Patterns to Identify Neighborhood
@@ -1448,10 +1574,10 @@
     D.C., this work provides implications about the characteristics of different types
     of mobility data and research directions.</p> <p>This abstract has been accepted
     for an oral presentation at the symposium, and invited to a special issue submission. </p>"
-  citation: "<p>Lee, M., McKenzie, G., &amp; Aghi, R. (2017, July). Exploratory Cluster
-    Analysis of Urban Mobility Patterns to Identify Neighborhood Boundaries. <em>Symposium
-    on Location-Based Social Media Data and Tracking Data (</em><em>LSMTD</em><em>)</em>.
-    Washington D.C., U.S.</p>"
+  citation: Lee, M., McKenzie, G., & Aghi, R. (2017). Exploratory Cluster Analysis
+    of Urban Mobility Patterns to Identify Neighborhood Boundaries. <em>International
+    Symposium on Location-Based Social Media Data and Tracking Data (LSMTD '17)</em>,
+    July 1-2. Washington D.C. <a href="https://myeonglee.com/sites/default/files/documents/Lee_urban_mobility.pdf">https://myeonglee.com/sites/default/files/documents/Lee_urban_mobility.pdf</a>
   external_link: https://myeonglee.com/sites/default/files/documents/Lee_urban_mobility.pdf
 - year: 2017
   title: A Tool for Estimating and Visualizing Poverty Maps
@@ -1477,9 +1603,9 @@
     from our great mentors Dr. Afra Mashhadi and Dr. Ariel Rokem, and also from my
     colleagues Rachael, Carlos, and Imam. </p> <p>The abstract has been invited for
     an oral presentation at the NetMob conference.</p>
-  citation: <p>Lee, M., Dottle, R., Espino, C., Subkhan, I., Rokem, A., &amp; Mashhadi,
-    A. (2017). A tool for estimating and visualizing poverty maps. In <em>NetMob 2017.
-    </em>Retrieved from <a href="http://netmob.org/assets/img/bookofabstract_oral_2017.pdf">http://netmob.org/assets/img/bookofabstract_oral_2017.pdf</a></p>
+  citation: Lee, M., Dottle, R., Espino, C., Subkhan, I., Rokem, A., & Mashhadi, A.
+    (2017). A Tool for Estimating and Visualizing Poverty Maps. <em>NetMob 2017</em>,
+    April 5-7, Milan, Italy. <a href="http://netmob.org/assets/img/bookofabstract_oral_2017.pdf">http://netmob.org/assets/img/bookofabstract_oral_2017.pdf</a>
   external_link: http://netmob.org/assets/img/bookofabstract_oral_2017.pdf
 - year: 2016
   title: 'Toward an Ecology Theory of Creativity in IT Products: A Study of Mobile
@@ -1504,10 +1630,10 @@
     within each niche hampered novelty. This ecological perspective contributes to
     creative IT/IS research and has the potential to bridge studies of creativity
     and digital innovation.</p> <p> </p>"
-  citation: "<p>Wang, P., Lee, M., Meng, X., &amp; Butler, B. (2016, December). Toward
-    an Ecology Theory of Creativity in IT Products: A Study of Mobile Device Industry.
-    In <em>37th International Conference on Information Systems (ICIS)</em>. pp. 1-20.
-    Dublin, Ireland.</p>"
+  citation: 'Wang, P., Lee, M., Meng, X., & Butler, B. (2016). Toward an Ecology Theory
+    of Creativity in IT Products: A Study of Mobile Device Industry. <em>International
+    Conference on Information Systems (ICIS ''16)</em>, pp. 1-20. Dec. 11-14. Dublin,
+    Ireland. <a href="http://aisel.aisnet.org/icis2016/GeneralIS/Presentations/5/">http://aisel.aisnet.org/icis2016/GeneralIS/Presentations/5/</a>'
   external_link: http://aisel.aisnet.org/icis2016/GeneralIS/Presentations/5/
 - year: 2016
   title: 'This Is Not Just a Cafe: Toward Capturing the Dynamics of Urban Places'
@@ -1529,10 +1655,10 @@
     Yelp’s business information was used to triangulate the analysis. The results
     suggest that strategies based on local event data have great potential for modeling
     socially-meaningful urban places at large scale.</p> <p>(Photo from Yelp.com)</p>"
-  citation: "<p>Lee, M., Farzan, R., &amp; Butler, B. (2016, May). This is Not Just
-    a Café: Toward Capturing the Dynamics of Urban Places. In <em>The CityLab Workshop
-    in 10th International AAAI Conference on Web and Social Media (ICWSM</em><em>)
-    </em>. pp. 20-25. Cologne, Germany.</p>"
+  citation: 'Lee, M., Farzan, R., & Butler, B. (2016). This Is Not Just a Cafe: Toward
+    Capturing the Dynamics of Urban Places. <em>International AAAI Conference on Web
+    and Social Media (ICWSM ''16)</em>, The CityLab Workshop. pp. 20-25. May 17-20.
+    Cologne, Germany. <a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13230">http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13230</a>'
   external_link: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13230
 - year: 2016
   title: 'Unlocking the Archives of Displacement and Trauma: Revealing Hidden Patterns
@@ -1555,12 +1681,11 @@
     and NetApp-based peta-scale storage infrastructure. This is a contribution to
     linking sensitive dispersed cultural resources involving the archives of displacement
     and trauma.</p>"
-  citation: '<p>Travis, D., Lee, M., Rojas, M., Gunn, A., Nimkar, A., Jansen, G.,
-    Diakopoulos, N., &amp; Marciano, R. (2016, April). Unlocking the Archives of Displacement
-    and Trauma: Revealing Hidden Patterns of Exploring New Modes of Public Access
-    through Innovative Partnerships and Infrastructure. In <em>Archiving Conference.
-    Society for Imaging Science and Technology, 2016</em>(1). pp. 135-139. Washington
-    D.C. <a href="https://doi.org/10.2352/issn.2168-3204.2016.1.0.135">https://doi.org/10.2352/issn.2168-3204.2016.1.0.135</a>.</p>'
+  citation: 'Travis, D., Lee, M., Rojas, M., Gunn, A., Nimkar, A., Jansen, G., Diakopoulos,
+    N., & Marciano, R. (2016). Unlocking the Archives of Displacement and Trauma:
+    Revealing Hidden Patterns of Exploring New Modes of Public Access through Innovative
+    Partnerships and Infrastructure. <em>Archiving Conference 2016 Proceedings</em>,
+    pp. 135-139. April 19-22. Washington D.C. <a href="http://www.ingentaconnect.com/contentone/ist/ac/2016/00002016/00000001/art00030?crawler=true">http://www.ingentaconnect.com/contentone/ist/ac/2016/00002016/00000001/art00030?crawler=true</a>'
   external_link: http://www.ingentaconnect.com/contentone/ist/ac/2016/00002016/00000001/art00030?crawler=true
 - year: 2015
   title: '"What Makes a Place More Familiar?": Implications of Geospatial Information
@@ -1590,11 +1715,10 @@
     the CHI paper. This research project tried to identify the effect of geospatial
     information format (image or text) and content (place or space) on people's familiarity
     with new places.</p>"
-  citation: '<p>Lee, M., Santos, L., Zhao, W., Lakhole, P., &amp; Butler, B. (2015).
-    What Makes a Place More Familiar?: Implications of Geospatial Information Format
-    and Content. In <em>Proceedings of the 33rd Annual ACM Conference Extended Abstracts
-    on Human Factors in Computing Systems (CHI EA ''15)</em>. pp. 1079-1084. <a href="http://dx.doi.org/10.1145/2702613.2732911">http://dx.doi.org/10.1145/2702613.2732911</a>.
-    New York, NY: ACM.</p>'
+  citation: 'Lee, M., Santos, L., Zhao, W., Lakhole, P., & Butler, B. (2015). "What
+    Makes a Place More Familiar?": Implications of Geospatial Information Format and
+    Content. <em>ACM Conference on Human Factors in Computing Systems (CHI ''15 Extended
+    Abstracts)</em>, pp. 1079-1084. ACM. April 18-23. Seoul, Korea. <a href="https://dl.acm.org/citation.cfm?id=2732911">https://dl.acm.org/citation.cfm?id=2732911</a>'
   external_link: https://dl.acm.org/citation.cfm?id=2732911
   thumbnail: "/assets/images/publications/chi15_place.jpg"
   video: "/assets/videos/chi15_place.mp4"
@@ -1625,10 +1749,10 @@
     (technological factors and KakaoStory use). This study tried to understand Korean
     mothers' social media uses that were affected by socio-cultural and technological
     factors. </p>"
-  citation: '<p>Kim, J., Lee, M., &amp; Oh, C. (2015, March). Motherhood and Social
-    Networking Sites: How do sociocultural contexts and technological factors affect
-    Korean mothers’ KakaoStory use? In <em>iConference 2015 Proceedings</em>. Newport
-    Beach, U.S. <a href="http://hdl.handle.net/2142/73668">http://hdl.handle.net/2142/73668</a></p>'
+  citation: 'Kim, J., Lee, M., & Oh, C. (2015). Motherhood and Social Networking Sites:
+    How do sociocultural contexts and technological factors affect Korean mothers''
+    KakaoStory use?. <em>iConference 2015 Proceedings</em>, March 24-27. Newport Beach,
+    CA. <a href="https://myeonglee.com/sites/default/files/documents/iConf2015_mothers_Jan4_CameraReadyJKim.pdf">https://myeonglee.com/sites/default/files/documents/iConf2015_mothers_Jan4_CameraReadyJKim.pdf</a>'
   external_link: https://myeonglee.com/sites/default/files/documents/iConf2015_mothers_Jan4_CameraReadyJKim.pdf
 - year: 2014
   title: Information Behavior of International Students Settling in an Unfamiliar
@@ -1654,10 +1778,10 @@
     wrote a part of the paper.</p> <p>* Chiyoung Oh, the first author of this paper,
     received <em>The Dean’s Award for an Outstanding </em><em>iSchool</em><em> Doctoral
     Student Paper</em> (UMD) in 2015. Congratulations!</p>"
-  citation: <p>Oh, C., Butler, B., &amp; Lee, M. (2014). Information Behavior of International
-    Students Settling in an Unfamiliar Geospatial Environment. In <em>Proceedings
-    of the Association for Information Science and Technology (ASIST). 51</em>(1).
-    pp. 1-11. <a href="https://doi.org/10.1002/meet.2014.14505101068">https://doi.org/10.1002/meet.2014.14505101068</a></p>
+  citation: Oh, C., Butler, B., & Lee, M. (2014). Information Behavior of International
+    Students Settling in an Unfamiliar Geo-spatial Environment. <em>Proceedings of
+    the Association for Information Science and Technology (ASIST '14)</em>, 51(1).
+    pp. 1-11. Wiley. Oct 31-Nov 5. Seattle, WA. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/meet.2014.14505101068">https://onlinelibrary.wiley.com/doi/abs/10.1002/meet.2014.14505101068</a>
   external_link: https://onlinelibrary.wiley.com/doi/abs/10.1002/meet.2014.14505101068
 - year: 2014
   title: '"I know where that is": Cultural Differences in Perception of New Places'
@@ -1681,12 +1805,9 @@
     based on Daniele Quercia et. al. (2013)''s UrbanOpticon platform.</p> <p>* Thesis
     Committee: Dr. Brian Butler (iSchool, UMD), Dr. Marshini Chetty (iSchool, UMD),
     Dr. Kent Norman (Dept. of Psychology &amp; iSchool, UMD)</p>'
-  citation: '<p>Lee, M. &amp; Butler, B. (2014, March). "I know where that is": Cultural
-    Differences in Perception of New Places. In <em>iConference 2014 Proceedings</em>.
-    pp. 1096-1100. Berlin, Germany. <a href="http://doi.org/10.9776/14390">http://doi.org/10.9776/14390</a></p>
-    <p><strong><em>or</em></strong></p> <p>Lee, M. (2014).<em> "I Know Where That
-    Is": Cultural Differences in Perception of Places</em>. Master of Information
-    Management Thesis. College Park, MD: University of Maryland Press. <a href="http://doi.org/10.13016/M2K893">http://doi.org/10.13016/M2K893</a></p>'
+  citation: 'Lee, M. & Butler, B. (2014). <em>"I know where that is": Cultural Differences
+    in Perception of New Places</em>. MIM Thesis, UMD iSchool & Poster at the iConference
+    2014 Proceedings, Berlin, Germany. <a href="http://drum.lib.umd.edu/handle/1903/15923">http://drum.lib.umd.edu/handle/1903/15923</a>'
   external_link: http://drum.lib.umd.edu/handle/1903/15923
 - year: 2011
   title: MapReduce Framework for Swarm Robot Systems
@@ -1710,9 +1831,9 @@
     <p>Thesis Committee: Dr. Seongsoo Hong (Dept. of EE, SNU), Dr. Jung Ho Ahn (Graduate
     School of Convergence Science and Technology, SNU), Dr. Jongwon Kim (Dept. of
     Mechanical Engineering, SNU)</p>"
-  citation: "<p>Lee, M. (2011). <em>MapReduce Framework for Swarm Robot Systems</em>.
-    Master of Science in Software Engineering Thesis. Seoul, Korea: Seoul National
-    University.</p>"
+  citation: Lee, M. (2011). <em>MapReduce Framework for Swarm Robot Systems</em>.
+    Master of Science in Software Engineering Thesis, The Graduate School of Convergence
+    Science and Technology, Seoul National University. <a href="http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21449204400002591">http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21449204400002591</a>
   external_link: http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21449204400002591
   thumbnail: "/assets/images/publications/swarm.jpg"
   video: "/assets/videos/swarm.mp4"
@@ -1740,7 +1861,7 @@
     (a project-based class advised by a professor and a Ph.D. student with no physical
     lectures). </p> <p> </p> <p>Thesis Committee: Dr. Namik Cho and Dr. Jungwoo Lee
     (Dept. of EE, SNU)</p>'
-  citation: <p class="p1">Myeong Lee (2009). <em>Image Retrieval Systems based on
-    Color Similarity and Edge Detection Algorithms</em>. Bachelor of Science in Electrical
-    Engineering Thesis. Seoul National University, Seoul, Korea.</p>
+  citation: Lee, M. (2009). <em>Image Retrieval Systems based on Color Similarity
+    and Edge Detection</em>. Bachelor of Science in Electrical Engineering Thesis,
+    Seoul National University. <a href="http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413791630002591">http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413791630002591</a>
   external_link: http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413791630002591
