@@ -19,7 +19,13 @@ layout_class: wide-content
   {% for project in site.data.projects %}
   <div class="project-card" data-categories="{{ project.categories | join: ',' }}">
     {% if project.image %}
-      <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+      {% if project.slug %}
+        <a href="{{ '/projects/' | append: project.slug | append: '/' | relative_url }}"><img src="{{ project.image | relative_url }}" alt="{{ project.title }}"></a>
+      {% elsif project.external_link %}
+        <a href="{{ project.external_link }}"><img src="{{ project.image | relative_url }}" alt="{{ project.title }}"></a>
+      {% else %}
+        <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+      {% endif %}
     {% endif %}
 
     {% if project.status %}

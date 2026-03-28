@@ -30,15 +30,14 @@ layout_class: wide-content
       <div class="pub-thumbnail-placeholder"></div>
     {% endif %}
     <div class="pub-details">
-      <div class="pub-title">
-        {{ pub.title }}
+      <div class="pub-title">{{ pub.title }}</div>
+      <div class="pub-venue">{{ pub.venue }}</div>
+      <div class="pub-authors">{{ pub.authors }}</div>
+      <div class="pub-tags">
+        <span class="pub-type-tag">{{ pub.publication_type }}</span>
         {% if pub.award_note %}
           <span class="badge badge-award">{{ pub.award_note }}</span>
         {% endif %}
-      </div>
-      <div class="pub-venue">{{ pub.venue }}</div>
-      <div class="pub-authors">
-        {{ pub.authors }}
       </div>
     </div>
     {% if pub.slug %}</a>{% endif %}
