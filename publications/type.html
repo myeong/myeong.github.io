@@ -38,6 +38,10 @@ permalink: /publications/type/
             {% if pub.award_note %}
               <span class="badge badge-award">{{ pub.award_note }}</span>
             {% endif %}
+            <span class="pub-cite-icons" onclick="event.preventDefault(); event.stopPropagation();">
+              <button class="cite-btn" onclick="copyCitationText(this)" data-citation="{{ pub.citation | escape }}" title="Copy citation"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg></button>
+              <button class="cite-btn" onclick="copyBibtexFromData(this)" data-authors="{{ pub.authors | escape }}" data-title="{{ pub.title | escape }}" data-year="{{ pub.year }}" data-venue="{{ pub.venue | escape }}" data-type="{{ pub.publication_type | escape }}" data-link="{{ pub.external_link }}" title="Copy BibTeX"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="font-size:9px;margin-left:1px;">BibTeX</span></button>
+            </span>
           </div>
         </div>
         {% if pub.slug %}</a>{% endif %}

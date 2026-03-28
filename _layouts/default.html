@@ -105,6 +105,60 @@
     document.querySelectorAll('.pub-authors').forEach(function(el) {
       el.innerHTML = el.innerHTML.replace(/Myeong Lee/g, '<span style="text-decoration:underline">Myeong Lee</span>');
     });
+
+    // Citation copy helpers for listing pages
+    function copyCitationText(btn) {
+      var tmp = document.createElement('div');
+      tmp.innerHTML = btn.getAttribute('data-citation');
+      var plain = tmp.textContent || tmp.innerText || '';
+      navigator.clipboard.writeText(plain).then(function() { showCiteTooltip('Citation copied!'); });
+    }
+
+    function copyBibtexFromData(btn) {
+      var authorsRaw = btn.getAttribute('data-authors');
+      var title = btn.getAttribute('data-title');
+      var year = btn.getAttribute('data-year');
+      var venue = btn.getAttribute('data-venue');
+      var pubType = btn.getAttribute('data-type');
+      var link = btn.getAttribute('data-link');
+
+      var authors = authorsRaw.split(',').map(function(a) {
+        a = a.trim(); var parts = a.split(/\s+/); var last = parts.pop();
+        return last + ', ' + parts.join(' ');
+      }).join(' and ');
+
+      var key = (authorsRaw.split(',')[0].trim().split(/\s+/).pop() || 'unknown').toLowerCase() + year;
+      var type = 'article';
+      var pt = (pubType || '').toLowerCase();
+      if (pt === 'thesis') type = 'phdthesis';
+      else if (pt === 'book chapter') type = 'incollection';
+      else if (pt === 'report') type = 'techreport';
+      else {
+        var v = (venue || '').toLowerCase();
+        if (v.indexOf('proceedings') !== -1 || v.indexOf('conference') !== -1 || v.indexOf('workshop') !== -1 || v.indexOf('iconference') !== -1) type = 'inproceedings';
+      }
+
+      var bib = '@' + type + '{' + key + ',\n';
+      bib += '  author = {' + authors + '},\n';
+      bib += '  title = {' + title + '},\n';
+      bib += '  year = {' + year + '},\n';
+      if (type === 'inproceedings' || type === 'incollection') bib += '  booktitle = {' + venue + '},\n';
+      else if (type === 'phdthesis' || type === 'mastersthesis') bib += '  school = {' + venue + '},\n';
+      else bib += '  journal = {' + venue + '},\n';
+      if (link && link.indexOf('doi.org') !== -1) bib += '  doi = {' + link.replace(/https?:\/\/doi\.org\//, '') + '},\n';
+      if (link) bib += '  url = {' + link + '}\n';
+      bib += '}';
+
+      navigator.clipboard.writeText(bib).then(function() { showCiteTooltip('BibTeX copied!'); });
+    }
+
+    function showCiteTooltip(msg) {
+      var tip = document.createElement('span');
+      tip.textContent = msg;
+      tip.className = 'cite-tooltip';
+      document.body.appendChild(tip);
+      setTimeout(function() { tip.remove(); }, 1500);
+    }
   </script>
 </body>
 </html>

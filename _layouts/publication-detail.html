@@ -58,7 +58,15 @@ layout: default
   }
 
   if (pub.citation) {
-    html += '<p><strong>Citation:</strong> ' + pub.citation + '</p>';
+    html += '<p><strong>Citation:</strong> ' + pub.citation;
+    html += ' <button class="cite-btn" onclick="copyCitation()" title="Copy citation">';
+    html += '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
+    html += '</button>';
+    html += ' <button class="cite-btn" onclick="copyBibtex()" title="Copy BibTeX">';
+    html += '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>';
+    html += '<span style="font-size:10px;margin-left:2px;">BibTeX</span>';
+    html += '</button>';
+    html += '</p>';
   }
 
   html += '</div>';
@@ -66,5 +74,75 @@ layout: default
 
   el.innerHTML = html;
   document.title = pub.title + ' | Myeong Lee';
+
+  // Copy plain-text citation to clipboard
+  window.copyCitation = function() {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = pub.citation;
+    var plain = tmp.textContent || tmp.innerText || '';
+    navigator.clipboard.writeText(plain).then(function() {
+      showTooltip('Citation copied!');
+    });
+  };
+
+  // Generate and copy BibTeX
+  window.copyBibtex = function() {
+    var authors = pub.authors.split(',').map(function(a) {
+      a = a.trim();
+      var parts = a.split(/\s+/);
+      var last = parts.pop();
+      return last + ', ' + parts.join(' ');
+    }).join(' and ');
+
+    var key = (pub.authors.split(',')[0].trim().split(/\s+/).pop() || 'unknown').toLowerCase() + pub.year;
+
+    var type = 'article';
+    var pt = (pub.publication_type || '').toLowerCase();
+    if (pt === 'thesis') type = 'phdthesis';
+    else if (pt === 'book chapter') type = 'incollection';
+    else if (pt === 'report') type = 'techreport';
+    else {
+      var v = (pub.venue || '').toLowerCase();
+      if (v.indexOf('proceedings') !== -1 || v.indexOf('conference') !== -1 || v.indexOf('workshop') !== -1 || v.indexOf('iconference') !== -1) {
+        type = 'inproceedings';
+      }
+    }
+
+    var bib = '@' + type + '{' + key + ',\n';
+    bib += '  author = {' + authors + '},\n';
+    bib += '  title = {' + pub.title + '},\n';
+    bib += '  year = {' + pub.year + '},\n';
+
+    if (type === 'inproceedings') {
+      bib += '  booktitle = {' + pub.venue + '},\n';
+    } else if (type === 'incollection') {
+      bib += '  booktitle = {' + pub.venue + '},\n';
+    } else if (type === 'phdthesis' || type === 'mastersthesis') {
+      bib += '  school = {' + pub.venue + '},\n';
+    } else {
+      bib += '  journal = {' + pub.venue + '},\n';
+    }
+
+    if (pub.external_link && pub.external_link.indexOf('doi.org') !== -1) {
+      bib += '  doi = {' + pub.external_link.replace(/https?:\/\/doi\.org\//, '') + '},\n';
+    }
+    if (pub.external_link) {
+      bib += '  url = {' + pub.external_link + '}\n';
+    }
+
+    bib += '}';
+
+    navigator.clipboard.writeText(bib).then(function() {
+      showTooltip('BibTeX copied!');
+    });
+  };
+
+  function showTooltip(msg) {
+    var tip = document.createElement('span');
+    tip.textContent = msg;
+    tip.className = 'cite-tooltip';
+    document.body.appendChild(tip);
+    setTimeout(function() { tip.remove(); }, 1500);
+  }
 })();
 </script>
