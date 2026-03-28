@@ -329,6 +329,25 @@ ul, ol {
   color: indianred;
 }
 
+.news-link-icon {
+  display: inline-flex;
+  align-items: center;
+  color: #666;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 1px 4px;
+  vertical-align: middle;
+  margin-left: 2px;
+  transition: all 0.15s;
+}
+
+.news-link-icon:hover {
+  background: #eee;
+  border-color: #999;
+  color: #333;
+  text-decoration: none;
+}
+
 .sidebar-section {
   margin-top: 25px;
   padding-top: 15px;
