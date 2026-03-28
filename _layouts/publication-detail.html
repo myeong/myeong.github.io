@@ -47,15 +47,15 @@ layout: default
     html += '<div class="pub-detail-body">' + pub.body + '</div>';
   }
 
-  if (pub.external_link) {
-    html += '<p><strong>External Link:</strong> <a href="' + pub.external_link + '" target="_blank">' + pub.external_link + '</a></p>';
-  }
-
   html += '<div class="pub-detail-fields">';
   html += '<p><strong>Venue:</strong> ' + pub.venue + '</p>';
 
   var authors = pub.authors.replace(/Myeong Lee/g, '<span class="myeong">Myeong Lee</span>');
   html += '<p><strong>Authors:</strong> ' + authors + '</p>';
+
+  if (pub.external_link) {
+    html += '<p><strong>External Link:</strong> <a href="' + pub.external_link + '" target="_blank">' + pub.external_link + '</a></p>';
+  }
 
   if (pub.citation) {
     html += '<p><strong>Citation:</strong> ' + pub.citation + '</p>';
