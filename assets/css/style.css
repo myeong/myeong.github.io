@@ -582,6 +582,7 @@ ul, ol {
   font-size: var(--font-md);
   color: #555;
   margin-bottom: 3px;
+  line-height: 1.35;
 }
 
 .pub-authors {
@@ -593,7 +594,7 @@ ul, ol {
   display: flex;
   align-items: center;
   gap: 6px;
-  margin-top: 4px;
+  margin-top: 2px;
   flex-wrap: wrap;
 }
 
