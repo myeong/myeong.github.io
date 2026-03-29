@@ -1079,6 +1079,16 @@ a.pub-entry-link .pub-title {
     text-align: center;
   }
 
+  #site-name {
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+
+  #site-name a {
+    font-size: 28px;
+  }
+
   /* Mobile nav */
   .menu-toggle {
     display: block;
