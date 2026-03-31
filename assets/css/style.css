@@ -363,7 +363,7 @@ ul, ol {
 .sidebar-section h3 {
   font-size: var(--font-md);
   font-weight: 400;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   color: #41484d;
 }
 
@@ -1006,7 +1006,7 @@ a.pub-entry-link .pub-title {
 
 .home-section h2 {
   font-size: var(--font-md);
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .research-focus-img {
