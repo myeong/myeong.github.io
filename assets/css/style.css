@@ -1002,6 +1002,7 @@ a.pub-entry-link .pub-title {
 
 .home-section {
   margin-bottom: 25px;
+  overflow: hidden;
 }
 
 .home-section h2 {
@@ -1139,6 +1140,11 @@ a.pub-entry-link .pub-title {
 
   .profile-icons {
     justify-content: center;
+  }
+
+  .sidebar-recent-pubs,
+  .profile-logos {
+    display: none;
   }
 
   #region-content {
