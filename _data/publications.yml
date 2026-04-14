@@ -35,37 +35,39 @@
     Homes'
   slug: care-workers-risk-work-how-nannies-manage-invisible-threats-employers-homes
   authors: Seungmin Jeong, Jamie Lee, Myeong Lee, Yunan Chen
-  venue: "[forthcoming] Proceedings of the CHI Conference on Human Factors in Computing
-    Systems (CHI '26). Apr. 13-17. Barcelona, Spain"
+  venue: "Proceedings of the 2026 CHI Conference on Human Factors in Computing
+    Systems (CHI ‘26). pp. 1-19. Apr. 13-17. Barcelona, Spain"
   publication_type: Full Paper
   thumbnail: "/assets/images/publications/nanny.jpeg"
+  link: "https://doi.org/10.1145/3772318.3791901"
   body: "<p>Extending prior HCI and CSCW research on invisible challenges that domestic
     care workers face, we examine how childcare workers, particularly nannies, experience
     and manage workplace risks. Drawing on interviews with 21 full-time nannies, we
     identified three interrelated risks—physical, emotional, and financial—arising
     from structural and relational constraints in employers’ homes. Through the lens
     of risk work, we show how these multi-dimensional constraints create tensions
-    that hinder nannies' direct risk mitigation strategies. This often compels them
+    that hinder nannies’ direct risk mitigation strategies. This often compels them
     to prioritize indirect risk management to avoid tensions, leaving risks themselves
     unresolved. We underscore that these practices consequently leave risks and tensions
     invisible. Our study highlights the need for sociotechnical interventions that
     support both direct and indirect strategies while addressing the underlying constraints
     through enhanced public awareness, thereby making domestic childcare workers’
     workplace risks more visible and better understood.</p>"
-  citation: 'Jeong, S., Lee, J., Lee, M., & Chen, Y. (forthcoming). Care Workers''
-    Risk Work: How Nannies Manage Invisible Threats in Employers'' Homes. <em>Proceedings
-    of the CHI Conference on Human Factors in Computing Systems (CHI ''26)</em>, Apr.
-    13-17. Barcelona, Spain.'
+  citation: ‘Jeong, S., Lee, J., Lee, M., & Chen, Y. (2026). Care Workers’’
+    Risk Work: How Nannies Manage Invisible Threats in Employers’’ Homes. <em>Proceedings
+    of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ‘’26)</em>, pp. 1-19. Apr.
+    13-17. Barcelona, Spain. <a href="https://doi.org/10.1145/3772318.3791901">https://doi.org/10.1145/3772318.3791901</a>’
 - year: 2026
   title: 'Designing for Upstream Work: Learnings from Co-Design for Preventative Solutions
     with Urban Fire Departments'
   slug: designing-for-upstream-work-learnings-from-co-design-for-preventative-solutions
   authors: Rachel Warren, Ruchita Mandhre, Hiba Siraj, G. Mauricio Mejia, Myeong Lee,
     Yunan Chen, Kathleen Pine
-  venue: "[forthcoming] Proceedings of the CHI Conference on Human Factors in Computing
-    Systems (CHI '26). Apr. 13-17. Barcelona, Spain"
+  venue: "Proceedings of the 2026 CHI Conference on Human Factors in Computing
+    Systems (CHI '26). pp. 1-17. Apr. 13-17. Barcelona, Spain"
   publication_type: Full Paper
   thumbnail: "/assets/images/publications/fig2.jpeg"
+  link: "https://doi.org/10.1145/3772318.3791677"
   body: "<p>Public health and social welfare fields increasingly recognize the need
     for preventative interventions that address root causes rather than respond to
     emergent problems – yet face significant challenges in designing tools and demonstrating
@@ -80,10 +82,10 @@
     of alternate EMS response programs for different stakeholder audiences, and detail
     good practices for designing to support local and community based upstream initiatives.  </p>"
   citation: 'Warren, R., Mandhre, R., Siraj, H., Mejia, G. M., Lee, M., Chen, Y.,
-    & Pine, K. (forthcoming). Designing for Upstream Work: Learnings from Co-Design
+    & Pine, K. (2026). Designing for Upstream Work: Learnings from Co-Design
     for Preventative Solutions with Urban Fire Departments. <em>Proceedings of the
-    CHI Conference on Human Factors in Computing Systems (CHI ''26)</em>, Apr. 13-17.
-    Barcelona, Spain.'
+    2026 CHI Conference on Human Factors in Computing Systems (CHI ''26)</em>, pp. 1-17. Apr. 13-17.
+    Barcelona, Spain. <a href="https://doi.org/10.1145/3772318.3791677">https://doi.org/10.1145/3772318.3791677</a>'
 - year: 2026
   title: 'Local News at a Distance: Psychological Distance and the Formation of News
     Deserts'
