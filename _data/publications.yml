@@ -39,7 +39,7 @@
     Systems (CHI ‘26). Article 345, pp. 1-19. Apr. 13-17. Barcelona, Spain"
   publication_type: Full Paper
   thumbnail: "/assets/images/publications/nanny.jpeg"
-  link: "https://doi.org/10.1145/3772318.3791901"
+  external_link: "https://doi.org/10.1145/3772318.3791901"
   body: "<p>Extending prior HCI and CSCW research on invisible challenges that domestic
     care workers face, we examine how childcare workers, particularly nannies, experience
     and manage workplace risks. Drawing on interviews with 21 full-time nannies, we
@@ -64,7 +64,7 @@
     Systems (CHI '26). Article 519, pp. 1-17. Apr. 13-17. Barcelona, Spain"
   publication_type: Full Paper
   thumbnail: "/assets/images/publications/fig2.jpeg"
-  link: "https://doi.org/10.1145/3772318.3791677"
+  external_link: "https://doi.org/10.1145/3772318.3791677"
   body: "<p>Public health and social welfare fields increasingly recognize the need
     for preventative interventions that address root causes rather than respond to
     emergent problems – yet face significant challenges in designing tools and demonstrating
