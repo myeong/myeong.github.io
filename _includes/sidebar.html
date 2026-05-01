@@ -13,25 +13,20 @@
     <a href="https://twitter.com/deeperlee" title="Twitter"><img src="{{ '/assets/images/icons/twitter.png' | relative_url }}" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/myeonglee/" title="LinkedIn"><img src="{{ '/assets/images/icons/linkedin.jpg' | relative_url }}" alt="LinkedIn"></a>
   </div>
+</div>
 
-  {% if page.url == '/' %}
-  <div class="news-sidebar">
-    <h3>News</h3>
-    {% assign display_news = site.data.news | slice: 0, 9 %}
-    {% for item in display_news %}
-    <div class="news-item">
-      <span class="news-date">{{ item.date }}</span>
-      <p>{{ item.text }}{% if item.link %} <a href="{{ item.link }}" target="_blank" class="news-link-icon" title="Open link"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>{% endif %}</p>
-    </div>
-    {% endfor %}
-    <div class="more-link">
-      <a href="{{ '/news/' | relative_url }}">Read More News</a>
-    </div>
+{% if page.url == '/' %}
+<div class="news-sidebar">
+  <h3>News</h3>
+  {% assign display_news = site.data.news | slice: 0, 9 %}
+  {% for item in display_news %}
+  <div class="news-item">
+    <span class="news-date">{{ item.date }}</span>
+    <p>{{ item.text }}{% if item.link %} <a href="{{ item.link }}" target="_blank" class="news-link-icon" title="Open link"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>{% endif %}</p>
   </div>
-  {% endif %}
-
-  <div class="profile-logos">
-    <a href="https://cil.cec.gmu.edu" target="_blank"><img src="{{ '/assets/images/cil_logo.png' | relative_url }}" alt="CIL Logo" class="logo-cil"></a>
-    <a href="https://orcid.org/0000-0001-7195-3966" target="_blank"><img src="{{ '/assets/images/orcid-logo.png' | relative_url }}" alt="ORCID" class="logo-orcid"></a>
+  {% endfor %}
+  <div class="more-link">
+    <a href="{{ '/news/' | relative_url }}">Read More News</a>
   </div>
 </div>
+{% endif %}
