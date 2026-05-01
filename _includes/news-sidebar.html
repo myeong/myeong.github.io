@@ -9,16 +9,16 @@
   {% endfor %}
 </div>
 
-<div class="news-sidebar">
-  <h3>News</h3>
-  {% assign display_news = site.data.news | slice: 0, 9 %}
-  {% for item in display_news %}
-  <div class="news-item">
-    <span class="news-date">{{ item.date }}</span>
-    <p>{{ item.text }}{% if item.link %} <a href="{{ item.link }}" target="_blank" class="news-link-icon" title="Open link"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>{% endif %}</p>
-  </div>
-  {% endfor %}
-  <div class="more-link">
-    <a href="{{ '/news/' | relative_url }}">Read More News</a>
-  </div>
+<div class="sidebar-section sidebar-recent-pubs">
+  <h3>Recent Publications</h3>
+  <ul class="sidebar-list">
+    {% assign recent_pubs = site.data.publications | slice: 0, 7 %}
+    {% for pub in recent_pubs %}
+    <li>
+      {% if pub.slug %}<a href="{{ '/publications/' | append: pub.slug | append: '/' | relative_url }}">{% endif %}
+      {{ pub.title }}
+      {% if pub.slug %}</a>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
 </div>
