@@ -882,7 +882,7 @@
     Myeong Lee
   venue: iConference 2023 Proceedings. March 27-29. Barcelona, Spain.
   publication_type: Extended Abstract
-  award_note: Award for Best Poster, Finalists (top-5)
+  award_note: Award for Best Poster, Runner-Up (top-5)
   thumbnail: "/assets/images/publications/Beauty.png"
   body: "<p>Online videos such as those streamed through YouTube are largely produced
     by individual users rather than traditional mass media, partly due to the incentive
@@ -913,7 +913,7 @@
   slug: towards-an-expectation-oriented-model-of-public-service-quality-a-preliminary
   authors: Julia H.P. Hsu, Jieshu Wang, Myeong Lee
   venue: International Conference on Social Informatics (SocInfo '22). LNCS 13618.
-    pp. 499-508. Springer. Oct 19-22. Glasgow, U.K.
+    pp. 447-458. Springer. Oct 19-22. Glasgow, U.K.
   publication_type: Short Paper
   thumbnail: "/assets/images/publications/nyc311.png"
   body: "<p>The 311 system has been deployed in many U.S. cities to manage non-emergency
@@ -932,7 +932,7 @@
   external_link: https://link.springer.com/chapter/10.1007/978-3-031-19097-1_31
   citation: 'Hsu, J. H. P., Wang, J., & Lee, M. (2022). Towards an Expectation-Oriented
     Model of Public Service Quality: A Preliminary Study of NYC 311. <em>International
-    Conference on Social Informatics (SocInfo ''22)</em>, LNCS 13618. pp. 499-508.
+    Conference on Social Informatics (SocInfo ''22)</em>, LNCS 13618. pp. 447-458.
     Springer. Oct 19-22. Glasgow, U.K. <a href="https://link.springer.com/chapter/10.1007/978-3-031-19097-1_31">https://link.springer.com/chapter/10.1007/978-3-031-19097-1_31</a>'
 - year: 2022
   title: Exploring Secondary Teachers' Needs and Values in Culturally Responsive Teaching
@@ -1397,7 +1397,7 @@
   slug: how-are-information-deserts-created-a-theory-of-local-information-landscapes
   authors: Myeong Lee, Brian S. Butler
   venue: Journal of the Association for Information Science and Technology (JASIST),
-    70(2). 101-116.
+    70(2). 101-119.
   publication_type: Full Paper
   award_note: Dean's Award for an Outstanding Doctoral Student Paper
   thumbnail: "/assets/images/publications/figure5.jpg"
@@ -1430,7 +1430,7 @@
     in local communities. </p>"
   citation: Lee, M. & Butler, B. S. (2019). How are Information Deserts Created? A
     Theory of Local Information Landscapes. <em>Journal of the Association for Information
-    Science and Technology (JASIST)</em>, 70(2). 101-116. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114">https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114</a>
+    Science and Technology (JASIST)</em>, 70(2). 101-119. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114">https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114</a>
   external_link: https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.24114
 - year: 2018
   title: Identifying Urban Neighborhood Names through User-contributed Online Property
